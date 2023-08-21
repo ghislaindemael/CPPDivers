@@ -1,0 +1,7 @@
+# ninja log v5
+1	913	7143275587953118	CMakeFiles/C__Divers.dir/philosophers.cpp.obj	63f8049db5439906
+8	469	7143262748165657	CMakeFiles/C__Divers.dir/main.cpp.obj	1d11c7764982341d
+914	1057	7143275589146328	C__Divers.exe	5a58336f1cb5d283
+6	49	7143280212659798	CMakeFiles/C__Divers.dir/main.cpp.obj	cf223810e2ed2ecf
+1	806	7143280220204307	CMakeFiles/C__Divers.dir/philosophers.cpp.obj	410bda6e117ba3e7
+806	1116	7143280223170366	C__Divers.exe	5a58336f1cb5d283
