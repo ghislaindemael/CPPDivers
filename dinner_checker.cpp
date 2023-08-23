@@ -83,9 +83,14 @@ void numChopsticksToEat(std::vector<std::vector<std::string>> &linesList, std::o
         reviewFile << philosopher << " ate with:\t";
         for (int chopstick : chopsticks) {
             reviewFile << " " << chopstick;
+            if(chopstick < 2){
+                std::cout << "Error : ate with less than chopsticks in hand.";
+                exit(-1);
+            }
         }
         reviewFile << " chopsticks in hand.\n";
     }
+    std::cout << "No illegal eating action detected.\n";
 
     for (const auto& entry : thinkCount) {
         const std::string& philosopher = entry.first;
@@ -94,9 +99,14 @@ void numChopsticksToEat(std::vector<std::vector<std::string>> &linesList, std::o
         reviewFile << philosopher << " thought with\t";
         for (int chopstick : chopsticks) {
             reviewFile << " " << chopstick;
+            if(chopstick > 0){
+                std::cout << "Error : thought with chopsticks in hand.";
+                exit(-1);
+            }
         }
         reviewFile << " chopsticks in hand.\n";
     }
+    std::cout << "No illegal thinking action detected.\n";
 }
 
 int checkDinner(const std::string& dinner_id) {
