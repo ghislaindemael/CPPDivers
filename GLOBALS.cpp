@@ -4,4 +4,4 @@
 #include "GLOBALS.h"
 #include <string>
 
-std::string projectDir {R"(Your project dir)"};
+std::string projectDir {R"(C:\Users\ghisl\OneDrive\Informatique perso\CPPDivers\)"};

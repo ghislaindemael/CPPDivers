@@ -110,6 +110,7 @@ void numChopsticksToEat(std::vector<std::vector<std::string>> &linesList, std::o
 }
 
 int checkDinner(const std::string& dinner_id) {
+    std::cout << "Starting review of dinner: " << dinner_id << ".\n";
     std::ifstream logFile(projectDir + "dinners/" + dinner_id + "_log");
     std::ofstream reviewFile(projectDir + "dinners/" + dinner_id + "_review", std::ios::app);
 
@@ -135,7 +136,6 @@ int checkDinner(const std::string& dinner_id) {
             while (iss >> word) {
                 words.push_back(word);
             }
-
             linesList.push_back(words);
         }
     }

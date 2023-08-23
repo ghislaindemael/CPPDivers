@@ -6,6 +6,7 @@
 #include <filesystem>
 #include <fstream>
 #include <queue>
+#include <iostream>
 
 #include "GLOBALS.h"
 
@@ -139,7 +140,7 @@ public:
         : m_id {i_id }, m_timeToEat {i_tteat }, m_timeToThink { i_ttthink }, m_left_chop {std::move(i_lchop) },
             m_right_chop {std::move(i_rchop) }, m_logger { std::move(i_logptr) }, m_mainThread {std::thread(&Philosopher::dine, this) }
           {
-              m_logger->logSeatAtTable(m_id);
+
           }
 
     void leaveTable(){
@@ -181,6 +182,7 @@ public:
         }
     }
     void dine(){
+        m_logger->logSeatAtTable(m_id);
         while (m_isSeated){
             if(pickupChopstick(m_left_chop)){
                 if(pickupChopstick(m_right_chop)){
@@ -201,7 +203,6 @@ public:
 
 int dinner(const std::string& dinner_id, int numPhilo, int dinnerTime, int timeToEat, int timeToThink){
     {
-
         std::shared_ptr<ThreadSafeLogger> loggerPtr{
                 std::make_shared<ThreadSafeLogger>(projectDir + "dinners/" + dinner_id)};
 
@@ -212,10 +213,15 @@ int dinner(const std::string& dinner_id, int numPhilo, int dinnerTime, int timeT
 
         std::vector<std::unique_ptr<Philosopher>> philosophers;
         for (int i = 0; i < numPhilo; ++i) {
+            if(i % 500 == 0){
+                std::cout << i << " ";
+            }
+
             philosophers.push_back(
                     std::make_unique<Philosopher>(i, timeToEat, timeToThink, chopsticks[i], chopsticks[(i + 1) % numPhilo],
                                                   loggerPtr));
         }
+        std::cout << "\n";
 
         std::this_thread::sleep_for(std::chrono::seconds(dinnerTime));
         for (int i = 0; i < numPhilo; ++i) {
@@ -227,5 +233,6 @@ int dinner(const std::string& dinner_id, int numPhilo, int dinnerTime, int timeT
         }
 
     }
+    std::cout << "Dinner ended.\n";
     return 0;
 }
