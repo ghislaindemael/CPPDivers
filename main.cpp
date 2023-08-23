@@ -7,22 +7,28 @@
 
 int main(int argc, char** argv) {
     std::cout << argv[0] << " " << argv[1] << "\n";
-    if(argc != 6){
+    if(argc != 8){
         std::cout << "Wrong number of arguments passed.\n";
-        std::cout << "Right format is : main dinId, genDinner, numPhilo, timeToEat, chkDinner,\n";
-        std::cout << "where dinId, numPhilo and timeToEat are of type int and genDinner, chkDinner are booleans.\n";
+        std::cout << "Right format is : main dinId, genDinner, numPhilo, dinnerTime, timeToEat, timeToThink, chkDinner.\n";
+        exit(-1);
     } else {
-        int numPhilo;
-        int timeToEat;
         bool genDinner;
+        int numPhilo;
+        int dinnerTime;
+        int timeToEat;
+        int timeToThink;
         bool chkDinner;
         std::string tempGen = argv[2];
-        std::string tempChk = argv[5];
+        std::string tempChk = argv[7];
         try {
+            if (!(std::filesystem::exists(projectDir) && std::filesystem::is_directory(projectDir))) {
+                throw std::exception();
+            }
             numPhilo = std::stoi(argv[3]);
-            timeToEat = std::stoi(argv[4]);
+            dinnerTime = std::stoi(argv[4]);
+            timeToEat = std::stoi(argv[5]);
+            timeToThink = std::stoi(argv[6]);
             if(!(tempGen == "true" || tempGen == "false") || !(tempChk == "true" || tempChk == "false")){
-                std::cout << "Error converting the booleans.\n";
                 throw std::exception();
             } else {
                 genDinner = tempGen == "true";
@@ -30,9 +36,10 @@ int main(int argc, char** argv) {
             }
         } catch (...) {
             std::cout << "Invalid parameters entered";
+            exit(-1);
         }
         if(genDinner){
-            dinner(argv[1], numPhilo, timeToEat);
+            dinner(argv[1], numPhilo, dinnerTime, timeToEat, timeToThink);
         }
         if(chkDinner){
             std::string filePath = projectDir + "dinners/" + argv[1] + "_log";
@@ -44,8 +51,6 @@ int main(int argc, char** argv) {
             }
         }
     }
-
-
 
     return 0;
 }

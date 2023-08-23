@@ -6,42 +6,7 @@
 #include <map>
 #include "GLOBALS.h"
 
-void chopstickInteractions(std::vector<std::vector<std::string>> &linesList);
-void numChopsticksToEat(std::vector<std::vector<std::string>> &linesList);
-
-int checkDinner(std::string dinner_id) {
-    std::ifstream logFile(projectDir + "dinners/" + dinner_id + "_log");
-    if (!logFile.is_open()) {
-        std::cerr << "Failed to open log file." << std::endl;
-        return 1;
-    }
-
-    std::vector<std::vector<std::string>> linesList;
-    std::string line;
-
-    while (std::getline(logFile, line)) {
-        if (!line.empty()) {
-            std::istringstream iss(line);
-            std::string word;
-            std::vector<std::string> words;
-
-            while (iss >> word) {
-                words.push_back(word);
-            }
-
-            linesList.push_back(words);
-        }
-    }
-
-    logFile.close();
-
-    chopstickInteractions(linesList);
-    numChopsticksToEat(linesList);
-
-    return 0;
-}
-
-void chopstickInteractions(std::vector<std::vector<std::string>> &linesList) {
+void chopstickInteractions(std::vector<std::vector<std::string>> &linesList, std::ofstream& reviewFile) {
     std::map<std::string, std::map<std::string, int>> failCount;
     std::map<std::string, std::map<std::string, int>> pickCount;
     std::map<std::string, std::map<std::string, int>> dropCount;
@@ -67,7 +32,7 @@ void chopstickInteractions(std::vector<std::vector<std::string>> &linesList) {
         const std::map<std::string, int>& dropMap = dropCount[philosopher];
         const std::map<std::string, int>& failMap = failCount[philosopher];
 
-        std::cout << philosopher << ":" << std::endl;
+        reviewFile << philosopher << ":" << std::endl;
         for (const auto& pickEntry : pickMap) {
             const std::string& chopstick = pickEntry.first;
             int pickCount = pickEntry.second;
@@ -78,12 +43,12 @@ void chopstickInteractions(std::vector<std::vector<std::string>> &linesList) {
             auto failCountIter = failMap.find(chopstick);
             int failCount = (failCountIter != failMap.end()) ? failCountIter->second : 0;
 
-            std::cout << " Chopstick " << chopstick << ": Picked up " << pickCount << ", Dropped " << dropCount << ", Failed " << failCount <<"\n";
+            reviewFile << " Chopstick " << chopstick << ": Picked up " << pickCount << ", Dropped " << dropCount << ", Failed " << failCount <<"\n";
         }
     }
 }
 
-void numChopsticksToEat(std::vector<std::vector<std::string>> &linesList){
+void numChopsticksToEat(std::vector<std::vector<std::string>> &linesList, std::ofstream& reviewFile) {
 
     std::map<std::string, int> numChopSticks;
     std::map<std::string, std::vector<int>> thinkCount;
@@ -115,23 +80,63 @@ void numChopsticksToEat(std::vector<std::vector<std::string>> &linesList){
         const std::string& philosopher = entry.first;
         const std::vector<int>& chopsticks = entry.second;
 
-        std::cout << philosopher << " ate with:\t";
+        reviewFile << philosopher << " ate with:\t";
         for (int chopstick : chopsticks) {
-            std::cout << " " << chopstick;
+            reviewFile << " " << chopstick;
         }
-        std::cout << " chopsticks in hand.\n";
+        reviewFile << " chopsticks in hand.\n";
     }
 
     for (const auto& entry : thinkCount) {
         const std::string& philosopher = entry.first;
         const std::vector<int>& chopsticks = entry.second;
 
-        std::cout << philosopher << " thought with\t";
+        reviewFile << philosopher << " thought with\t";
         for (int chopstick : chopsticks) {
-            std::cout << " " << chopstick;
+            reviewFile << " " << chopstick;
         }
-        std::cout << " chopsticks in hand.\n";
+        reviewFile << " chopsticks in hand.\n";
+    }
+}
+
+int checkDinner(const std::string& dinner_id) {
+    std::ifstream logFile(projectDir + "dinners/" + dinner_id + "_log");
+    std::ofstream reviewFile(projectDir + "dinners/" + dinner_id + "_review", std::ios::app);
+
+    if (!logFile.is_open()) {
+        std::cerr << "Failed to open log file.\n";
+        exit(-1);
     }
 
+    if (!reviewFile.is_open()) {
+        std::cerr << "Failed to open log file.\n";
+        exit(-1);
+    }
+
+    std::vector<std::vector<std::string>> linesList;
+    std::string line;
+
+    while (std::getline(logFile, line)) {
+        if (!line.empty()) {
+            std::istringstream iss(line);
+            std::string word;
+            std::vector<std::string> words;
+
+            while (iss >> word) {
+                words.push_back(word);
+            }
+
+            linesList.push_back(words);
+        }
+    }
+
+    logFile.close();
+
+    chopstickInteractions(linesList, reviewFile);
+    numChopsticksToEat(linesList, reviewFile);
+
+    reviewFile.close();
+
+    return 0;
 }
 

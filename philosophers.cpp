@@ -199,7 +199,7 @@ public:
     }
 };
 
-int dinner(const std::string& dinner_id, int numPhilo, int timeToEat){
+int dinner(const std::string& dinner_id, int numPhilo, int dinnerTime, int timeToEat, int timeToThink){
     {
 
         std::shared_ptr<ThreadSafeLogger> loggerPtr{
@@ -213,11 +213,11 @@ int dinner(const std::string& dinner_id, int numPhilo, int timeToEat){
         std::vector<std::unique_ptr<Philosopher>> philosophers;
         for (int i = 0; i < numPhilo; ++i) {
             philosophers.push_back(
-                    std::make_unique<Philosopher>(i, timeToEat, 150, chopsticks[i], chopsticks[(i + 1) % numPhilo],
+                    std::make_unique<Philosopher>(i, timeToEat, timeToThink, chopsticks[i], chopsticks[(i + 1) % numPhilo],
                                                   loggerPtr));
         }
 
-        std::this_thread::sleep_for(std::chrono::seconds(10));
+        std::this_thread::sleep_for(std::chrono::seconds(dinnerTime));
         for (int i = 0; i < numPhilo; ++i) {
             philosophers[i]->leaveTable();
         }

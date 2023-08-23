@@ -5,6 +5,6 @@
 #ifndef C__DIVERS_DINNER_CHECKER_H
 #define C__DIVERS_DINNER_CHECKER_H
 
-int checkDinner(std::string dinner_id);
+int checkDinner(const std::string& dinner_id);
 
 #endif //C__DIVERS_DINNER_CHECKER_H
