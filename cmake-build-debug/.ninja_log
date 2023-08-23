@@ -1,7 +1,21 @@
 # ninja log v5
-1	913	7143275587953118	CMakeFiles/C__Divers.dir/philosophers.cpp.obj	63f8049db5439906
-8	469	7143262748165657	CMakeFiles/C__Divers.dir/main.cpp.obj	1d11c7764982341d
-914	1057	7143275589146328	C__Divers.exe	5a58336f1cb5d283
-6	49	7143280212659798	CMakeFiles/C__Divers.dir/main.cpp.obj	cf223810e2ed2ecf
-1	806	7143280220204307	CMakeFiles/C__Divers.dir/philosophers.cpp.obj	410bda6e117ba3e7
-806	1116	7143280223170366	C__Divers.exe	5a58336f1cb5d283
+0	1812	7144878268051575	CMakeFiles/C__Divers.dir/philosophers.cpp.obj	410bda6e117ba3e7
+6	1635	7144878266278741	CMakeFiles/C__Divers.dir/main.cpp.obj	cf223810e2ed2ecf
+1129	1307	7144837888583520	C__Divers.exe	72dad27eed43952e
+13	1027	7144878260205748	CMakeFiles/C__Divers.dir/dinner_checker.cpp.obj	f76bd82d9a2b41cd
+13	656	7144880149464230	CMakeFiles/C__Divers.dir/GLOBALS.cpp.obj	7b2eea87f8d4c275
+9	1128	7144880154191588	CMakeFiles/C__Divers.dir/dinner_checker.cpp.obj	f76bd82d9a2b41cd
+0	1958	7144880162480301	CMakeFiles/C__Divers.dir/main.cpp.obj	cf223810e2ed2ecf
+5	2161	7144880164502508	CMakeFiles/C__Divers.dir/philosophers.cpp.obj	410bda6e117ba3e7
+2161	2435	7144880166942446	C__Divers.exe	40b9853d09da1acc
+0	1634	7144884215297199	CMakeFiles/C__Divers.dir/main.cpp.obj	cf223810e2ed2ecf
+1634	1786	7144884216538772	C__Divers.exe	40b9853d09da1acc
+1	1654	7144886491880730	CMakeFiles/C__Divers.dir/main.cpp.obj	cf223810e2ed2ecf
+1655	1907	7144886494105653	C__Divers.exe	40b9853d09da1acc
+0	1664	7144890237248874	CMakeFiles/C__Divers.dir/main.cpp.obj	cf223810e2ed2ecf
+1664	1825	7144890238500224	C__Divers.exe	40b9853d09da1acc
+1	1817	7144893513987851	CMakeFiles/C__Divers.dir/philosophers.cpp.obj	410bda6e117ba3e7
+1818	1988	7144893515425577	C__Divers.exe	40b9853d09da1acc
+4	2040	7144900148434191	CMakeFiles/C__Divers.dir/main.cpp.obj	cf223810e2ed2ecf
+0	2110	7144900149135181	CMakeFiles/C__Divers.dir/philosophers.cpp.obj	410bda6e117ba3e7
+2110	2369	7144900151386851	C__Divers.exe	40b9853d09da1acc
