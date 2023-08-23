@@ -398,3 +398,503 @@ P96 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
 P97 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
 P98 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
 P99 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P0:
+ Chopstick C0.: Picked up 36, Dropped 36, Failed 12
+ Chopstick C1.: Picked up 24, Dropped 24, Failed 12
+P1:
+ Chopstick C1.: Picked up 35, Dropped 35, Failed 14
+ Chopstick C2.: Picked up 21, Dropped 21, Failed 14
+P10:
+ Chopstick C10.: Picked up 36, Dropped 36, Failed 13
+ Chopstick C11.: Picked up 21, Dropped 21, Failed 15
+P11:
+ Chopstick C11.: Picked up 34, Dropped 34, Failed 12
+ Chopstick C12.: Picked up 27, Dropped 27, Failed 7
+P12:
+ Chopstick C12.: Picked up 38, Dropped 38, Failed 9
+ Chopstick C13.: Picked up 24, Dropped 24, Failed 14
+P13:
+ Chopstick C13.: Picked up 33, Dropped 33, Failed 16
+ Chopstick C14.: Picked up 21, Dropped 21, Failed 12
+P14:
+ Chopstick C14.: Picked up 36, Dropped 36, Failed 10
+ Chopstick C15.: Picked up 25, Dropped 25, Failed 11
+P15:
+ Chopstick C15.: Picked up 32, Dropped 32, Failed 17
+ Chopstick C16.: Picked up 21, Dropped 21, Failed 11
+P16:
+ Chopstick C16.: Picked up 34, Dropped 34, Failed 15
+ Chopstick C17.: Picked up 22, Dropped 22, Failed 12
+P17:
+ Chopstick C17.: Picked up 30, Dropped 30, Failed 17
+ Chopstick C18.: Picked up 24, Dropped 24, Failed 6
+P18:
+ Chopstick C18.: Picked up 33, Dropped 33, Failed 17
+ Chopstick C19.: Picked up 20, Dropped 20, Failed 13
+P19:
+ Chopstick C19.: Picked up 30, Dropped 30, Failed 16
+ Chopstick C20.: Picked up 26, Dropped 26, Failed 4
+P2:
+ Chopstick C2.: Picked up 33, Dropped 33, Failed 15
+ Chopstick C3.: Picked up 23, Dropped 23, Failed 10
+P20:
+ Chopstick C20.: Picked up 31, Dropped 31, Failed 20
+ Chopstick C21.: Picked up 18, Dropped 18, Failed 13
+P21:
+ Chopstick C21.: Picked up 31, Dropped 31, Failed 17
+ Chopstick C22.: Picked up 23, Dropped 23, Failed 8
+P22:
+ Chopstick C22.: Picked up 31, Dropped 31, Failed 18
+ Chopstick C23.: Picked up 21, Dropped 21, Failed 10
+P23:
+ Chopstick C23.: Picked up 36, Dropped 36, Failed 11
+ Chopstick C24.: Picked up 23, Dropped 23, Failed 13
+P24:
+ Chopstick C24.: Picked up 34, Dropped 34, Failed 14
+ Chopstick C25.: Picked up 23, Dropped 23, Failed 11
+P25:
+ Chopstick C25.: Picked up 34, Dropped 34, Failed 16
+ Chopstick C26.: Picked up 20, Dropped 20, Failed 14
+P26:
+ Chopstick C26.: Picked up 32, Dropped 32, Failed 17
+ Chopstick C27.: Picked up 21, Dropped 21, Failed 11
+P27:
+ Chopstick C27.: Picked up 34, Dropped 34, Failed 13
+ Chopstick C28.: Picked up 23, Dropped 23, Failed 11
+P28:
+ Chopstick C28.: Picked up 30, Dropped 30, Failed 18
+ Chopstick C29.: Picked up 22, Dropped 22, Failed 8
+P29:
+ Chopstick C29.: Picked up 36, Dropped 36, Failed 11
+ Chopstick C30.: Picked up 25, Dropped 25, Failed 11
+P3:
+ Chopstick C3.: Picked up 36, Dropped 36, Failed 11
+ Chopstick C4.: Picked up 24, Dropped 24, Failed 12
+P30:
+ Chopstick C30.: Picked up 32, Dropped 32, Failed 15
+ Chopstick C31.: Picked up 23, Dropped 23, Failed 9
+P31:
+ Chopstick C31.: Picked up 32, Dropped 32, Failed 19
+ Chopstick C32.: Picked up 19, Dropped 19, Failed 13
+P32:
+ Chopstick C32.: Picked up 34, Dropped 34, Failed 13
+ Chopstick C33.: Picked up 24, Dropped 24, Failed 10
+P33:
+ Chopstick C33.: Picked up 34, Dropped 34, Failed 14
+ Chopstick C34.: Picked up 22, Dropped 22, Failed 12
+P34:
+ Chopstick C34.: Picked up 31, Dropped 31, Failed 17
+ Chopstick C35.: Picked up 22, Dropped 22, Failed 9
+P35:
+ Chopstick C35.: Picked up 32, Dropped 32, Failed 17
+ Chopstick C36.: Picked up 22, Dropped 22, Failed 10
+P36:
+ Chopstick C36.: Picked up 31, Dropped 31, Failed 15
+ Chopstick C37.: Picked up 25, Dropped 25, Failed 6
+P37:
+ Chopstick C37.: Picked up 33, Dropped 33, Failed 16
+ Chopstick C38.: Picked up 20, Dropped 20, Failed 13
+P38:
+ Chopstick C38.: Picked up 32, Dropped 32, Failed 17
+ Chopstick C39.: Picked up 21, Dropped 21, Failed 11
+P39:
+ Chopstick C39.: Picked up 32, Dropped 32, Failed 17
+ Chopstick C40.: Picked up 20, Dropped 20, Failed 12
+P4:
+ Chopstick C4.: Picked up 31, Dropped 31, Failed 19
+ Chopstick C5.: Picked up 19, Dropped 19, Failed 12
+P40:
+ Chopstick C40.: Picked up 34, Dropped 34, Failed 14
+ Chopstick C41.: Picked up 23, Dropped 23, Failed 11
+P41:
+ Chopstick C41.: Picked up 34, Dropped 34, Failed 12
+ Chopstick C42.: Picked up 25, Dropped 25, Failed 9
+P42:
+ Chopstick C42.: Picked up 35, Dropped 35, Failed 14
+ Chopstick C43.: Picked up 23, Dropped 23, Failed 12
+P43:
+ Chopstick C43.: Picked up 33, Dropped 33, Failed 16
+ Chopstick C44.: Picked up 21, Dropped 21, Failed 12
+P44:
+ Chopstick C44.: Picked up 35, Dropped 35, Failed 14
+ Chopstick C45.: Picked up 20, Dropped 20, Failed 15
+P45:
+ Chopstick C45.: Picked up 30, Dropped 30, Failed 19
+ Chopstick C46.: Picked up 22, Dropped 22, Failed 8
+P46:
+ Chopstick C46.: Picked up 32, Dropped 32, Failed 15
+ Chopstick C47.: Picked up 23, Dropped 23, Failed 9
+P47:
+ Chopstick C47.: Picked up 31, Dropped 31, Failed 17
+ Chopstick C48.: Picked up 23, Dropped 23, Failed 8
+P48:
+ Chopstick C48.: Picked up 35, Dropped 35, Failed 11
+ Chopstick C49.: Picked up 25, Dropped 25, Failed 10
+P49:
+ Chopstick C49.: Picked up 32, Dropped 32, Failed 15
+ Chopstick C50.: Picked up 25, Dropped 25, Failed 7
+P5:
+ Chopstick C5.: Picked up 33, Dropped 33, Failed 12
+ Chopstick C6.: Picked up 27, Dropped 27, Failed 6
+P50:
+ Chopstick C50.: Picked up 34, Dropped 34, Failed 14
+ Chopstick C51.: Picked up 23, Dropped 23, Failed 11
+P51:
+ Chopstick C51.: Picked up 29, Dropped 29, Failed 21
+ Chopstick C52.: Picked up 20, Dropped 20, Failed 9
+P52:
+ Chopstick C52.: Picked up 32, Dropped 32, Failed 16
+ Chopstick C53.: Picked up 22, Dropped 22, Failed 10
+P53:
+ Chopstick C53.: Picked up 32, Dropped 32, Failed 18
+ Chopstick C54.: Picked up 20, Dropped 20, Failed 12
+P54:
+ Chopstick C54.: Picked up 31, Dropped 31, Failed 17
+ Chopstick C55.: Picked up 22, Dropped 22, Failed 9
+P55:
+ Chopstick C55.: Picked up 33, Dropped 33, Failed 17
+ Chopstick C56.: Picked up 21, Dropped 21, Failed 12
+P56:
+ Chopstick C56.: Picked up 31, Dropped 31, Failed 16
+ Chopstick C57.: Picked up 24, Dropped 24, Failed 7
+P57:
+ Chopstick C57.: Picked up 34, Dropped 34, Failed 14
+ Chopstick C58.: Picked up 23, Dropped 23, Failed 11
+P58:
+ Chopstick C58.: Picked up 32, Dropped 32, Failed 15
+ Chopstick C59.: Picked up 25, Dropped 25, Failed 7
+P59:
+ Chopstick C59.: Picked up 33, Dropped 33, Failed 17
+ Chopstick C60.: Picked up 19, Dropped 19, Failed 14
+P6:
+ Chopstick C6.: Picked up 31, Dropped 31, Failed 19
+ Chopstick C7.: Picked up 19, Dropped 19, Failed 12
+P60:
+ Chopstick C60.: Picked up 33, Dropped 33, Failed 16
+ Chopstick C61.: Picked up 21, Dropped 21, Failed 12
+P61:
+ Chopstick C61.: Picked up 35, Dropped 35, Failed 12
+ Chopstick C62.: Picked up 25, Dropped 25, Failed 10
+P62:
+ Chopstick C62.: Picked up 34, Dropped 34, Failed 14
+ Chopstick C63.: Picked up 22, Dropped 22, Failed 12
+P63:
+ Chopstick C63.: Picked up 34, Dropped 34, Failed 14
+ Chopstick C64.: Picked up 23, Dropped 23, Failed 11
+P64:
+ Chopstick C64.: Picked up 33, Dropped 33, Failed 15
+ Chopstick C65.: Picked up 24, Dropped 24, Failed 9
+P65:
+ Chopstick C65.: Picked up 34, Dropped 34, Failed 13
+ Chopstick C66.: Picked up 24, Dropped 24, Failed 10
+P66:
+ Chopstick C66.: Picked up 34, Dropped 34, Failed 16
+ Chopstick C67.: Picked up 20, Dropped 20, Failed 14
+P67:
+ Chopstick C67.: Picked up 33, Dropped 33, Failed 14
+ Chopstick C68.: Picked up 23, Dropped 23, Failed 10
+P68:
+ Chopstick C68.: Picked up 34, Dropped 34, Failed 12
+ Chopstick C69.: Picked up 26, Dropped 26, Failed 8
+P69:
+ Chopstick C69.: Picked up 34, Dropped 34, Failed 17
+ Chopstick C70.: Picked up 18, Dropped 18, Failed 16
+P7:
+ Chopstick C7.: Picked up 34, Dropped 34, Failed 12
+ Chopstick C8.: Picked up 26, Dropped 26, Failed 8
+P70:
+ Chopstick C70.: Picked up 34, Dropped 34, Failed 12
+ Chopstick C71.: Picked up 27, Dropped 27, Failed 7
+P71:
+ Chopstick C71.: Picked up 32, Dropped 32, Failed 18
+ Chopstick C72.: Picked up 20, Dropped 20, Failed 12
+P72:
+ Chopstick C72.: Picked up 36, Dropped 36, Failed 12
+ Chopstick C73.: Picked up 23, Dropped 23, Failed 13
+P73:
+ Chopstick C73.: Picked up 32, Dropped 32, Failed 13
+ Chopstick C74.: Picked up 26, Dropped 26, Failed 6
+P74:
+ Chopstick C74.: Picked up 35, Dropped 35, Failed 15
+ Chopstick C75.: Picked up 19, Dropped 19, Failed 16
+P75:
+ Chopstick C75.: Picked up 32, Dropped 32, Failed 16
+ Chopstick C76.: Picked up 23, Dropped 23, Failed 9
+P76:
+ Chopstick C76.: Picked up 32, Dropped 32, Failed 15
+ Chopstick C77.: Picked up 23, Dropped 23, Failed 9
+P77:
+ Chopstick C77.: Picked up 37, Dropped 37, Failed 6
+ Chopstick C78.: Picked up 31, Dropped 31, Failed 6
+P78:
+ Chopstick C78.: Picked up 34, Dropped 34, Failed 12
+ Chopstick C79.: Picked up 25, Dropped 25, Failed 9
+P79:
+ Chopstick C79.: Picked up 34, Dropped 34, Failed 11
+ Chopstick C80.: Picked up 27, Dropped 27, Failed 7
+P8:
+ Chopstick C8.: Picked up 36, Dropped 36, Failed 13
+ Chopstick C9.: Picked up 20, Dropped 20, Failed 16
+P80:
+ Chopstick C80.: Picked up 31, Dropped 31, Failed 20
+ Chopstick C81.: Picked up 18, Dropped 18, Failed 13
+P81:
+ Chopstick C81.: Picked up 34, Dropped 34, Failed 12
+ Chopstick C82.: Picked up 25, Dropped 25, Failed 9
+P82:
+ Chopstick C82.: Picked up 34, Dropped 34, Failed 14
+ Chopstick C83.: Picked up 23, Dropped 23, Failed 11
+P83:
+ Chopstick C83.: Picked up 33, Dropped 33, Failed 14
+ Chopstick C84.: Picked up 24, Dropped 24, Failed 9
+P84:
+ Chopstick C84.: Picked up 33, Dropped 33, Failed 19
+ Chopstick C85.: Picked up 17, Dropped 17, Failed 16
+P85:
+ Chopstick C85.: Picked up 33, Dropped 33, Failed 13
+ Chopstick C86.: Picked up 25, Dropped 25, Failed 8
+P86:
+ Chopstick C86.: Picked up 32, Dropped 32, Failed 17
+ Chopstick C87.: Picked up 21, Dropped 21, Failed 11
+P87:
+ Chopstick C87.: Picked up 31, Dropped 31, Failed 17
+ Chopstick C88.: Picked up 22, Dropped 22, Failed 9
+P88:
+ Chopstick C88.: Picked up 37, Dropped 37, Failed 12
+ Chopstick C89.: Picked up 22, Dropped 22, Failed 15
+P89:
+ Chopstick C89.: Picked up 32, Dropped 32, Failed 15
+ Chopstick C90.: Picked up 24, Dropped 24, Failed 8
+P9:
+ Chopstick C10.: Picked up 21, Dropped 21, Failed 11
+ Chopstick C9.: Picked up 32, Dropped 32, Failed 17
+P90:
+ Chopstick C90.: Picked up 33, Dropped 33, Failed 15
+ Chopstick C91.: Picked up 23, Dropped 23, Failed 10
+P91:
+ Chopstick C91.: Picked up 33, Dropped 33, Failed 16
+ Chopstick C92.: Picked up 20, Dropped 20, Failed 13
+P92:
+ Chopstick C92.: Picked up 34, Dropped 34, Failed 15
+ Chopstick C93.: Picked up 21, Dropped 21, Failed 13
+P93:
+ Chopstick C93.: Picked up 36, Dropped 36, Failed 12
+ Chopstick C94.: Picked up 22, Dropped 22, Failed 14
+P94:
+ Chopstick C94.: Picked up 31, Dropped 31, Failed 18
+ Chopstick C95.: Picked up 20, Dropped 20, Failed 11
+P95:
+ Chopstick C95.: Picked up 35, Dropped 35, Failed 12
+ Chopstick C96.: Picked up 25, Dropped 25, Failed 10
+P96:
+ Chopstick C96.: Picked up 34, Dropped 34, Failed 13
+ Chopstick C97.: Picked up 24, Dropped 24, Failed 10
+P97:
+ Chopstick C97.: Picked up 32, Dropped 32, Failed 18
+ Chopstick C98.: Picked up 20, Dropped 20, Failed 12
+P98:
+ Chopstick C98.: Picked up 34, Dropped 34, Failed 12
+ Chopstick C99.: Picked up 26, Dropped 26, Failed 8
+P99:
+ Chopstick C0.: Picked up 21, Dropped 21, Failed 12
+ Chopstick C99.: Picked up 33, Dropped 33, Failed 16
+P0 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P1 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P10 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P11 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P12 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P13 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P14 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P15 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P16 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P17 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P18 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P19 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P2 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P20 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P21 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P22 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P23 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P24 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P25 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P26 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P27 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P28 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P29 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P3 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P30 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P31 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P32 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P33 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P34 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P35 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P36 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P37 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P38 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P39 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P4 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P40 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P41 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P42 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P43 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P44 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P45 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P46 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P47 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P48 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P49 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P5 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P50 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P51 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P52 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P53 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P54 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P55 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P56 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P57 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P58 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P59 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P6 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P60 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P61 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P62 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P63 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P64 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P65 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P66 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P67 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P68 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P69 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P7 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P70 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P71 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P72 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P73 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P74 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P75 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P76 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P77 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P78 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P79 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P8 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P80 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P81 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P82 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P83 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P84 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P85 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P86 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P87 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P88 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P89 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P9 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P90 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P91 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P92 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P93 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P94 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P95 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P96 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P97 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P98 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P99 ate with:	 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 chopsticks in hand.
+P0 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P1 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P10 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P11 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P12 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P13 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P14 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P15 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P16 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P17 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P18 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P19 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P2 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P20 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P21 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P22 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P23 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P24 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P25 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P26 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P27 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P28 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P29 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P3 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P30 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P31 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P32 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P33 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P34 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P35 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P36 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P37 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P38 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P39 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P4 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P40 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P41 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P42 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P43 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P44 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P45 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P46 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P47 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P48 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P49 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P5 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P50 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P51 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P52 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P53 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P54 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P55 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P56 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P57 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P58 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P59 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P6 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P60 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P61 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P62 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P63 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P64 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P65 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P66 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P67 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P68 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P69 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P7 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P70 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P71 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P72 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P73 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P74 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P75 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P76 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P77 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P78 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P79 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P8 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P80 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P81 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P82 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P83 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P84 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P85 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P86 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P87 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P88 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P89 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P9 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P90 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P91 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P92 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P93 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P94 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P95 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P96 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P97 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P98 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
+P99 thought with	 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 chopsticks in hand.
