@@ -110,7 +110,6 @@ void updateChopState(std::vector<std::string> words, std::map<std::string, bool>
             chopTaken[chopstick] = false;
         }
     }
-
 }
 
 void updatePhiloState(std::vector<std::string> words, std::map<std::string, PossibleStates>& states) {
@@ -126,7 +125,6 @@ void updatePhiloState(std::vector<std::string> words, std::map<std::string, Poss
         }
     } else if(action == "STOPS_EATING"){
         if(states[philosopher] != PossibleStates::EATING){
-            std::cout << states[philosopher] << "\n";
             std::cout << "Error: " << philosopher << " stops eating while not eating.\n";
         } else {
             states[philosopher] = PossibleStates::RESTING;
@@ -206,8 +204,9 @@ int checkDinner(const std::string& dinner_id) {
 
             reviewFile << chopstick << " -> ";
             reviewFile << "Picked: " << interactions[0] << ", ";
-            reviewFile << "Failed pick: " << interactions[1] << ", ";
-            reviewFile << "Dropped: " << interactions[2] <<"\n";
+            reviewFile << "Dropped: " << interactions[2] <<", ";
+            reviewFile << "Failed pick: " << interactions[1] << "\n";
+
         }
     }
 
