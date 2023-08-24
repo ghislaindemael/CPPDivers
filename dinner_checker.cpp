@@ -6,6 +6,14 @@
 #include <map>
 #include "GLOBALS.h"
 
+namespace {
+    enum PossibleStates {
+        RESTING,
+        THINKING,
+        EATING
+    };
+}
+
 int getNumberOfPhilosopher(std::ifstream& logFile){
     int highestID = -1;
     std::string line;
@@ -105,6 +113,43 @@ void updateChopState(std::vector<std::string> words, std::map<std::string, bool>
 
 }
 
+void updatePhiloState(std::vector<std::string> words, std::map<std::string, PossibleStates> states) {
+    const std::string& philosopher = words[3];
+    const std::string& action = words[4];
+    if(action == "SEATS"){
+        states[philosopher] = PossibleStates::RESTING;
+    } else if(action == "STARTS_EATING"){
+        if(states[philosopher] != PossibleStates::RESTING){
+            std::cout << "Error: " << philosopher << " start eating while eating or thinking.\n";
+        } else {
+            states[philosopher] = PossibleStates::EATING;
+        }
+    } else if(action == "STOPS_EATING"){
+        if(states[philosopher] != PossibleStates::EATING){
+            std::cout << states[philosopher] << "\n";
+            std::cout << "Error: " << philosopher << " stops eating while not eating.\n";
+        } else {
+            states[philosopher] = PossibleStates::RESTING;
+        }
+    } else if(action == "STARTS_THINKING"){
+        if(states[philosopher] != PossibleStates::RESTING){
+            std::cout << "Error: " << philosopher << " starts thinking while eating or thinking.\n";
+        } else {
+            states[philosopher] = PossibleStates::THINKING;
+        }
+    } else if(action == "STOPS_THINKING"){
+        if(states[philosopher] != PossibleStates::THINKING){
+            std::cout << "Error: " << philosopher << " stops thinking while not thinking.\n";
+        } else {
+            states[philosopher] = PossibleStates::RESTING;
+        }
+    } else if(action == "LEAVES"){
+        if(states[philosopher] != PossibleStates::RESTING){
+            std::cout << "Error: " << philosopher << " leaves while eating or thinking.\n";
+        }
+    }
+}
+
 int checkDinner(const std::string& dinner_id) {
     std::cout << "Starting review of dinner: " << dinner_id << ".\n";
     std::ifstream logFile(projectDir + "dinners/" + dinner_id + "_log");
@@ -129,6 +174,7 @@ int checkDinner(const std::string& dinner_id) {
     std::map<std::string, int> numChopSticks;
     std::map<std::string, std::vector<int>> eatCount;
     std::map<std::string, bool> chopstickTaken;
+    std::map<std::string, PossibleStates> philoState;
 
     std::string line;
     while (std::getline(logFile, line)) {
@@ -142,6 +188,7 @@ int checkDinner(const std::string& dinner_id) {
             }
 
             updateChopState(words, chopstickTaken);
+            updatePhiloState(words, philoState);
             recordChopInteractions(words, numberOfPhils, chopInteractions);
             twoChopsticksInHand(words, numChopSticks, eatCount);
         }
