@@ -6,127 +6,131 @@
 #include <map>
 #include "GLOBALS.h"
 
-void chopstickInteractions(std::vector<std::vector<std::string>> &linesList, std::ofstream& reviewFile) {
-    std::map<std::string, std::map<std::string, int>> failCount;
-    std::map<std::string, std::map<std::string, int>> pickCount;
-    std::map<std::string, std::map<std::string, int>> dropCount;
+int getNumberOfPhilosopher(std::ifstream& logFile){
+    int highestID = -1;
+    std::string line;
 
-    for (const auto& lineWords : linesList) {
-        std::string philosopher = lineWords[3];
-        std::string action = lineWords[4];
+    while (std::getline(logFile, line)) {
+        std::istringstream iss(line);
+        std::string word;
 
-        if (action == "picks") {
-            ++pickCount[philosopher][lineWords[7]];
-        } else if (action == "fails") {
-            ++failCount[philosopher][lineWords[9]];
-        } else if (action == "drops") {
-            ++dropCount[philosopher][lineWords[6]];
-        } else {
-            //Ignore
+        for (int i = 0; i < 4; ++i) {
+            iss >> word;
+        }
+
+        if (!word.empty() && word[0] == 'P') {
+            int id = std::stoi(word.substr(1));
+            highestID = std::max(highestID, id);
         }
     }
+    return highestID;
+}
 
-    for (const auto& philosopherEntry : pickCount) {
-        const std::string& philosopher = philosopherEntry.first;
-        const std::map<std::string, int>& pickMap = philosopherEntry.second;
-        const std::map<std::string, int>& dropMap = dropCount[philosopher];
-        const std::map<std::string, int>& failMap = failCount[philosopher];
+int getID(const std::string& id){
+    return std::stoi(id.substr(1));
+}
 
-        reviewFile << philosopher << ":" << std::endl;
-        for (const auto& pickEntry : pickMap) {
-            const std::string& chopstick = pickEntry.first;
-            int pickCount = pickEntry.second;
+void isInteractionLegal(const std::string& philosopher, const std::string& chopstick, int maxPhilID){
+    int philID { getID(philosopher) };
+    int chopID { getID(chopstick) };
+    if(!(chopID == philID || chopID == ((philID + 1) % (maxPhilID + 1)))){
+        std::cout << "Illegal: " << philosopher << " interacted with chopstick " << chopstick << ".\n";
+    }
 
-            auto dropCountIter = dropMap.find(chopstick);
-            int dropCount = (dropCountIter != dropMap.end()) ? dropCountIter->second : 0;
+}
 
-            auto failCountIter = failMap.find(chopstick);
-            int failCount = (failCountIter != failMap.end()) ? failCountIter->second : 0;
+void recordChopInteractions(const std::vector<std::string> &words, int maxPhilID,
+                            std::map<std::string, std::map<std::string, std::vector<int>>>& chopInteractions) {
+    const std::string& philosopher = words[3];
+    const std::string& action = words[4];
+    const std::string& chopstick = words[5];
 
-            reviewFile << " Chopstick " << chopstick << ": Picked up " << pickCount << ", Dropped " << dropCount << ", Failed " << failCount <<"\n";
+    auto& philosopherMap = chopInteractions[philosopher];
+    auto& interactions = philosopherMap[chopstick];
+
+    if (interactions.empty()) {
+        interactions = std::vector<int>(3, 0);
+    }
+
+    if (action == "PICKS") {
+        interactions[0]++;
+        isInteractionLegal(philosopher, chopstick, maxPhilID);
+    } else if (action == "FAILS_PICK") {
+        interactions[1]++;
+        isInteractionLegal(philosopher, chopstick, maxPhilID);
+    } else if (action == "DROPS") {
+        interactions[2]++;
+        isInteractionLegal(philosopher, chopstick, maxPhilID);
+    } else {
+        // Ignore
+    }
+
+}
+
+void twoChopsticksInHand(const std::vector<std::string>& words, std::map<std::string, int>& numChopsticks,
+                         std::map<std::string, std::vector<int>>& eatCount) {
+    const std::string& philosopher = words[3];
+    const std::string& action = words[4];
+
+    if (action == "PICKS") {
+        ++numChopsticks[philosopher];
+    } else if (action == "DROPS") {
+        --numChopsticks[philosopher];
+    } else if(action == "STARTS_EATING") {
+        int numChops { numChopsticks[philosopher] };
+        if(numChops != 2){
+            std::cout << "Error: " << philosopher << " ate with " << numChops << " in hand.\n";
+        } else {
+            eatCount[philosopher].push_back(numChops);
         }
     }
 }
 
-void numChopsticksToEat(std::vector<std::vector<std::string>> &linesList, std::ofstream& reviewFile) {
-
-    std::map<std::string, int> numChopSticks;
-    std::map<std::string, std::vector<int>> thinkCount;
-    std::map<std::string, std::vector<int>> eatCount;
-
-    for (const auto& lineWords : linesList) {
-        std::string philosopher = lineWords[3];
-        std::string action = lineWords[4];
-
-        if (action == "picks") {
-            ++numChopSticks[philosopher];
-        } else if (action == "drops") {
-            --numChopSticks[philosopher];
+void updateChopState(std::vector<std::string> words, std::map<std::string, bool>& chopTaken) {
+    const std::string& action = words[4];
+    const std::string& chopstick = words[5];
+    if(action == "PICKS"){
+        if(chopTaken[chopstick]){
+            std::cout << "Error: " << chopstick << " is already taken.\n";
         } else {
-            //Ignore
+            chopTaken[chopstick] = true;
         }
-
-        if(lineWords.size() >= 7){
-            std::string newAction = lineWords[6];
-            if (newAction == "eat.") {
-                eatCount[philosopher].push_back(numChopSticks[philosopher]);
-            } else if (newAction == "think.") {
-                thinkCount[philosopher].push_back(numChopSticks[philosopher]);
-            }
+    } else if(action == "DROPS"){
+        if(!chopTaken[chopstick]){
+            std::cout << "Error: " << chopstick << " is already dropped.\n";
+        } else {
+            chopTaken[chopstick] = false;
         }
     }
 
-    for (const auto& entry : eatCount) {
-        const std::string& philosopher = entry.first;
-        const std::vector<int>& chopsticks = entry.second;
-
-        reviewFile << philosopher << " ate with:\t";
-        for (int chopstick : chopsticks) {
-            reviewFile << " " << chopstick;
-            if(chopstick < 2){
-                std::cout << "Error : ate with less than chopsticks in hand.";
-                exit(-1);
-            }
-        }
-        reviewFile << " chopsticks in hand.\n";
-    }
-    std::cout << "No illegal eating action detected.\n";
-
-    for (const auto& entry : thinkCount) {
-        const std::string& philosopher = entry.first;
-        const std::vector<int>& chopsticks = entry.second;
-
-        reviewFile << philosopher << " thought with\t";
-        for (int chopstick : chopsticks) {
-            reviewFile << " " << chopstick;
-            if(chopstick > 0){
-                std::cout << "Error : thought with chopsticks in hand.";
-                exit(-1);
-            }
-        }
-        reviewFile << " chopsticks in hand.\n";
-    }
-    std::cout << "No illegal thinking action detected.\n";
 }
 
 int checkDinner(const std::string& dinner_id) {
     std::cout << "Starting review of dinner: " << dinner_id << ".\n";
     std::ifstream logFile(projectDir + "dinners/" + dinner_id + "_log");
-    std::ofstream reviewFile(projectDir + "dinners/" + dinner_id + "_review", std::ios::app);
+    std::ifstream logFileCopy(projectDir + "dinners/" + dinner_id + "_log");
+    std::ofstream reviewFile(projectDir + "dinners/" + dinner_id + "_review", std::ios::trunc);
 
     if (!logFile.is_open()) {
         std::cerr << "Failed to open log file.\n";
-        exit(-1);
+        return 1;
     }
 
     if (!reviewFile.is_open()) {
         std::cerr << "Failed to open log file.\n";
-        exit(-1);
+        return 1;
     }
 
-    std::vector<std::vector<std::string>> linesList;
-    std::string line;
+    int numberOfPhils { getNumberOfPhilosopher(logFileCopy) };
+    std::cout << "There were " << numberOfPhils << " philosophers at the dinner.\n";
+    logFileCopy.close();
 
+    std::map<std::string, std::map<std::string, std::vector<int>>> chopInteractions {};
+    std::map<std::string, int> numChopSticks;
+    std::map<std::string, std::vector<int>> eatCount;
+    std::map<std::string, bool> chopstickTaken;
+
+    std::string line;
     while (std::getline(logFile, line)) {
         if (!line.empty()) {
             std::istringstream iss(line);
@@ -136,15 +140,31 @@ int checkDinner(const std::string& dinner_id) {
             while (iss >> word) {
                 words.push_back(word);
             }
-            linesList.push_back(words);
+
+            updateChopState(words, chopstickTaken);
+            recordChopInteractions(words, numberOfPhils, chopInteractions);
+            twoChopsticksInHand(words, numChopSticks, eatCount);
+        }
+    }
+
+    for (const auto& philosopherEntry : chopInteractions) {
+        const std::string& philosopher = philosopherEntry.first;
+        const std::map<std::string, std::vector<int>>& chopstickMap = philosopherEntry.second;
+
+        reviewFile << philosopher << ":\n";
+
+        for (const auto& chopstickEntry : chopstickMap) {
+            const std::string& chopstick = chopstickEntry.first;
+            const std::vector<int>& interactions = chopstickEntry.second;
+
+            reviewFile << chopstick << " -> ";
+            reviewFile << "Picked: " << interactions[0] << ", ";
+            reviewFile << "Failed pick: " << interactions[1] << ", ";
+            reviewFile << "Dropped: " << interactions[2] <<"\n";
         }
     }
 
     logFile.close();
-
-    chopstickInteractions(linesList, reviewFile);
-    numChopsticksToEat(linesList, reviewFile);
-
     reviewFile.close();
 
     return 0;

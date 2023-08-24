@@ -40,62 +40,62 @@ public:
     }
 
     static std::string formatPID(int p_id) {
-        return "P" + std::to_string(p_id);
+        return "P" + (p_id < 10 ? '0' + std::to_string(p_id) : std::to_string(p_id));
     }
 
     static std::string formatCID(const std::shared_ptr<Chopstick>& chop){
-        return "C" + std::to_string(chop->id);
+        return "C" + (chop->id < 10 ? '0' + std::to_string(chop->id) : std::to_string(chop->id));
     }
 
     void logSeatAtTable(int p_id){
         std::lock_guard<std::mutex> lock(logMutex);
-        logQueue.push(getTimeDiff() + formatPID(p_id) + " takes a seat at the table.\n");
+        logQueue.push(getTimeDiff() + formatPID(p_id) + " SEATS XX\n");
         logCondition.notify_one();
     }
 
     void logLeavesTable(int p_id){
         std::lock_guard<std::mutex> lock(logMutex);
-        logQueue.push(getTimeDiff() + formatPID(p_id) + " leaves the table.\n");
+        logQueue.push(getTimeDiff() + formatPID(p_id) + " LEAVES XX\n");
         logCondition.notify_one();
     }
 
     void logStartEating(int p_id) {
         std::lock_guard<std::mutex> lock(logMutex);
-        logQueue.push(getTimeDiff() + formatPID(p_id) + " starts to eat.\n");
+        logQueue.push(getTimeDiff() + formatPID(p_id) + " STARTS_EATING XX\n");
         logCondition.notify_one();
     }
 
     void logFinishEating(int p_id) {
         std::lock_guard<std::mutex> lock(logMutex);
-        logQueue.push(getTimeDiff() + formatPID(p_id) + " finished eating.\n");
+        logQueue.push(getTimeDiff() + formatPID(p_id) + " STOPS_EATING XX\n");
         logCondition.notify_one();
     }
 
     void logStartThinking(int p_id) {
         std::lock_guard<std::mutex> lock(logMutex);
-        logQueue.push(getTimeDiff() + formatPID(p_id) + " starts to think.\n");
+        logQueue.push(getTimeDiff() + formatPID(p_id) + " STARTS_THINKING XX\n");
         logCondition.notify_one();
     }
 
     void logFinishThinking(int p_id) {
         std::lock_guard<std::mutex> lock(logMutex);
-        logQueue.push(getTimeDiff() + formatPID(p_id) + " finished thinking.\n");
+        logQueue.push(getTimeDiff() + formatPID(p_id) + " STOPS_THINKING XX\n");
         logCondition.notify_one();
     }
 
     void logPickupChopstick(int p_id, const std::shared_ptr<Chopstick>& chop, bool success){
         std::lock_guard<std::mutex> lock(logMutex);
         if(success){
-            logQueue.push(getTimeDiff() + formatPID(p_id) + " picks up chopstick " + formatCID(chop) + ".\n");
+            logQueue.push(getTimeDiff() + formatPID(p_id) + " PICKS " + formatCID(chop) + "\n");
         } else {
-            logQueue.push(getTimeDiff() + formatPID(p_id) + " fails to pick up chopstick " + formatCID(chop) + ".\n");
+            logQueue.push(getTimeDiff() + formatPID(p_id) + " FAILS_PICK " + formatCID(chop) + "\n");
         }
         logCondition.notify_one();
     }
 
     void logDropChopstick(int p_id, const std::shared_ptr<Chopstick>& chop){
         std::lock_guard<std::mutex> lock(logMutex);
-        logQueue.push(getTimeDiff() + formatPID(p_id) + " drops chopstick " + formatCID(chop) + ".\n");
+        logQueue.push(getTimeDiff() + formatPID(p_id) + " DROPS " + formatCID(chop) + "\n");
         logCondition.notify_one();
     }
 
@@ -127,7 +127,6 @@ private:
 class Philosopher {
     int m_id;
     bool m_isSeated { true };
-    int m_timesEaten { 0 };
     int m_timeToEat;
     int m_timeToThink;
     std::shared_ptr<Chopstick> m_left_chop;
@@ -151,7 +150,6 @@ public:
     }
 
     void eatSequence() {
-        ++m_timesEaten;
         m_logger->logStartEating(m_id);
         std::this_thread::sleep_for (std::chrono::milliseconds(m_timeToEat));
         m_logger->logFinishEating(m_id);
@@ -213,7 +211,7 @@ int dinner(const std::string& dinner_id, int numPhilo, int dinnerTime, int timeT
 
         std::vector<std::unique_ptr<Philosopher>> philosophers;
         for (int i = 0; i < numPhilo; ++i) {
-            if(i % 500 == 0){
+            if(i % 100 == 0){
                 std::cout << i << " ";
             }
 
