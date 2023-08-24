@@ -4,6 +4,7 @@
 #include <vector>
 #include <sstream>
 #include <map>
+#include <regex>
 #include "GLOBALS.h"
 
 namespace {
@@ -14,21 +15,28 @@ namespace {
     };
 }
 
-int getNumberOfPhilosopher(std::ifstream& logFile){
+bool isLogLineValid(const std::string& line, std::regex& pattern) {
+    return std::regex_match(line, pattern);
+}
+
+
+int getNumberOfPhilosopher(std::ifstream& logFile, std::regex pattern){
     int highestID = -1;
     std::string line;
 
     while (std::getline(logFile, line)) {
-        std::istringstream iss(line);
-        std::string word;
+        if(isLogLineValid(line, pattern)) {
+            std::istringstream iss(line);
+            std::string word;
 
-        for (int i = 0; i < 4; ++i) {
-            iss >> word;
-        }
+            for (int i = 0; i < 4; ++i) {
+                iss >> word;
+            }
 
-        if (!word.empty() && word[0] == 'P') {
-            int id = std::stoi(word.substr(1));
-            highestID = std::max(highestID, id);
+            if (!word.empty() && word[0] == 'P') {
+                int id = std::stoi(word.substr(1));
+                highestID = std::max(highestID, id);
+            }
         }
     }
     return highestID;
@@ -164,7 +172,9 @@ int checkDinner(const std::string& dinner_id) {
         return 1;
     }
 
-    int numberOfPhils { getNumberOfPhilosopher(logFileCopy) };
+    std::regex pattern(R"(\s*(\d+)\s*ms\s*\|\s*P(\d+)\s+(SEATS|LEAVES|PICKS|FAILS_PICK|DROPS|STARTS_THINKING|STOPS_THINKING|STARTS_EATING|STOPS_EATING)\s*(C\d+|XX)?\s*)");
+
+    int numberOfPhils { getNumberOfPhilosopher(logFileCopy, pattern) };
     std::cout << "There were " << numberOfPhils << " philosophers at the dinner.\n";
     logFileCopy.close();
 
@@ -175,20 +185,24 @@ int checkDinner(const std::string& dinner_id) {
     std::map<std::string, PossibleStates> philoState;
 
     std::string line;
+
     while (std::getline(logFile, line)) {
         if (!line.empty()) {
-            std::istringstream iss(line);
-            std::string word;
-            std::vector<std::string> words;
+            if(isLogLineValid(line, pattern)) {
+                std::istringstream iss(line);
+                std::string word;
+                std::vector<std::string> words;
 
-            while (iss >> word) {
-                words.push_back(word);
+                while (iss >> word) {
+                    words.push_back(word);
+                }
+                updateChopState(words, chopstickTaken);
+                updatePhiloState(words, philoState);
+                recordChopInteractions(words, numberOfPhils, chopInteractions);
+                twoChopsticksInHand(words, numChopSticks, eatCount);
+            } else {
+                std::cout << "\"" << line << "\" is not a valid log line.\n";
             }
-
-            updateChopState(words, chopstickTaken);
-            updatePhiloState(words, philoState);
-            recordChopInteractions(words, numberOfPhils, chopInteractions);
-            twoChopsticksInHand(words, numChopSticks, eatCount);
         }
     }
 

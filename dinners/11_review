@@ -1,400 +1,400 @@
 P00:
-C00 -> Picked: 147, Failed pick: 97, Dropped: 147
-C01 -> Picked: 86, Failed pick: 61, Dropped: 86
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C00 -> Picked: 147, Dropped: 147, Failed pick: 97
+C01 -> Picked: 86, Dropped: 86, Failed pick: 61
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P01:
-C01 -> Picked: 163, Failed pick: 78, Dropped: 163
-C02 -> Picked: 93, Failed pick: 70, Dropped: 93
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C01 -> Picked: 163, Dropped: 163, Failed pick: 78
+C02 -> Picked: 93, Dropped: 93, Failed pick: 70
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P02:
-C02 -> Picked: 146, Failed pick: 95, Dropped: 146
-C03 -> Picked: 91, Failed pick: 55, Dropped: 91
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C02 -> Picked: 146, Dropped: 146, Failed pick: 95
+C03 -> Picked: 91, Dropped: 91, Failed pick: 55
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P03:
-C03 -> Picked: 151, Failed pick: 83, Dropped: 151
-C04 -> Picked: 96, Failed pick: 55, Dropped: 96
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C03 -> Picked: 151, Dropped: 151, Failed pick: 83
+C04 -> Picked: 96, Dropped: 96, Failed pick: 55
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P04:
-C04 -> Picked: 143, Failed pick: 92, Dropped: 143
-C05 -> Picked: 95, Failed pick: 48, Dropped: 95
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C04 -> Picked: 143, Dropped: 143, Failed pick: 92
+C05 -> Picked: 95, Dropped: 95, Failed pick: 48
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P05:
-C05 -> Picked: 146, Failed pick: 93, Dropped: 146
-C06 -> Picked: 92, Failed pick: 54, Dropped: 92
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C05 -> Picked: 146, Dropped: 146, Failed pick: 93
+C06 -> Picked: 92, Dropped: 92, Failed pick: 54
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P06:
-C06 -> Picked: 145, Failed pick: 89, Dropped: 145
-C07 -> Picked: 97, Failed pick: 48, Dropped: 97
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C06 -> Picked: 145, Dropped: 145, Failed pick: 89
+C07 -> Picked: 97, Dropped: 97, Failed pick: 48
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P07:
-C07 -> Picked: 155, Failed pick: 99, Dropped: 155
-C08 -> Picked: 83, Failed pick: 72, Dropped: 83
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C07 -> Picked: 155, Dropped: 155, Failed pick: 99
+C08 -> Picked: 83, Dropped: 83, Failed pick: 72
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P08:
-C08 -> Picked: 161, Failed pick: 74, Dropped: 161
-C09 -> Picked: 100, Failed pick: 61, Dropped: 100
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C08 -> Picked: 161, Dropped: 161, Failed pick: 74
+C09 -> Picked: 100, Dropped: 100, Failed pick: 61
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P09:
-C09 -> Picked: 135, Failed pick: 107, Dropped: 135
-C10 -> Picked: 88, Failed pick: 47, Dropped: 88
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C09 -> Picked: 135, Dropped: 135, Failed pick: 107
+C10 -> Picked: 88, Dropped: 88, Failed pick: 47
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P10:
-C10 -> Picked: 153, Failed pick: 85, Dropped: 153
-C11 -> Picked: 95, Failed pick: 58, Dropped: 95
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C10 -> Picked: 153, Dropped: 153, Failed pick: 85
+C11 -> Picked: 95, Dropped: 95, Failed pick: 58
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P11:
-C11 -> Picked: 156, Failed pick: 83, Dropped: 156
-C12 -> Picked: 93, Failed pick: 63, Dropped: 93
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C11 -> Picked: 156, Dropped: 156, Failed pick: 83
+C12 -> Picked: 93, Dropped: 93, Failed pick: 63
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P12:
-C12 -> Picked: 156, Failed pick: 80, Dropped: 156
-C13 -> Picked: 95, Failed pick: 61, Dropped: 95
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C12 -> Picked: 156, Dropped: 156, Failed pick: 80
+C13 -> Picked: 95, Dropped: 95, Failed pick: 61
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P13:
-C13 -> Picked: 153, Failed pick: 89, Dropped: 153
-C14 -> Picked: 87, Failed pick: 66, Dropped: 87
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C13 -> Picked: 153, Dropped: 153, Failed pick: 89
+C14 -> Picked: 87, Dropped: 87, Failed pick: 66
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P14:
-C14 -> Picked: 162, Failed pick: 78, Dropped: 162
-C15 -> Picked: 100, Failed pick: 62, Dropped: 100
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C14 -> Picked: 162, Dropped: 162, Failed pick: 78
+C15 -> Picked: 100, Dropped: 100, Failed pick: 62
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P15:
-C15 -> Picked: 149, Failed pick: 87, Dropped: 149
-C16 -> Picked: 93, Failed pick: 56, Dropped: 93
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C15 -> Picked: 149, Dropped: 149, Failed pick: 87
+C16 -> Picked: 93, Dropped: 93, Failed pick: 56
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P16:
-C16 -> Picked: 145, Failed pick: 92, Dropped: 145
-C17 -> Picked: 93, Failed pick: 52, Dropped: 93
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C16 -> Picked: 145, Dropped: 145, Failed pick: 92
+C17 -> Picked: 93, Dropped: 93, Failed pick: 52
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P17:
-C17 -> Picked: 147, Failed pick: 92, Dropped: 147
-C18 -> Picked: 94, Failed pick: 53, Dropped: 94
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C17 -> Picked: 147, Dropped: 147, Failed pick: 92
+C18 -> Picked: 94, Dropped: 94, Failed pick: 53
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P18:
-C18 -> Picked: 156, Failed pick: 88, Dropped: 156
-C19 -> Picked: 88, Failed pick: 68, Dropped: 88
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C18 -> Picked: 156, Dropped: 156, Failed pick: 88
+C19 -> Picked: 88, Dropped: 88, Failed pick: 68
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P19:
-C19 -> Picked: 152, Failed pick: 86, Dropped: 152
-C20 -> Picked: 97, Failed pick: 55, Dropped: 97
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C19 -> Picked: 152, Dropped: 152, Failed pick: 86
+C20 -> Picked: 97, Dropped: 97, Failed pick: 55
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P20:
-C20 -> Picked: 147, Failed pick: 97, Dropped: 147
-C21 -> Picked: 86, Failed pick: 61, Dropped: 86
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C20 -> Picked: 147, Dropped: 147, Failed pick: 97
+C21 -> Picked: 86, Dropped: 86, Failed pick: 61
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P21:
-C21 -> Picked: 152, Failed pick: 86, Dropped: 152
-C22 -> Picked: 95, Failed pick: 57, Dropped: 95
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C21 -> Picked: 152, Dropped: 152, Failed pick: 86
+C22 -> Picked: 95, Dropped: 95, Failed pick: 57
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P22:
-C22 -> Picked: 152, Failed pick: 95, Dropped: 152
-C23 -> Picked: 85, Failed pick: 67, Dropped: 85
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C22 -> Picked: 152, Dropped: 152, Failed pick: 95
+C23 -> Picked: 85, Dropped: 85, Failed pick: 67
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P23:
-C23 -> Picked: 148, Failed pick: 85, Dropped: 148
-C24 -> Picked: 98, Failed pick: 50, Dropped: 98
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C23 -> Picked: 148, Dropped: 148, Failed pick: 85
+C24 -> Picked: 98, Dropped: 98, Failed pick: 50
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P24:
-C24 -> Picked: 143, Failed pick: 99, Dropped: 143
-C25 -> Picked: 89, Failed pick: 54, Dropped: 89
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C24 -> Picked: 143, Dropped: 143, Failed pick: 99
+C25 -> Picked: 89, Dropped: 89, Failed pick: 54
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P25:
-C25 -> Picked: 145, Failed pick: 89, Dropped: 145
-C26 -> Picked: 98, Failed pick: 47, Dropped: 98
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C25 -> Picked: 145, Dropped: 145, Failed pick: 89
+C26 -> Picked: 98, Dropped: 98, Failed pick: 47
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P26:
-C26 -> Picked: 156, Failed pick: 93, Dropped: 156
-C27 -> Picked: 89, Failed pick: 67, Dropped: 89
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C26 -> Picked: 156, Dropped: 156, Failed pick: 93
+C27 -> Picked: 89, Dropped: 89, Failed pick: 67
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P27:
-C27 -> Picked: 150, Failed pick: 86, Dropped: 150
-C28 -> Picked: 96, Failed pick: 54, Dropped: 96
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C27 -> Picked: 150, Dropped: 150, Failed pick: 86
+C28 -> Picked: 96, Dropped: 96, Failed pick: 54
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P28:
-C28 -> Picked: 153, Failed pick: 92, Dropped: 153
-C29 -> Picked: 87, Failed pick: 66, Dropped: 87
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C28 -> Picked: 153, Dropped: 153, Failed pick: 92
+C29 -> Picked: 87, Dropped: 87, Failed pick: 66
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P29:
-C29 -> Picked: 155, Failed pick: 89, Dropped: 155
-C30 -> Picked: 89, Failed pick: 66, Dropped: 89
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C29 -> Picked: 155, Dropped: 155, Failed pick: 89
+C30 -> Picked: 89, Dropped: 89, Failed pick: 66
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P30:
-C30 -> Picked: 149, Failed pick: 88, Dropped: 149
-C31 -> Picked: 97, Failed pick: 52, Dropped: 97
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C30 -> Picked: 149, Dropped: 149, Failed pick: 88
+C31 -> Picked: 97, Dropped: 97, Failed pick: 52
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P31:
-C31 -> Picked: 137, Failed pick: 102, Dropped: 137
-C32 -> Picked: 93, Failed pick: 44, Dropped: 93
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C31 -> Picked: 137, Dropped: 137, Failed pick: 102
+C32 -> Picked: 93, Dropped: 93, Failed pick: 44
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P32:
-C32 -> Picked: 150, Failed pick: 98, Dropped: 150
-C33 -> Picked: 86, Failed pick: 64, Dropped: 86
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C32 -> Picked: 150, Dropped: 150, Failed pick: 98
+C33 -> Picked: 86, Dropped: 86, Failed pick: 64
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P33:
-C33 -> Picked: 158, Failed pick: 77, Dropped: 158
-C34 -> Picked: 96, Failed pick: 62, Dropped: 96
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C33 -> Picked: 158, Dropped: 158, Failed pick: 77
+C34 -> Picked: 96, Dropped: 96, Failed pick: 62
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P34:
-C34 -> Picked: 149, Failed pick: 97, Dropped: 149
-C35 -> Picked: 87, Failed pick: 62, Dropped: 87
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C34 -> Picked: 149, Dropped: 149, Failed pick: 97
+C35 -> Picked: 87, Dropped: 87, Failed pick: 62
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P35:
-C35 -> Picked: 150, Failed pick: 85, Dropped: 150
-C36 -> Picked: 96, Failed pick: 54, Dropped: 96
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C35 -> Picked: 150, Dropped: 150, Failed pick: 85
+C36 -> Picked: 96, Dropped: 96, Failed pick: 54
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P36:
-C36 -> Picked: 150, Failed pick: 91, Dropped: 150
-C37 -> Picked: 89, Failed pick: 61, Dropped: 89
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C36 -> Picked: 150, Dropped: 150, Failed pick: 91
+C37 -> Picked: 89, Dropped: 89, Failed pick: 61
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P37:
-C37 -> Picked: 156, Failed pick: 83, Dropped: 156
-C38 -> Picked: 93, Failed pick: 63, Dropped: 93
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C37 -> Picked: 156, Dropped: 156, Failed pick: 83
+C38 -> Picked: 93, Dropped: 93, Failed pick: 63
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P38:
-C38 -> Picked: 151, Failed pick: 85, Dropped: 151
-C39 -> Picked: 97, Failed pick: 54, Dropped: 97
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C38 -> Picked: 151, Dropped: 151, Failed pick: 85
+C39 -> Picked: 97, Dropped: 97, Failed pick: 54
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P39:
-C39 -> Picked: 146, Failed pick: 95, Dropped: 146
-C40 -> Picked: 90, Failed pick: 56, Dropped: 90
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C39 -> Picked: 146, Dropped: 146, Failed pick: 95
+C40 -> Picked: 90, Dropped: 90, Failed pick: 56
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P40:
-C40 -> Picked: 153, Failed pick: 83, Dropped: 153
-C41 -> Picked: 93, Failed pick: 60, Dropped: 93
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C40 -> Picked: 153, Dropped: 153, Failed pick: 83
+C41 -> Picked: 93, Dropped: 93, Failed pick: 60
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P41:
-C41 -> Picked: 151, Failed pick: 88, Dropped: 151
-C42 -> Picked: 91, Failed pick: 60, Dropped: 91
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C41 -> Picked: 151, Dropped: 151, Failed pick: 88
+C42 -> Picked: 91, Dropped: 91, Failed pick: 60
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P42:
-C42 -> Picked: 157, Failed pick: 85, Dropped: 157
-C43 -> Picked: 92, Failed pick: 65, Dropped: 92
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C42 -> Picked: 157, Dropped: 157, Failed pick: 85
+C43 -> Picked: 92, Dropped: 92, Failed pick: 65
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P43:
-C43 -> Picked: 152, Failed pick: 88, Dropped: 152
-C44 -> Picked: 91, Failed pick: 61, Dropped: 91
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C43 -> Picked: 152, Dropped: 152, Failed pick: 88
+C44 -> Picked: 91, Dropped: 91, Failed pick: 61
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P44:
-C44 -> Picked: 149, Failed pick: 94, Dropped: 149
-C45 -> Picked: 89, Failed pick: 60, Dropped: 89
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C44 -> Picked: 149, Dropped: 149, Failed pick: 94
+C45 -> Picked: 89, Dropped: 89, Failed pick: 60
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P45:
-C45 -> Picked: 158, Failed pick: 81, Dropped: 158
-C46 -> Picked: 92, Failed pick: 66, Dropped: 92
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C45 -> Picked: 158, Dropped: 158, Failed pick: 81
+C46 -> Picked: 92, Dropped: 92, Failed pick: 66
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P46:
-C46 -> Picked: 146, Failed pick: 90, Dropped: 146
-C47 -> Picked: 94, Failed pick: 52, Dropped: 94
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C46 -> Picked: 146, Dropped: 146, Failed pick: 90
+C47 -> Picked: 94, Dropped: 94, Failed pick: 52
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P47:
-C47 -> Picked: 145, Failed pick: 99, Dropped: 145
-C48 -> Picked: 85, Failed pick: 60, Dropped: 85
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C47 -> Picked: 145, Dropped: 145, Failed pick: 99
+C48 -> Picked: 85, Dropped: 85, Failed pick: 60
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P48:
-C48 -> Picked: 156, Failed pick: 82, Dropped: 156
-C49 -> Picked: 95, Failed pick: 61, Dropped: 95
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C48 -> Picked: 156, Dropped: 156, Failed pick: 82
+C49 -> Picked: 95, Dropped: 95, Failed pick: 61
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P49:
-C49 -> Picked: 146, Failed pick: 94, Dropped: 146
-C50 -> Picked: 93, Failed pick: 53, Dropped: 93
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C49 -> Picked: 146, Dropped: 146, Failed pick: 94
+C50 -> Picked: 93, Dropped: 93, Failed pick: 53
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P50:
-C50 -> Picked: 138, Failed pick: 100, Dropped: 138
-C51 -> Picked: 94, Failed pick: 44, Dropped: 94
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C50 -> Picked: 138, Dropped: 138, Failed pick: 100
+C51 -> Picked: 94, Dropped: 94, Failed pick: 44
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P51:
-C51 -> Picked: 146, Failed pick: 93, Dropped: 146
-C52 -> Picked: 93, Failed pick: 53, Dropped: 93
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C51 -> Picked: 146, Dropped: 146, Failed pick: 93
+C52 -> Picked: 93, Dropped: 93, Failed pick: 53
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P52:
-C52 -> Picked: 159, Failed pick: 82, Dropped: 159
-C53 -> Picked: 93, Failed pick: 66, Dropped: 93
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C52 -> Picked: 159, Dropped: 159, Failed pick: 82
+C53 -> Picked: 93, Dropped: 93, Failed pick: 66
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P53:
-C53 -> Picked: 144, Failed pick: 88, Dropped: 144
-C54 -> Picked: 97, Failed pick: 47, Dropped: 97
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C53 -> Picked: 144, Dropped: 144, Failed pick: 88
+C54 -> Picked: 97, Dropped: 97, Failed pick: 47
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P54:
-C54 -> Picked: 157, Failed pick: 91, Dropped: 157
-C55 -> Picked: 87, Failed pick: 70, Dropped: 87
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C54 -> Picked: 157, Dropped: 157, Failed pick: 91
+C55 -> Picked: 87, Dropped: 87, Failed pick: 70
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P55:
-C55 -> Picked: 153, Failed pick: 86, Dropped: 153
-C56 -> Picked: 94, Failed pick: 59, Dropped: 94
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C55 -> Picked: 153, Dropped: 153, Failed pick: 86
+C56 -> Picked: 94, Dropped: 94, Failed pick: 59
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P56:
-C56 -> Picked: 147, Failed pick: 94, Dropped: 147
-C57 -> Picked: 92, Failed pick: 55, Dropped: 92
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C56 -> Picked: 147, Dropped: 147, Failed pick: 94
+C57 -> Picked: 92, Dropped: 92, Failed pick: 55
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P57:
-C57 -> Picked: 149, Failed pick: 96, Dropped: 149
-C58 -> Picked: 91, Failed pick: 58, Dropped: 91
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C57 -> Picked: 149, Dropped: 149, Failed pick: 96
+C58 -> Picked: 91, Dropped: 91, Failed pick: 58
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P58:
-C58 -> Picked: 151, Failed pick: 92, Dropped: 151
-C59 -> Picked: 91, Failed pick: 60, Dropped: 91
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C58 -> Picked: 151, Dropped: 151, Failed pick: 92
+C59 -> Picked: 91, Dropped: 91, Failed pick: 60
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P59:
-C59 -> Picked: 155, Failed pick: 86, Dropped: 155
-C60 -> Picked: 89, Failed pick: 66, Dropped: 89
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C59 -> Picked: 155, Dropped: 155, Failed pick: 86
+C60 -> Picked: 89, Dropped: 89, Failed pick: 66
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P60:
-C60 -> Picked: 154, Failed pick: 84, Dropped: 154
-C61 -> Picked: 94, Failed pick: 60, Dropped: 94
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C60 -> Picked: 154, Dropped: 154, Failed pick: 84
+C61 -> Picked: 94, Dropped: 94, Failed pick: 60
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P61:
-C61 -> Picked: 153, Failed pick: 87, Dropped: 153
-C62 -> Picked: 96, Failed pick: 57, Dropped: 96
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C61 -> Picked: 153, Dropped: 153, Failed pick: 87
+C62 -> Picked: 96, Dropped: 96, Failed pick: 57
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P62:
-C62 -> Picked: 149, Failed pick: 88, Dropped: 149
-C63 -> Picked: 94, Failed pick: 55, Dropped: 94
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C62 -> Picked: 149, Dropped: 149, Failed pick: 88
+C63 -> Picked: 94, Dropped: 94, Failed pick: 55
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P63:
-C63 -> Picked: 154, Failed pick: 88, Dropped: 154
-C64 -> Picked: 93, Failed pick: 61, Dropped: 93
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C63 -> Picked: 154, Dropped: 154, Failed pick: 88
+C64 -> Picked: 93, Dropped: 93, Failed pick: 61
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P64:
-C64 -> Picked: 155, Failed pick: 90, Dropped: 155
-C65 -> Picked: 88, Failed pick: 67, Dropped: 88
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C64 -> Picked: 155, Dropped: 155, Failed pick: 90
+C65 -> Picked: 88, Dropped: 88, Failed pick: 67
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P65:
-C65 -> Picked: 149, Failed pick: 93, Dropped: 149
-C66 -> Picked: 91, Failed pick: 58, Dropped: 91
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C65 -> Picked: 149, Dropped: 149, Failed pick: 93
+C66 -> Picked: 91, Dropped: 91, Failed pick: 58
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P66:
-C66 -> Picked: 151, Failed pick: 87, Dropped: 151
-C67 -> Picked: 92, Failed pick: 59, Dropped: 92
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C66 -> Picked: 151, Dropped: 151, Failed pick: 87
+C67 -> Picked: 92, Dropped: 92, Failed pick: 59
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P67:
-C67 -> Picked: 157, Failed pick: 85, Dropped: 157
-C68 -> Picked: 94, Failed pick: 63, Dropped: 94
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C67 -> Picked: 157, Dropped: 157, Failed pick: 85
+C68 -> Picked: 94, Dropped: 94, Failed pick: 63
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P68:
-C68 -> Picked: 153, Failed pick: 93, Dropped: 153
-C69 -> Picked: 89, Failed pick: 64, Dropped: 89
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C68 -> Picked: 153, Dropped: 153, Failed pick: 93
+C69 -> Picked: 89, Dropped: 89, Failed pick: 64
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P69:
-C69 -> Picked: 152, Failed pick: 91, Dropped: 152
-C70 -> Picked: 89, Failed pick: 63, Dropped: 89
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C69 -> Picked: 152, Dropped: 152, Failed pick: 91
+C70 -> Picked: 89, Dropped: 89, Failed pick: 63
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P70:
-C70 -> Picked: 160, Failed pick: 80, Dropped: 160
-C71 -> Picked: 92, Failed pick: 68, Dropped: 92
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C70 -> Picked: 160, Dropped: 160, Failed pick: 80
+C71 -> Picked: 92, Dropped: 92, Failed pick: 68
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P71:
-C71 -> Picked: 152, Failed pick: 85, Dropped: 152
-C72 -> Picked: 97, Failed pick: 55, Dropped: 97
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C71 -> Picked: 152, Dropped: 152, Failed pick: 85
+C72 -> Picked: 97, Dropped: 97, Failed pick: 55
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P72:
-C72 -> Picked: 144, Failed pick: 89, Dropped: 144
-C73 -> Picked: 97, Failed pick: 47, Dropped: 97
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C72 -> Picked: 144, Dropped: 144, Failed pick: 89
+C73 -> Picked: 97, Dropped: 97, Failed pick: 47
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P73:
-C73 -> Picked: 153, Failed pick: 89, Dropped: 153
-C74 -> Picked: 90, Failed pick: 63, Dropped: 90
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C73 -> Picked: 153, Dropped: 153, Failed pick: 89
+C74 -> Picked: 90, Dropped: 90, Failed pick: 63
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P74:
-C74 -> Picked: 151, Failed pick: 85, Dropped: 151
-C75 -> Picked: 95, Failed pick: 56, Dropped: 95
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C74 -> Picked: 151, Dropped: 151, Failed pick: 85
+C75 -> Picked: 95, Dropped: 95, Failed pick: 56
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P75:
-C75 -> Picked: 146, Failed pick: 94, Dropped: 146
-C76 -> Picked: 92, Failed pick: 54, Dropped: 92
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C75 -> Picked: 146, Dropped: 146, Failed pick: 94
+C76 -> Picked: 92, Dropped: 92, Failed pick: 54
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P76:
-C76 -> Picked: 146, Failed pick: 90, Dropped: 146
-C77 -> Picked: 98, Failed pick: 48, Dropped: 98
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C76 -> Picked: 146, Dropped: 146, Failed pick: 90
+C77 -> Picked: 98, Dropped: 98, Failed pick: 48
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P77:
-C77 -> Picked: 151, Failed pick: 98, Dropped: 151
-C78 -> Picked: 86, Failed pick: 65, Dropped: 86
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C77 -> Picked: 151, Dropped: 151, Failed pick: 98
+C78 -> Picked: 86, Dropped: 86, Failed pick: 65
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P78:
-C78 -> Picked: 151, Failed pick: 84, Dropped: 151
-C79 -> Picked: 100, Failed pick: 51, Dropped: 100
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C78 -> Picked: 151, Dropped: 151, Failed pick: 84
+C79 -> Picked: 100, Dropped: 100, Failed pick: 51
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P79:
-C79 -> Picked: 148, Failed pick: 98, Dropped: 148
-C80 -> Picked: 86, Failed pick: 62, Dropped: 86
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C79 -> Picked: 148, Dropped: 148, Failed pick: 98
+C80 -> Picked: 86, Dropped: 86, Failed pick: 62
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P80:
-C80 -> Picked: 148, Failed pick: 87, Dropped: 148
-C81 -> Picked: 93, Failed pick: 55, Dropped: 93
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C80 -> Picked: 148, Dropped: 148, Failed pick: 87
+C81 -> Picked: 93, Dropped: 93, Failed pick: 55
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P81:
-C81 -> Picked: 155, Failed pick: 88, Dropped: 155
-C82 -> Picked: 88, Failed pick: 67, Dropped: 88
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C81 -> Picked: 155, Dropped: 155, Failed pick: 88
+C82 -> Picked: 88, Dropped: 88, Failed pick: 67
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P82:
-C82 -> Picked: 153, Failed pick: 77, Dropped: 153
-C83 -> Picked: 98, Failed pick: 55, Dropped: 98
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C82 -> Picked: 153, Dropped: 153, Failed pick: 77
+C83 -> Picked: 98, Dropped: 98, Failed pick: 55
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P83:
-C83 -> Picked: 142, Failed pick: 97, Dropped: 142
-C84 -> Picked: 93, Failed pick: 49, Dropped: 93
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C83 -> Picked: 142, Dropped: 142, Failed pick: 97
+C84 -> Picked: 93, Dropped: 93, Failed pick: 49
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P84:
-C84 -> Picked: 150, Failed pick: 94, Dropped: 150
-C85 -> Picked: 88, Failed pick: 62, Dropped: 88
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C84 -> Picked: 150, Dropped: 150, Failed pick: 94
+C85 -> Picked: 88, Dropped: 88, Failed pick: 62
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P85:
-C85 -> Picked: 153, Failed pick: 89, Dropped: 153
-C86 -> Picked: 87, Failed pick: 66, Dropped: 87
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C85 -> Picked: 153, Dropped: 153, Failed pick: 89
+C86 -> Picked: 87, Dropped: 87, Failed pick: 66
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P86:
-C86 -> Picked: 158, Failed pick: 84, Dropped: 158
-C87 -> Picked: 94, Failed pick: 64, Dropped: 94
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C86 -> Picked: 158, Dropped: 158, Failed pick: 84
+C87 -> Picked: 94, Dropped: 94, Failed pick: 64
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P87:
-C87 -> Picked: 151, Failed pick: 94, Dropped: 151
-C88 -> Picked: 88, Failed pick: 63, Dropped: 88
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C87 -> Picked: 151, Dropped: 151, Failed pick: 94
+C88 -> Picked: 88, Dropped: 88, Failed pick: 63
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P88:
-C88 -> Picked: 160, Failed pick: 78, Dropped: 160
-C89 -> Picked: 94, Failed pick: 66, Dropped: 94
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C88 -> Picked: 160, Dropped: 160, Failed pick: 78
+C89 -> Picked: 94, Dropped: 94, Failed pick: 66
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P89:
-C89 -> Picked: 147, Failed pick: 95, Dropped: 147
-C90 -> Picked: 90, Failed pick: 57, Dropped: 90
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C89 -> Picked: 147, Dropped: 147, Failed pick: 95
+C90 -> Picked: 90, Dropped: 90, Failed pick: 57
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P90:
-C90 -> Picked: 154, Failed pick: 83, Dropped: 154
-C91 -> Picked: 96, Failed pick: 58, Dropped: 96
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C90 -> Picked: 154, Dropped: 154, Failed pick: 83
+C91 -> Picked: 96, Dropped: 96, Failed pick: 58
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P91:
-C91 -> Picked: 145, Failed pick: 103, Dropped: 145
-C92 -> Picked: 89, Failed pick: 56, Dropped: 89
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C91 -> Picked: 145, Dropped: 145, Failed pick: 103
+C92 -> Picked: 89, Dropped: 89, Failed pick: 56
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P92:
-C92 -> Picked: 161, Failed pick: 80, Dropped: 161
-C93 -> Picked: 91, Failed pick: 70, Dropped: 91
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C92 -> Picked: 161, Dropped: 161, Failed pick: 80
+C93 -> Picked: 91, Dropped: 91, Failed pick: 70
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P93:
-C93 -> Picked: 152, Failed pick: 75, Dropped: 152
-C94 -> Picked: 102, Failed pick: 50, Dropped: 102
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C93 -> Picked: 152, Dropped: 152, Failed pick: 75
+C94 -> Picked: 102, Dropped: 102, Failed pick: 50
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P94:
-C94 -> Picked: 149, Failed pick: 100, Dropped: 149
-C95 -> Picked: 85, Failed pick: 64, Dropped: 85
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C94 -> Picked: 149, Dropped: 149, Failed pick: 100
+C95 -> Picked: 85, Dropped: 85, Failed pick: 64
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P95:
-C95 -> Picked: 149, Failed pick: 84, Dropped: 149
-C96 -> Picked: 100, Failed pick: 49, Dropped: 100
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C95 -> Picked: 149, Dropped: 149, Failed pick: 84
+C96 -> Picked: 100, Dropped: 100, Failed pick: 49
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P96:
-C96 -> Picked: 140, Failed pick: 99, Dropped: 140
-C97 -> Picked: 91, Failed pick: 49, Dropped: 91
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C96 -> Picked: 140, Dropped: 140, Failed pick: 99
+C97 -> Picked: 91, Dropped: 91, Failed pick: 49
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P97:
-C97 -> Picked: 158, Failed pick: 78, Dropped: 158
-C98 -> Picked: 97, Failed pick: 61, Dropped: 97
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C97 -> Picked: 158, Dropped: 158, Failed pick: 78
+C98 -> Picked: 97, Dropped: 97, Failed pick: 61
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P98:
-C98 -> Picked: 146, Failed pick: 93, Dropped: 146
-C99 -> Picked: 94, Failed pick: 52, Dropped: 94
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C98 -> Picked: 146, Dropped: 146, Failed pick: 93
+C99 -> Picked: 94, Dropped: 94, Failed pick: 52
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
 P99:
-C00 -> Picked: 99, Failed pick: 40, Dropped: 99
-C99 -> Picked: 139, Failed pick: 93, Dropped: 139
-XX -> Picked: 0, Failed pick: 0, Dropped: 0
+C00 -> Picked: 99, Dropped: 99, Failed pick: 40
+C99 -> Picked: 139, Dropped: 139, Failed pick: 93
+XX -> Picked: 0, Dropped: 0, Failed pick: 0
