@@ -113,7 +113,7 @@ void updateChopState(std::vector<std::string> words, std::map<std::string, bool>
 
 }
 
-void updatePhiloState(std::vector<std::string> words, std::map<std::string, PossibleStates> states) {
+void updatePhiloState(std::vector<std::string> words, std::map<std::string, PossibleStates>& states) {
     const std::string& philosopher = words[3];
     const std::string& action = words[4];
     if(action == "SEATS"){
@@ -145,7 +145,7 @@ void updatePhiloState(std::vector<std::string> words, std::map<std::string, Poss
         }
     } else if(action == "LEAVES"){
         if(states[philosopher] != PossibleStates::RESTING){
-            std::cout << "Error: " << philosopher << " leaves while eating or thinking.\n";
+            std::cout << "Error: " << philosopher << " left while eating or thinking.\n";
         }
     }
 }
