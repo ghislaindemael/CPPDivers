@@ -20,7 +20,7 @@ bool isLogLineValid(const std::string& line, std::regex& pattern) {
 }
 
 
-int getNumberOfPhilosopher(std::ifstream& logFile, std::regex pattern){
+int getNumberOfPhilosopher(std::ifstream& logFile, std::regex& pattern){
     int highestID = -1;
     std::string line;
 
@@ -55,7 +55,7 @@ void isInteractionLegal(const std::string& philosopher, const std::string& chops
 
 }
 
-void recordChopInteractions(const std::vector<std::string> &words, int maxPhilID,
+void recordChopInteractions(const std::vector<std::string>& words, int maxPhilID,
                             std::map<std::string, std::map<std::string, std::vector<int>>>& chopInteractions) {
     const std::string& philosopher = words[3];
     const std::string& action = words[4];
@@ -102,7 +102,7 @@ void twoChopsticksInHand(const std::vector<std::string>& words, std::map<std::st
     }
 }
 
-void updateChopState(std::vector<std::string> words, std::map<std::string, bool>& chopTaken) {
+void updateChopState(std::vector<std::string>& words, std::map<std::string, bool>& chopTaken) {
     const std::string& action = words[4];
     const std::string& chopstick = words[5];
     if(action == "PICKS"){
@@ -120,7 +120,7 @@ void updateChopState(std::vector<std::string> words, std::map<std::string, bool>
     }
 }
 
-void updatePhiloState(std::vector<std::string> words, std::map<std::string, PossibleStates>& states) {
+void updatePhiloState(std::vector<std::string>& words, std::map<std::string, PossibleStates>& states) {
     const std::string& philosopher = words[3];
     const std::string& action = words[4];
     if(action == "SEATS"){
