@@ -171,7 +171,6 @@ bool updatePhiloState(std::vector<std::string>& words, std::map<std::string, Pos
 int checkDinner(const std::string& dinner_id) {
     std::cout << "Starting review of dinner: " << dinner_id << "\n";
     std::ifstream logFile(projectDir + "dinners/" + dinner_id + "_log");
-    std::ifstream logFileCopy(projectDir + "dinners/" + dinner_id + "_log");
     std::ofstream reviewFile(projectDir + "dinners/" + dinner_id + "_review", std::ios::trunc);
 
     if (!logFile.is_open()) {
