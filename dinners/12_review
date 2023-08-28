@@ -1,0 +1,3000 @@
+P00:
+C00 -> Picked: 286, Dropped: 286, Failed pick: 188
+C01 -> Picked: 175, Dropped: 175, Failed pick: 111
+P01:
+C01 -> Picked: 292, Dropped: 292, Failed pick: 170
+C02 -> Picked: 163, Dropped: 163, Failed pick: 129
+P02:
+C02 -> Picked: 256, Dropped: 256, Failed pick: 161
+C03 -> Picked: 165, Dropped: 165, Failed pick: 91
+P03:
+C03 -> Picked: 269, Dropped: 269, Failed pick: 196
+C04 -> Picked: 163, Dropped: 163, Failed pick: 106
+P04:
+C04 -> Picked: 280, Dropped: 280, Failed pick: 185
+C05 -> Picked: 181, Dropped: 181, Failed pick: 99
+P05:
+C05 -> Picked: 305, Dropped: 305, Failed pick: 164
+C06 -> Picked: 168, Dropped: 168, Failed pick: 137
+P06:
+C06 -> Picked: 280, Dropped: 280, Failed pick: 160
+C07 -> Picked: 179, Dropped: 179, Failed pick: 101
+P07:
+C07 -> Picked: 294, Dropped: 294, Failed pick: 183
+C08 -> Picked: 173, Dropped: 173, Failed pick: 121
+P08:
+C08 -> Picked: 291, Dropped: 291, Failed pick: 165
+C09 -> Picked: 169, Dropped: 169, Failed pick: 122
+P09:
+C09 -> Picked: 285, Dropped: 285, Failed pick: 153
+C10 -> Picked: 181, Dropped: 181, Failed pick: 104
+P10:
+C10 -> Picked: 277, Dropped: 277, Failed pick: 181
+C11 -> Picked: 168, Dropped: 168, Failed pick: 109
+P100:
+C100 -> Picked: 277, Dropped: 277, Failed pick: 171
+C101 -> Picked: 185, Dropped: 185, Failed pick: 92
+P101:
+C101 -> Picked: 282, Dropped: 282, Failed pick: 184
+C102 -> Picked: 163, Dropped: 163, Failed pick: 119
+P102:
+C102 -> Picked: 296, Dropped: 296, Failed pick: 158
+C103 -> Picked: 166, Dropped: 166, Failed pick: 130
+P103:
+C103 -> Picked: 262, Dropped: 262, Failed pick: 170
+C104 -> Picked: 159, Dropped: 159, Failed pick: 103
+P104:
+C104 -> Picked: 249, Dropped: 249, Failed pick: 173
+C105 -> Picked: 152, Dropped: 152, Failed pick: 97
+P105:
+C105 -> Picked: 279, Dropped: 279, Failed pick: 173
+C106 -> Picked: 166, Dropped: 166, Failed pick: 113
+P106:
+C106 -> Picked: 275, Dropped: 275, Failed pick: 147
+C107 -> Picked: 164, Dropped: 164, Failed pick: 111
+P107:
+C107 -> Picked: 277, Dropped: 277, Failed pick: 186
+C108 -> Picked: 169, Dropped: 169, Failed pick: 108
+P108:
+C108 -> Picked: 272, Dropped: 272, Failed pick: 175
+C109 -> Picked: 159, Dropped: 159, Failed pick: 113
+P109:
+C109 -> Picked: 283, Dropped: 283, Failed pick: 162
+C110 -> Picked: 182, Dropped: 182, Failed pick: 101
+P11:
+C11 -> Picked: 272, Dropped: 272, Failed pick: 167
+C12 -> Picked: 170, Dropped: 170, Failed pick: 102
+P110:
+C110 -> Picked: 252, Dropped: 252, Failed pick: 177
+C111 -> Picked: 165, Dropped: 165, Failed pick: 87
+P111:
+C111 -> Picked: 279, Dropped: 279, Failed pick: 168
+C112 -> Picked: 155, Dropped: 155, Failed pick: 124
+P112:
+C112 -> Picked: 270, Dropped: 270, Failed pick: 187
+C113 -> Picked: 165, Dropped: 165, Failed pick: 105
+P113:
+C113 -> Picked: 251, Dropped: 251, Failed pick: 178
+C114 -> Picked: 161, Dropped: 161, Failed pick: 90
+P114:
+C114 -> Picked: 283, Dropped: 283, Failed pick: 175
+C115 -> Picked: 167, Dropped: 167, Failed pick: 116
+P115:
+C115 -> Picked: 288, Dropped: 288, Failed pick: 166
+C116 -> Picked: 163, Dropped: 163, Failed pick: 125
+P116:
+C116 -> Picked: 271, Dropped: 271, Failed pick: 164
+C117 -> Picked: 169, Dropped: 169, Failed pick: 102
+P117:
+C117 -> Picked: 305, Dropped: 305, Failed pick: 167
+C118 -> Picked: 178, Dropped: 178, Failed pick: 127
+P118:
+C118 -> Picked: 278, Dropped: 278, Failed pick: 172
+C119 -> Picked: 165, Dropped: 165, Failed pick: 113
+P119:
+C119 -> Picked: 270, Dropped: 270, Failed pick: 161
+C120 -> Picked: 174, Dropped: 174, Failed pick: 96
+P12:
+C12 -> Picked: 269, Dropped: 269, Failed pick: 174
+C13 -> Picked: 162, Dropped: 162, Failed pick: 107
+P120:
+C120 -> Picked: 268, Dropped: 268, Failed pick: 192
+C121 -> Picked: 176, Dropped: 176, Failed pick: 92
+P121:
+C121 -> Picked: 282, Dropped: 282, Failed pick: 184
+C122 -> Picked: 154, Dropped: 154, Failed pick: 128
+P122:
+C122 -> Picked: 288, Dropped: 288, Failed pick: 136
+C123 -> Picked: 183, Dropped: 183, Failed pick: 105
+P123:
+C123 -> Picked: 240, Dropped: 240, Failed pick: 212
+C124 -> Picked: 156, Dropped: 156, Failed pick: 84
+P124:
+C124 -> Picked: 293, Dropped: 293, Failed pick: 156
+C125 -> Picked: 173, Dropped: 173, Failed pick: 120
+P125:
+C125 -> Picked: 283, Dropped: 283, Failed pick: 182
+C126 -> Picked: 165, Dropped: 165, Failed pick: 118
+P126:
+C126 -> Picked: 269, Dropped: 269, Failed pick: 164
+C127 -> Picked: 160, Dropped: 160, Failed pick: 109
+P127:
+C127 -> Picked: 276, Dropped: 276, Failed pick: 166
+C128 -> Picked: 163, Dropped: 163, Failed pick: 113
+P128:
+C128 -> Picked: 284, Dropped: 284, Failed pick: 165
+C129 -> Picked: 164, Dropped: 164, Failed pick: 120
+P129:
+C129 -> Picked: 265, Dropped: 265, Failed pick: 168
+C130 -> Picked: 158, Dropped: 158, Failed pick: 107
+P13:
+C13 -> Picked: 292, Dropped: 292, Failed pick: 169
+C14 -> Picked: 163, Dropped: 163, Failed pick: 129
+P130:
+C130 -> Picked: 293, Dropped: 293, Failed pick: 169
+C131 -> Picked: 174, Dropped: 174, Failed pick: 119
+P131:
+C131 -> Picked: 268, Dropped: 268, Failed pick: 156
+C132 -> Picked: 161, Dropped: 161, Failed pick: 107
+P132:
+C132 -> Picked: 284, Dropped: 284, Failed pick: 161
+C133 -> Picked: 166, Dropped: 166, Failed pick: 118
+P133:
+C133 -> Picked: 280, Dropped: 280, Failed pick: 160
+C134 -> Picked: 171, Dropped: 171, Failed pick: 109
+P134:
+C134 -> Picked: 273, Dropped: 273, Failed pick: 171
+C135 -> Picked: 157, Dropped: 157, Failed pick: 116
+P135:
+C135 -> Picked: 262, Dropped: 262, Failed pick: 159
+C136 -> Picked: 162, Dropped: 162, Failed pick: 100
+P136:
+C136 -> Picked: 249, Dropped: 249, Failed pick: 194
+C137 -> Picked: 157, Dropped: 157, Failed pick: 92
+P137:
+C137 -> Picked: 288, Dropped: 288, Failed pick: 178
+C138 -> Picked: 155, Dropped: 155, Failed pick: 133
+P138:
+C138 -> Picked: 282, Dropped: 282, Failed pick: 166
+C139 -> Picked: 169, Dropped: 169, Failed pick: 113
+P139:
+C139 -> Picked: 281, Dropped: 281, Failed pick: 174
+C140 -> Picked: 176, Dropped: 176, Failed pick: 105
+P14:
+C14 -> Picked: 275, Dropped: 275, Failed pick: 182
+C15 -> Picked: 177, Dropped: 177, Failed pick: 98
+P140:
+C140 -> Picked: 279, Dropped: 279, Failed pick: 178
+C141 -> Picked: 164, Dropped: 164, Failed pick: 115
+P141:
+C141 -> Picked: 281, Dropped: 281, Failed pick: 160
+C142 -> Picked: 176, Dropped: 176, Failed pick: 105
+P142:
+C142 -> Picked: 284, Dropped: 284, Failed pick: 166
+C143 -> Picked: 174, Dropped: 174, Failed pick: 110
+P143:
+C143 -> Picked: 265, Dropped: 265, Failed pick: 181
+C144 -> Picked: 155, Dropped: 155, Failed pick: 110
+P144:
+C144 -> Picked: 272, Dropped: 272, Failed pick: 155
+C145 -> Picked: 170, Dropped: 170, Failed pick: 102
+P145:
+C145 -> Picked: 266, Dropped: 266, Failed pick: 186
+C146 -> Picked: 159, Dropped: 159, Failed pick: 107
+P146:
+C146 -> Picked: 270, Dropped: 270, Failed pick: 169
+C147 -> Picked: 171, Dropped: 171, Failed pick: 99
+P147:
+C147 -> Picked: 279, Dropped: 279, Failed pick: 193
+C148 -> Picked: 161, Dropped: 161, Failed pick: 118
+P148:
+C148 -> Picked: 298, Dropped: 298, Failed pick: 148
+C149 -> Picked: 206, Dropped: 206, Failed pick: 92
+P149:
+C149 -> Picked: 266, Dropped: 266, Failed pick: 202
+C150 -> Picked: 140, Dropped: 140, Failed pick: 126
+P15:
+C15 -> Picked: 250, Dropped: 250, Failed pick: 196
+C16 -> Picked: 168, Dropped: 168, Failed pick: 82
+P150:
+C150 -> Picked: 287, Dropped: 287, Failed pick: 130
+C151 -> Picked: 178, Dropped: 178, Failed pick: 109
+P151:
+C151 -> Picked: 252, Dropped: 252, Failed pick: 187
+C152 -> Picked: 153, Dropped: 153, Failed pick: 99
+P152:
+C152 -> Picked: 292, Dropped: 292, Failed pick: 149
+C153 -> Picked: 169, Dropped: 169, Failed pick: 123
+P153:
+C153 -> Picked: 283, Dropped: 283, Failed pick: 172
+C154 -> Picked: 157, Dropped: 157, Failed pick: 126
+P154:
+C154 -> Picked: 286, Dropped: 286, Failed pick: 172
+C155 -> Picked: 169, Dropped: 169, Failed pick: 117
+P155:
+C155 -> Picked: 268, Dropped: 268, Failed pick: 174
+C156 -> Picked: 162, Dropped: 162, Failed pick: 106
+P156:
+C156 -> Picked: 271, Dropped: 271, Failed pick: 161
+C157 -> Picked: 170, Dropped: 170, Failed pick: 101
+P157:
+C157 -> Picked: 287, Dropped: 287, Failed pick: 170
+C158 -> Picked: 155, Dropped: 155, Failed pick: 132
+P158:
+C158 -> Picked: 273, Dropped: 273, Failed pick: 170
+C159 -> Picked: 177, Dropped: 177, Failed pick: 96
+P159:
+C159 -> Picked: 264, Dropped: 264, Failed pick: 193
+C160 -> Picked: 147, Dropped: 147, Failed pick: 117
+P16:
+C16 -> Picked: 284, Dropped: 284, Failed pick: 175
+C17 -> Picked: 157, Dropped: 157, Failed pick: 127
+P160:
+C160 -> Picked: 288, Dropped: 288, Failed pick: 150
+C161 -> Picked: 182, Dropped: 182, Failed pick: 106
+P161:
+C161 -> Picked: 280, Dropped: 280, Failed pick: 172
+C162 -> Picked: 156, Dropped: 156, Failed pick: 124
+P162:
+C162 -> Picked: 286, Dropped: 286, Failed pick: 170
+C163 -> Picked: 184, Dropped: 184, Failed pick: 102
+P163:
+C163 -> Picked: 271, Dropped: 271, Failed pick: 181
+C164 -> Picked: 160, Dropped: 160, Failed pick: 111
+P164:
+C164 -> Picked: 273, Dropped: 273, Failed pick: 164
+C165 -> Picked: 166, Dropped: 166, Failed pick: 107
+P165:
+C165 -> Picked: 287, Dropped: 287, Failed pick: 168
+C166 -> Picked: 176, Dropped: 176, Failed pick: 111
+P166:
+C166 -> Picked: 268, Dropped: 268, Failed pick: 171
+C167 -> Picked: 156, Dropped: 156, Failed pick: 112
+P167:
+C167 -> Picked: 292, Dropped: 292, Failed pick: 165
+C168 -> Picked: 178, Dropped: 178, Failed pick: 114
+P168:
+C168 -> Picked: 276, Dropped: 276, Failed pick: 160
+C169 -> Picked: 169, Dropped: 169, Failed pick: 107
+P169:
+C169 -> Picked: 278, Dropped: 278, Failed pick: 183
+C170 -> Picked: 166, Dropped: 166, Failed pick: 112
+P17:
+C17 -> Picked: 282, Dropped: 282, Failed pick: 166
+C18 -> Picked: 187, Dropped: 187, Failed pick: 95
+P170:
+C170 -> Picked: 278, Dropped: 278, Failed pick: 184
+C171 -> Picked: 158, Dropped: 158, Failed pick: 120
+P171:
+C171 -> Picked: 274, Dropped: 274, Failed pick: 163
+C172 -> Picked: 165, Dropped: 165, Failed pick: 109
+P172:
+C172 -> Picked: 266, Dropped: 266, Failed pick: 178
+C173 -> Picked: 173, Dropped: 173, Failed pick: 93
+P173:
+C173 -> Picked: 293, Dropped: 293, Failed pick: 179
+C174 -> Picked: 177, Dropped: 177, Failed pick: 116
+P174:
+C174 -> Picked: 267, Dropped: 267, Failed pick: 177
+C175 -> Picked: 163, Dropped: 163, Failed pick: 104
+P175:
+C175 -> Picked: 273, Dropped: 273, Failed pick: 167
+C176 -> Picked: 163, Dropped: 163, Failed pick: 110
+P176:
+C176 -> Picked: 281, Dropped: 281, Failed pick: 164
+C177 -> Picked: 165, Dropped: 165, Failed pick: 116
+P177:
+C177 -> Picked: 273, Dropped: 273, Failed pick: 164
+C178 -> Picked: 173, Dropped: 173, Failed pick: 100
+P178:
+C178 -> Picked: 279, Dropped: 279, Failed pick: 171
+C179 -> Picked: 169, Dropped: 169, Failed pick: 110
+P179:
+C179 -> Picked: 281, Dropped: 281, Failed pick: 176
+C180 -> Picked: 171, Dropped: 171, Failed pick: 110
+P18:
+C18 -> Picked: 274, Dropped: 274, Failed pick: 198
+C19 -> Picked: 166, Dropped: 166, Failed pick: 108
+P180:
+C180 -> Picked: 285, Dropped: 285, Failed pick: 182
+C181 -> Picked: 162, Dropped: 162, Failed pick: 123
+P181:
+C181 -> Picked: 284, Dropped: 284, Failed pick: 169
+C182 -> Picked: 170, Dropped: 170, Failed pick: 114
+P182:
+C182 -> Picked: 289, Dropped: 289, Failed pick: 174
+C183 -> Picked: 166, Dropped: 166, Failed pick: 123
+P183:
+C183 -> Picked: 285, Dropped: 285, Failed pick: 154
+C184 -> Picked: 170, Dropped: 170, Failed pick: 115
+P184:
+C184 -> Picked: 263, Dropped: 263, Failed pick: 171
+C185 -> Picked: 162, Dropped: 162, Failed pick: 101
+P185:
+C185 -> Picked: 293, Dropped: 293, Failed pick: 160
+C186 -> Picked: 170, Dropped: 170, Failed pick: 123
+P186:
+C186 -> Picked: 278, Dropped: 278, Failed pick: 177
+C187 -> Picked: 170, Dropped: 170, Failed pick: 108
+P187:
+C187 -> Picked: 271, Dropped: 271, Failed pick: 179
+C188 -> Picked: 172, Dropped: 172, Failed pick: 99
+P188:
+C188 -> Picked: 278, Dropped: 278, Failed pick: 172
+C189 -> Picked: 166, Dropped: 166, Failed pick: 112
+P189:
+C189 -> Picked: 285, Dropped: 285, Failed pick: 179
+C190 -> Picked: 176, Dropped: 176, Failed pick: 109
+P19:
+C19 -> Picked: 296, Dropped: 296, Failed pick: 167
+C20 -> Picked: 173, Dropped: 173, Failed pick: 123
+P190:
+C190 -> Picked: 286, Dropped: 286, Failed pick: 185
+C191 -> Picked: 161, Dropped: 161, Failed pick: 125
+P191:
+C191 -> Picked: 276, Dropped: 276, Failed pick: 165
+C192 -> Picked: 172, Dropped: 172, Failed pick: 104
+P192:
+C192 -> Picked: 269, Dropped: 269, Failed pick: 174
+C193 -> Picked: 158, Dropped: 158, Failed pick: 111
+P193:
+C193 -> Picked: 281, Dropped: 281, Failed pick: 172
+C194 -> Picked: 168, Dropped: 168, Failed pick: 113
+P194:
+C194 -> Picked: 262, Dropped: 262, Failed pick: 170
+C195 -> Picked: 171, Dropped: 171, Failed pick: 91
+P195:
+C195 -> Picked: 273, Dropped: 273, Failed pick: 182
+C196 -> Picked: 159, Dropped: 159, Failed pick: 114
+P196:
+C196 -> Picked: 287, Dropped: 287, Failed pick: 164
+C197 -> Picked: 182, Dropped: 182, Failed pick: 105
+P197:
+C197 -> Picked: 271, Dropped: 271, Failed pick: 182
+C198 -> Picked: 164, Dropped: 164, Failed pick: 107
+P198:
+C198 -> Picked: 277, Dropped: 277, Failed pick: 142
+C199 -> Picked: 174, Dropped: 174, Failed pick: 103
+P199:
+C199 -> Picked: 269, Dropped: 269, Failed pick: 198
+C200 -> Picked: 165, Dropped: 165, Failed pick: 104
+P20:
+C20 -> Picked: 282, Dropped: 282, Failed pick: 157
+C21 -> Picked: 178, Dropped: 178, Failed pick: 104
+P200:
+C200 -> Picked: 286, Dropped: 286, Failed pick: 155
+C201 -> Picked: 173, Dropped: 173, Failed pick: 113
+P201:
+C201 -> Picked: 283, Dropped: 283, Failed pick: 176
+C202 -> Picked: 160, Dropped: 160, Failed pick: 123
+P202:
+C202 -> Picked: 286, Dropped: 286, Failed pick: 140
+C203 -> Picked: 180, Dropped: 180, Failed pick: 106
+P203:
+C203 -> Picked: 278, Dropped: 278, Failed pick: 198
+C204 -> Picked: 161, Dropped: 161, Failed pick: 117
+P204:
+C204 -> Picked: 284, Dropped: 284, Failed pick: 156
+C205 -> Picked: 176, Dropped: 176, Failed pick: 108
+P205:
+C205 -> Picked: 264, Dropped: 264, Failed pick: 178
+C206 -> Picked: 165, Dropped: 165, Failed pick: 99
+P206:
+C206 -> Picked: 269, Dropped: 269, Failed pick: 181
+C207 -> Picked: 166, Dropped: 166, Failed pick: 103
+P207:
+C207 -> Picked: 300, Dropped: 300, Failed pick: 165
+C208 -> Picked: 174, Dropped: 174, Failed pick: 126
+P208:
+C208 -> Picked: 266, Dropped: 266, Failed pick: 153
+C209 -> Picked: 161, Dropped: 161, Failed pick: 105
+P209:
+C209 -> Picked: 279, Dropped: 279, Failed pick: 178
+C210 -> Picked: 169, Dropped: 169, Failed pick: 110
+P21:
+C21 -> Picked: 282, Dropped: 282, Failed pick: 197
+C22 -> Picked: 158, Dropped: 158, Failed pick: 124
+P210:
+C210 -> Picked: 286, Dropped: 286, Failed pick: 187
+C211 -> Picked: 164, Dropped: 164, Failed pick: 122
+P211:
+C211 -> Picked: 266, Dropped: 266, Failed pick: 164
+C212 -> Picked: 172, Dropped: 172, Failed pick: 94
+P212:
+C212 -> Picked: 282, Dropped: 282, Failed pick: 192
+C213 -> Picked: 164, Dropped: 164, Failed pick: 118
+P213:
+C213 -> Picked: 280, Dropped: 280, Failed pick: 162
+C214 -> Picked: 172, Dropped: 172, Failed pick: 108
+P214:
+C214 -> Picked: 264, Dropped: 264, Failed pick: 187
+C215 -> Picked: 179, Dropped: 179, Failed pick: 85
+P215:
+C215 -> Picked: 266, Dropped: 266, Failed pick: 183
+C216 -> Picked: 168, Dropped: 168, Failed pick: 98
+P216:
+C216 -> Picked: 270, Dropped: 270, Failed pick: 184
+C217 -> Picked: 163, Dropped: 163, Failed pick: 107
+P217:
+C217 -> Picked: 293, Dropped: 293, Failed pick: 156
+C218 -> Picked: 175, Dropped: 175, Failed pick: 118
+P218:
+C218 -> Picked: 269, Dropped: 269, Failed pick: 178
+C219 -> Picked: 173, Dropped: 173, Failed pick: 96
+P219:
+C219 -> Picked: 292, Dropped: 292, Failed pick: 161
+C220 -> Picked: 180, Dropped: 180, Failed pick: 112
+P22:
+C22 -> Picked: 275, Dropped: 275, Failed pick: 166
+C23 -> Picked: 179, Dropped: 179, Failed pick: 96
+P220:
+C220 -> Picked: 285, Dropped: 285, Failed pick: 164
+C221 -> Picked: 161, Dropped: 161, Failed pick: 124
+P221:
+C221 -> Picked: 302, Dropped: 302, Failed pick: 160
+C222 -> Picked: 179, Dropped: 179, Failed pick: 123
+P222:
+C222 -> Picked: 283, Dropped: 283, Failed pick: 166
+C223 -> Picked: 169, Dropped: 169, Failed pick: 114
+P223:
+C223 -> Picked: 281, Dropped: 281, Failed pick: 167
+C224 -> Picked: 165, Dropped: 165, Failed pick: 116
+P224:
+C224 -> Picked: 283, Dropped: 283, Failed pick: 151
+C225 -> Picked: 163, Dropped: 163, Failed pick: 120
+P225:
+C225 -> Picked: 291, Dropped: 291, Failed pick: 161
+C226 -> Picked: 189, Dropped: 189, Failed pick: 102
+P226:
+C226 -> Picked: 277, Dropped: 277, Failed pick: 181
+C227 -> Picked: 160, Dropped: 160, Failed pick: 117
+P227:
+C227 -> Picked: 272, Dropped: 272, Failed pick: 156
+C228 -> Picked: 160, Dropped: 160, Failed pick: 112
+P228:
+C228 -> Picked: 287, Dropped: 287, Failed pick: 162
+C229 -> Picked: 166, Dropped: 166, Failed pick: 121
+P229:
+C229 -> Picked: 283, Dropped: 283, Failed pick: 162
+C230 -> Picked: 170, Dropped: 170, Failed pick: 113
+P23:
+C23 -> Picked: 258, Dropped: 258, Failed pick: 199
+C24 -> Picked: 166, Dropped: 166, Failed pick: 92
+P230:
+C230 -> Picked: 285, Dropped: 285, Failed pick: 160
+C231 -> Picked: 169, Dropped: 169, Failed pick: 116
+P231:
+C231 -> Picked: 290, Dropped: 290, Failed pick: 158
+C232 -> Picked: 173, Dropped: 173, Failed pick: 117
+P232:
+C232 -> Picked: 267, Dropped: 267, Failed pick: 179
+C233 -> Picked: 167, Dropped: 167, Failed pick: 100
+P233:
+C233 -> Picked: 287, Dropped: 287, Failed pick: 173
+C234 -> Picked: 170, Dropped: 170, Failed pick: 117
+P234:
+C234 -> Picked: 279, Dropped: 279, Failed pick: 168
+C235 -> Picked: 165, Dropped: 165, Failed pick: 114
+P235:
+C235 -> Picked: 262, Dropped: 262, Failed pick: 162
+C236 -> Picked: 176, Dropped: 176, Failed pick: 86
+P236:
+C236 -> Picked: 275, Dropped: 275, Failed pick: 188
+C237 -> Picked: 165, Dropped: 165, Failed pick: 110
+P237:
+C237 -> Picked: 301, Dropped: 301, Failed pick: 166
+C238 -> Picked: 179, Dropped: 179, Failed pick: 122
+P238:
+C238 -> Picked: 283, Dropped: 283, Failed pick: 174
+C239 -> Picked: 169, Dropped: 169, Failed pick: 114
+P239:
+C239 -> Picked: 285, Dropped: 285, Failed pick: 159
+C240 -> Picked: 180, Dropped: 180, Failed pick: 105
+P24:
+C24 -> Picked: 286, Dropped: 286, Failed pick: 148
+C25 -> Picked: 165, Dropped: 165, Failed pick: 121
+P240:
+C240 -> Picked: 268, Dropped: 268, Failed pick: 165
+C241 -> Picked: 166, Dropped: 166, Failed pick: 102
+P241:
+C241 -> Picked: 281, Dropped: 281, Failed pick: 185
+C242 -> Picked: 158, Dropped: 158, Failed pick: 123
+P242:
+C242 -> Picked: 284, Dropped: 284, Failed pick: 144
+C243 -> Picked: 190, Dropped: 190, Failed pick: 94
+P243:
+C243 -> Picked: 264, Dropped: 264, Failed pick: 187
+C244 -> Picked: 158, Dropped: 158, Failed pick: 106
+P244:
+C244 -> Picked: 294, Dropped: 294, Failed pick: 153
+C245 -> Picked: 177, Dropped: 177, Failed pick: 117
+P245:
+C245 -> Picked: 268, Dropped: 268, Failed pick: 172
+C246 -> Picked: 170, Dropped: 170, Failed pick: 98
+P246:
+C246 -> Picked: 269, Dropped: 269, Failed pick: 188
+C247 -> Picked: 152, Dropped: 152, Failed pick: 117
+P247:
+C247 -> Picked: 277, Dropped: 277, Failed pick: 155
+C248 -> Picked: 168, Dropped: 168, Failed pick: 109
+P248:
+C248 -> Picked: 259, Dropped: 259, Failed pick: 161
+C249 -> Picked: 159, Dropped: 159, Failed pick: 100
+P249:
+C249 -> Picked: 261, Dropped: 261, Failed pick: 169
+C250 -> Picked: 173, Dropped: 173, Failed pick: 88
+P25:
+C25 -> Picked: 275, Dropped: 275, Failed pick: 183
+C26 -> Picked: 162, Dropped: 162, Failed pick: 113
+P250:
+C250 -> Picked: 285, Dropped: 285, Failed pick: 179
+C251 -> Picked: 174, Dropped: 174, Failed pick: 111
+P251:
+C251 -> Picked: 262, Dropped: 262, Failed pick: 181
+C252 -> Picked: 165, Dropped: 165, Failed pick: 97
+P252:
+C252 -> Picked: 279, Dropped: 279, Failed pick: 182
+C253 -> Picked: 162, Dropped: 162, Failed pick: 117
+P253:
+C253 -> Picked: 268, Dropped: 268, Failed pick: 174
+C254 -> Picked: 164, Dropped: 164, Failed pick: 104
+P254:
+C254 -> Picked: 270, Dropped: 270, Failed pick: 169
+C255 -> Picked: 169, Dropped: 169, Failed pick: 101
+P255:
+C255 -> Picked: 274, Dropped: 274, Failed pick: 176
+C256 -> Picked: 151, Dropped: 151, Failed pick: 123
+P256:
+C256 -> Picked: 279, Dropped: 279, Failed pick: 164
+C257 -> Picked: 187, Dropped: 187, Failed pick: 92
+P257:
+C257 -> Picked: 250, Dropped: 250, Failed pick: 191
+C258 -> Picked: 144, Dropped: 144, Failed pick: 106
+P258:
+C258 -> Picked: 273, Dropped: 273, Failed pick: 159
+C259 -> Picked: 170, Dropped: 170, Failed pick: 103
+P259:
+C259 -> Picked: 279, Dropped: 279, Failed pick: 187
+C260 -> Picked: 170, Dropped: 170, Failed pick: 109
+P26:
+C26 -> Picked: 275, Dropped: 275, Failed pick: 182
+C27 -> Picked: 172, Dropped: 172, Failed pick: 103
+P260:
+C260 -> Picked: 285, Dropped: 285, Failed pick: 177
+C261 -> Picked: 176, Dropped: 176, Failed pick: 109
+P261:
+C261 -> Picked: 285, Dropped: 285, Failed pick: 170
+C262 -> Picked: 165, Dropped: 165, Failed pick: 120
+P262:
+C262 -> Picked: 273, Dropped: 273, Failed pick: 181
+C263 -> Picked: 176, Dropped: 176, Failed pick: 97
+P263:
+C263 -> Picked: 269, Dropped: 269, Failed pick: 172
+C264 -> Picked: 165, Dropped: 165, Failed pick: 104
+P264:
+C264 -> Picked: 275, Dropped: 275, Failed pick: 167
+C265 -> Picked: 176, Dropped: 176, Failed pick: 99
+P265:
+C265 -> Picked: 268, Dropped: 268, Failed pick: 185
+C266 -> Picked: 163, Dropped: 163, Failed pick: 105
+P266:
+C266 -> Picked: 283, Dropped: 283, Failed pick: 183
+C267 -> Picked: 169, Dropped: 169, Failed pick: 114
+P267:
+C267 -> Picked: 276, Dropped: 276, Failed pick: 166
+C268 -> Picked: 166, Dropped: 166, Failed pick: 110
+P268:
+C268 -> Picked: 265, Dropped: 265, Failed pick: 165
+C269 -> Picked: 167, Dropped: 167, Failed pick: 98
+P269:
+C269 -> Picked: 264, Dropped: 264, Failed pick: 180
+C270 -> Picked: 151, Dropped: 151, Failed pick: 113
+P27:
+C27 -> Picked: 277, Dropped: 277, Failed pick: 185
+C28 -> Picked: 154, Dropped: 154, Failed pick: 123
+P270:
+C270 -> Picked: 274, Dropped: 274, Failed pick: 159
+C271 -> Picked: 160, Dropped: 160, Failed pick: 114
+P271:
+C271 -> Picked: 265, Dropped: 265, Failed pick: 173
+C272 -> Picked: 161, Dropped: 161, Failed pick: 104
+P272:
+C272 -> Picked: 256, Dropped: 256, Failed pick: 174
+C273 -> Picked: 163, Dropped: 163, Failed pick: 93
+P273:
+C273 -> Picked: 289, Dropped: 289, Failed pick: 168
+C274 -> Picked: 172, Dropped: 172, Failed pick: 117
+P274:
+C274 -> Picked: 280, Dropped: 280, Failed pick: 165
+C275 -> Picked: 174, Dropped: 174, Failed pick: 106
+P275:
+C275 -> Picked: 273, Dropped: 273, Failed pick: 166
+C276 -> Picked: 164, Dropped: 164, Failed pick: 109
+P276:
+C276 -> Picked: 272, Dropped: 272, Failed pick: 175
+C277 -> Picked: 165, Dropped: 165, Failed pick: 107
+P277:
+C277 -> Picked: 273, Dropped: 273, Failed pick: 185
+C278 -> Picked: 169, Dropped: 169, Failed pick: 104
+P278:
+C278 -> Picked: 299, Dropped: 299, Failed pick: 182
+C279 -> Picked: 176, Dropped: 176, Failed pick: 123
+P279:
+C279 -> Picked: 264, Dropped: 264, Failed pick: 164
+C280 -> Picked: 166, Dropped: 166, Failed pick: 98
+P28:
+C28 -> Picked: 305, Dropped: 305, Failed pick: 159
+C29 -> Picked: 184, Dropped: 184, Failed pick: 121
+P280:
+C280 -> Picked: 288, Dropped: 288, Failed pick: 175
+C281 -> Picked: 164, Dropped: 164, Failed pick: 124
+P281:
+C281 -> Picked: 282, Dropped: 282, Failed pick: 173
+C282 -> Picked: 172, Dropped: 172, Failed pick: 110
+P282:
+C282 -> Picked: 276, Dropped: 276, Failed pick: 186
+C283 -> Picked: 184, Dropped: 184, Failed pick: 92
+P283:
+C283 -> Picked: 297, Dropped: 297, Failed pick: 170
+C284 -> Picked: 168, Dropped: 168, Failed pick: 129
+P284:
+C284 -> Picked: 272, Dropped: 272, Failed pick: 157
+C285 -> Picked: 170, Dropped: 170, Failed pick: 102
+P285:
+C285 -> Picked: 298, Dropped: 298, Failed pick: 172
+C286 -> Picked: 170, Dropped: 170, Failed pick: 128
+P286:
+C286 -> Picked: 272, Dropped: 272, Failed pick: 158
+C287 -> Picked: 173, Dropped: 173, Failed pick: 99
+P287:
+C287 -> Picked: 274, Dropped: 274, Failed pick: 165
+C288 -> Picked: 164, Dropped: 164, Failed pick: 110
+P288:
+C288 -> Picked: 259, Dropped: 259, Failed pick: 169
+C289 -> Picked: 158, Dropped: 158, Failed pick: 101
+P289:
+C289 -> Picked: 266, Dropped: 266, Failed pick: 184
+C290 -> Picked: 172, Dropped: 172, Failed pick: 94
+P29:
+C29 -> Picked: 271, Dropped: 271, Failed pick: 179
+C30 -> Picked: 170, Dropped: 170, Failed pick: 101
+P290:
+C290 -> Picked: 292, Dropped: 292, Failed pick: 164
+C291 -> Picked: 159, Dropped: 159, Failed pick: 133
+P291:
+C291 -> Picked: 286, Dropped: 286, Failed pick: 173
+C292 -> Picked: 171, Dropped: 171, Failed pick: 115
+P292:
+C292 -> Picked: 276, Dropped: 276, Failed pick: 187
+C293 -> Picked: 176, Dropped: 176, Failed pick: 100
+P293:
+C293 -> Picked: 290, Dropped: 290, Failed pick: 168
+C294 -> Picked: 167, Dropped: 167, Failed pick: 123
+P294:
+C294 -> Picked: 269, Dropped: 269, Failed pick: 168
+C295 -> Picked: 176, Dropped: 176, Failed pick: 93
+P295:
+C295 -> Picked: 266, Dropped: 266, Failed pick: 177
+C296 -> Picked: 162, Dropped: 162, Failed pick: 104
+P296:
+C296 -> Picked: 274, Dropped: 274, Failed pick: 167
+C297 -> Picked: 173, Dropped: 173, Failed pick: 101
+P297:
+C297 -> Picked: 285, Dropped: 285, Failed pick: 177
+C298 -> Picked: 160, Dropped: 160, Failed pick: 125
+P298:
+C298 -> Picked: 276, Dropped: 276, Failed pick: 156
+C299 -> Picked: 166, Dropped: 166, Failed pick: 110
+P299:
+C299 -> Picked: 271, Dropped: 271, Failed pick: 196
+C300 -> Picked: 162, Dropped: 162, Failed pick: 109
+P30:
+C30 -> Picked: 272, Dropped: 272, Failed pick: 166
+C31 -> Picked: 173, Dropped: 173, Failed pick: 99
+P300:
+C300 -> Picked: 290, Dropped: 290, Failed pick: 166
+C301 -> Picked: 168, Dropped: 168, Failed pick: 122
+P301:
+C301 -> Picked: 289, Dropped: 289, Failed pick: 146
+C302 -> Picked: 171, Dropped: 171, Failed pick: 118
+P302:
+C302 -> Picked: 274, Dropped: 274, Failed pick: 175
+C303 -> Picked: 172, Dropped: 172, Failed pick: 102
+P303:
+C303 -> Picked: 266, Dropped: 266, Failed pick: 171
+C304 -> Picked: 162, Dropped: 162, Failed pick: 104
+P304:
+C304 -> Picked: 277, Dropped: 277, Failed pick: 174
+C305 -> Picked: 163, Dropped: 163, Failed pick: 114
+P305:
+C305 -> Picked: 284, Dropped: 284, Failed pick: 155
+C306 -> Picked: 171, Dropped: 171, Failed pick: 113
+P306:
+C306 -> Picked: 265, Dropped: 265, Failed pick: 186
+C307 -> Picked: 168, Dropped: 168, Failed pick: 97
+P307:
+C307 -> Picked: 270, Dropped: 270, Failed pick: 171
+C308 -> Picked: 157, Dropped: 157, Failed pick: 113
+P308:
+C308 -> Picked: 285, Dropped: 285, Failed pick: 176
+C309 -> Picked: 169, Dropped: 169, Failed pick: 116
+P309:
+C309 -> Picked: 283, Dropped: 283, Failed pick: 183
+C310 -> Picked: 167, Dropped: 167, Failed pick: 116
+P31:
+C31 -> Picked: 279, Dropped: 279, Failed pick: 162
+C32 -> Picked: 174, Dropped: 174, Failed pick: 105
+P310:
+C310 -> Picked: 271, Dropped: 271, Failed pick: 180
+C311 -> Picked: 162, Dropped: 162, Failed pick: 109
+P311:
+C311 -> Picked: 270, Dropped: 270, Failed pick: 194
+C312 -> Picked: 162, Dropped: 162, Failed pick: 108
+P312:
+C312 -> Picked: 272, Dropped: 272, Failed pick: 180
+C313 -> Picked: 163, Dropped: 163, Failed pick: 109
+P313:
+C313 -> Picked: 274, Dropped: 274, Failed pick: 160
+C314 -> Picked: 176, Dropped: 176, Failed pick: 98
+P314:
+C314 -> Picked: 268, Dropped: 268, Failed pick: 188
+C315 -> Picked: 160, Dropped: 160, Failed pick: 108
+P315:
+C315 -> Picked: 285, Dropped: 285, Failed pick: 154
+C316 -> Picked: 156, Dropped: 156, Failed pick: 129
+P316:
+C316 -> Picked: 281, Dropped: 281, Failed pick: 174
+C317 -> Picked: 165, Dropped: 165, Failed pick: 116
+P317:
+C317 -> Picked: 283, Dropped: 283, Failed pick: 165
+C318 -> Picked: 168, Dropped: 168, Failed pick: 115
+P318:
+C318 -> Picked: 270, Dropped: 270, Failed pick: 169
+C319 -> Picked: 181, Dropped: 181, Failed pick: 89
+P319:
+C319 -> Picked: 283, Dropped: 283, Failed pick: 161
+C320 -> Picked: 145, Dropped: 145, Failed pick: 138
+P32:
+C32 -> Picked: 294, Dropped: 294, Failed pick: 164
+C33 -> Picked: 180, Dropped: 180, Failed pick: 114
+P320:
+C320 -> Picked: 260, Dropped: 260, Failed pick: 170
+C321 -> Picked: 170, Dropped: 170, Failed pick: 90
+P321:
+C321 -> Picked: 270, Dropped: 270, Failed pick: 205
+C322 -> Picked: 148, Dropped: 148, Failed pick: 122
+P322:
+C322 -> Picked: 290, Dropped: 290, Failed pick: 161
+C323 -> Picked: 187, Dropped: 187, Failed pick: 103
+P323:
+C323 -> Picked: 253, Dropped: 253, Failed pick: 215
+C324 -> Picked: 153, Dropped: 153, Failed pick: 100
+P324:
+C324 -> Picked: 291, Dropped: 291, Failed pick: 139
+C325 -> Picked: 180, Dropped: 180, Failed pick: 111
+P325:
+C325 -> Picked: 287, Dropped: 287, Failed pick: 183
+C326 -> Picked: 174, Dropped: 174, Failed pick: 113
+P326:
+C326 -> Picked: 275, Dropped: 275, Failed pick: 183
+C327 -> Picked: 167, Dropped: 167, Failed pick: 108
+P327:
+C327 -> Picked: 278, Dropped: 278, Failed pick: 168
+C328 -> Picked: 170, Dropped: 170, Failed pick: 108
+P328:
+C328 -> Picked: 266, Dropped: 266, Failed pick: 160
+C329 -> Picked: 170, Dropped: 170, Failed pick: 96
+P329:
+C329 -> Picked: 285, Dropped: 285, Failed pick: 169
+C330 -> Picked: 155, Dropped: 155, Failed pick: 130
+P33:
+C33 -> Picked: 266, Dropped: 266, Failed pick: 177
+C34 -> Picked: 168, Dropped: 168, Failed pick: 98
+P330:
+C330 -> Picked: 292, Dropped: 292, Failed pick: 169
+C331 -> Picked: 176, Dropped: 176, Failed pick: 116
+P331:
+C331 -> Picked: 264, Dropped: 264, Failed pick: 175
+C332 -> Picked: 169, Dropped: 169, Failed pick: 95
+P332:
+C332 -> Picked: 271, Dropped: 271, Failed pick: 180
+C333 -> Picked: 162, Dropped: 162, Failed pick: 109
+P333:
+C333 -> Picked: 258, Dropped: 258, Failed pick: 167
+C334 -> Picked: 159, Dropped: 159, Failed pick: 99
+P334:
+C334 -> Picked: 274, Dropped: 274, Failed pick: 166
+C335 -> Picked: 158, Dropped: 158, Failed pick: 116
+P335:
+C335 -> Picked: 272, Dropped: 272, Failed pick: 181
+C336 -> Picked: 166, Dropped: 166, Failed pick: 106
+P336:
+C336 -> Picked: 268, Dropped: 268, Failed pick: 155
+C337 -> Picked: 169, Dropped: 169, Failed pick: 99
+P337:
+C337 -> Picked: 277, Dropped: 277, Failed pick: 160
+C338 -> Picked: 169, Dropped: 169, Failed pick: 108
+P338:
+C338 -> Picked: 265, Dropped: 265, Failed pick: 185
+C339 -> Picked: 166, Dropped: 166, Failed pick: 99
+P339:
+C339 -> Picked: 280, Dropped: 280, Failed pick: 176
+C340 -> Picked: 167, Dropped: 167, Failed pick: 113
+P34:
+C34 -> Picked: 294, Dropped: 294, Failed pick: 169
+C35 -> Picked: 159, Dropped: 159, Failed pick: 135
+P340:
+C340 -> Picked: 294, Dropped: 294, Failed pick: 177
+C341 -> Picked: 173, Dropped: 173, Failed pick: 121
+P341:
+C341 -> Picked: 280, Dropped: 280, Failed pick: 171
+C342 -> Picked: 170, Dropped: 170, Failed pick: 110
+P342:
+C342 -> Picked: 269, Dropped: 269, Failed pick: 166
+C343 -> Picked: 168, Dropped: 168, Failed pick: 101
+P343:
+C343 -> Picked: 285, Dropped: 285, Failed pick: 184
+C344 -> Picked: 156, Dropped: 156, Failed pick: 129
+P344:
+C344 -> Picked: 291, Dropped: 291, Failed pick: 157
+C345 -> Picked: 183, Dropped: 183, Failed pick: 108
+P345:
+C345 -> Picked: 259, Dropped: 259, Failed pick: 202
+C346 -> Picked: 141, Dropped: 141, Failed pick: 118
+P346:
+C346 -> Picked: 282, Dropped: 282, Failed pick: 148
+C347 -> Picked: 182, Dropped: 182, Failed pick: 100
+P347:
+C347 -> Picked: 277, Dropped: 277, Failed pick: 185
+C348 -> Picked: 153, Dropped: 153, Failed pick: 124
+P348:
+C348 -> Picked: 277, Dropped: 277, Failed pick: 165
+C349 -> Picked: 169, Dropped: 169, Failed pick: 108
+P349:
+C349 -> Picked: 270, Dropped: 270, Failed pick: 203
+C350 -> Picked: 162, Dropped: 162, Failed pick: 108
+P35:
+C35 -> Picked: 296, Dropped: 296, Failed pick: 154
+C36 -> Picked: 180, Dropped: 180, Failed pick: 116
+P350:
+C350 -> Picked: 277, Dropped: 277, Failed pick: 151
+C351 -> Picked: 168, Dropped: 168, Failed pick: 109
+P351:
+C351 -> Picked: 261, Dropped: 261, Failed pick: 177
+C352 -> Picked: 156, Dropped: 156, Failed pick: 105
+P352:
+C352 -> Picked: 272, Dropped: 272, Failed pick: 160
+C353 -> Picked: 177, Dropped: 177, Failed pick: 95
+P353:
+C353 -> Picked: 278, Dropped: 278, Failed pick: 207
+C354 -> Picked: 166, Dropped: 166, Failed pick: 112
+P354:
+C354 -> Picked: 286, Dropped: 286, Failed pick: 153
+C355 -> Picked: 162, Dropped: 162, Failed pick: 124
+P355:
+C355 -> Picked: 276, Dropped: 276, Failed pick: 183
+C356 -> Picked: 176, Dropped: 176, Failed pick: 100
+P356:
+C356 -> Picked: 264, Dropped: 264, Failed pick: 187
+C357 -> Picked: 160, Dropped: 160, Failed pick: 104
+P357:
+C357 -> Picked: 289, Dropped: 289, Failed pick: 175
+C358 -> Picked: 179, Dropped: 179, Failed pick: 110
+P358:
+C358 -> Picked: 260, Dropped: 260, Failed pick: 183
+C359 -> Picked: 174, Dropped: 174, Failed pick: 86
+P359:
+C359 -> Picked: 265, Dropped: 265, Failed pick: 199
+C360 -> Picked: 157, Dropped: 157, Failed pick: 108
+P36:
+C36 -> Picked: 260, Dropped: 260, Failed pick: 182
+C37 -> Picked: 152, Dropped: 152, Failed pick: 108
+P360:
+C360 -> Picked: 298, Dropped: 298, Failed pick: 161
+C361 -> Picked: 178, Dropped: 178, Failed pick: 120
+P361:
+C361 -> Picked: 262, Dropped: 262, Failed pick: 179
+C362 -> Picked: 162, Dropped: 162, Failed pick: 100
+P362:
+C362 -> Picked: 289, Dropped: 289, Failed pick: 174
+C363 -> Picked: 189, Dropped: 189, Failed pick: 100
+P363:
+C363 -> Picked: 268, Dropped: 268, Failed pick: 182
+C364 -> Picked: 156, Dropped: 156, Failed pick: 112
+P364:
+C364 -> Picked: 287, Dropped: 287, Failed pick: 166
+C365 -> Picked: 172, Dropped: 172, Failed pick: 115
+P365:
+C365 -> Picked: 266, Dropped: 266, Failed pick: 172
+C366 -> Picked: 169, Dropped: 169, Failed pick: 97
+P366:
+C366 -> Picked: 288, Dropped: 288, Failed pick: 167
+C367 -> Picked: 168, Dropped: 168, Failed pick: 120
+P367:
+C367 -> Picked: 275, Dropped: 275, Failed pick: 151
+C368 -> Picked: 169, Dropped: 169, Failed pick: 106
+P368:
+C368 -> Picked: 269, Dropped: 269, Failed pick: 149
+C369 -> Picked: 168, Dropped: 168, Failed pick: 101
+P369:
+C369 -> Picked: 258, Dropped: 258, Failed pick: 181
+C370 -> Picked: 148, Dropped: 148, Failed pick: 110
+P37:
+C37 -> Picked: 275, Dropped: 275, Failed pick: 172
+C38 -> Picked: 169, Dropped: 169, Failed pick: 106
+P370:
+C370 -> Picked: 291, Dropped: 291, Failed pick: 161
+C371 -> Picked: 180, Dropped: 180, Failed pick: 111
+P371:
+C371 -> Picked: 262, Dropped: 262, Failed pick: 183
+C372 -> Picked: 161, Dropped: 161, Failed pick: 101
+P372:
+C372 -> Picked: 285, Dropped: 285, Failed pick: 147
+C373 -> Picked: 163, Dropped: 163, Failed pick: 122
+P373:
+C373 -> Picked: 267, Dropped: 267, Failed pick: 164
+C374 -> Picked: 164, Dropped: 164, Failed pick: 103
+P374:
+C374 -> Picked: 280, Dropped: 280, Failed pick: 193
+C375 -> Picked: 158, Dropped: 158, Failed pick: 122
+P375:
+C375 -> Picked: 272, Dropped: 272, Failed pick: 147
+C376 -> Picked: 166, Dropped: 166, Failed pick: 106
+P376:
+C376 -> Picked: 286, Dropped: 286, Failed pick: 188
+C377 -> Picked: 162, Dropped: 162, Failed pick: 124
+P377:
+C377 -> Picked: 280, Dropped: 280, Failed pick: 159
+C378 -> Picked: 171, Dropped: 171, Failed pick: 109
+P378:
+C378 -> Picked: 288, Dropped: 288, Failed pick: 186
+C379 -> Picked: 157, Dropped: 157, Failed pick: 131
+P379:
+C379 -> Picked: 287, Dropped: 287, Failed pick: 163
+C380 -> Picked: 170, Dropped: 170, Failed pick: 117
+P38:
+C38 -> Picked: 295, Dropped: 295, Failed pick: 180
+C39 -> Picked: 163, Dropped: 163, Failed pick: 132
+P380:
+C380 -> Picked: 282, Dropped: 282, Failed pick: 172
+C381 -> Picked: 168, Dropped: 168, Failed pick: 114
+P381:
+C381 -> Picked: 291, Dropped: 291, Failed pick: 193
+C382 -> Picked: 162, Dropped: 162, Failed pick: 129
+P382:
+C382 -> Picked: 276, Dropped: 276, Failed pick: 163
+C383 -> Picked: 170, Dropped: 170, Failed pick: 106
+P383:
+C383 -> Picked: 258, Dropped: 258, Failed pick: 189
+C384 -> Picked: 161, Dropped: 161, Failed pick: 97
+P384:
+C384 -> Picked: 282, Dropped: 282, Failed pick: 167
+C385 -> Picked: 163, Dropped: 163, Failed pick: 119
+P385:
+C385 -> Picked: 285, Dropped: 285, Failed pick: 170
+C386 -> Picked: 175, Dropped: 175, Failed pick: 110
+P386:
+C386 -> Picked: 279, Dropped: 279, Failed pick: 179
+C387 -> Picked: 156, Dropped: 156, Failed pick: 123
+P387:
+C387 -> Picked: 269, Dropped: 269, Failed pick: 158
+C388 -> Picked: 169, Dropped: 169, Failed pick: 100
+P388:
+C388 -> Picked: 281, Dropped: 281, Failed pick: 194
+C389 -> Picked: 180, Dropped: 180, Failed pick: 101
+P389:
+C389 -> Picked: 302, Dropped: 302, Failed pick: 163
+C390 -> Picked: 163, Dropped: 163, Failed pick: 139
+P39:
+C39 -> Picked: 268, Dropped: 268, Failed pick: 166
+C40 -> Picked: 177, Dropped: 177, Failed pick: 91
+P390:
+C390 -> Picked: 262, Dropped: 262, Failed pick: 166
+C391 -> Picked: 175, Dropped: 175, Failed pick: 87
+P391:
+C391 -> Picked: 260, Dropped: 260, Failed pick: 179
+C392 -> Picked: 164, Dropped: 164, Failed pick: 96
+P392:
+C392 -> Picked: 299, Dropped: 299, Failed pick: 148
+C393 -> Picked: 171, Dropped: 171, Failed pick: 128
+P393:
+C393 -> Picked: 285, Dropped: 285, Failed pick: 164
+C394 -> Picked: 163, Dropped: 163, Failed pick: 122
+P394:
+C394 -> Picked: 272, Dropped: 272, Failed pick: 198
+C395 -> Picked: 165, Dropped: 165, Failed pick: 107
+P395:
+C395 -> Picked: 277, Dropped: 277, Failed pick: 174
+C396 -> Picked: 167, Dropped: 167, Failed pick: 110
+P396:
+C396 -> Picked: 287, Dropped: 287, Failed pick: 168
+C397 -> Picked: 173, Dropped: 173, Failed pick: 114
+P397:
+C397 -> Picked: 277, Dropped: 277, Failed pick: 179
+C398 -> Picked: 164, Dropped: 164, Failed pick: 113
+P398:
+C398 -> Picked: 283, Dropped: 283, Failed pick: 165
+C399 -> Picked: 177, Dropped: 177, Failed pick: 106
+P399:
+C399 -> Picked: 274, Dropped: 274, Failed pick: 174
+C400 -> Picked: 167, Dropped: 167, Failed pick: 107
+P40:
+C40 -> Picked: 263, Dropped: 263, Failed pick: 184
+C41 -> Picked: 151, Dropped: 151, Failed pick: 112
+P400:
+C400 -> Picked: 269, Dropped: 269, Failed pick: 173
+C401 -> Picked: 170, Dropped: 170, Failed pick: 99
+P401:
+C401 -> Picked: 263, Dropped: 263, Failed pick: 161
+C402 -> Picked: 170, Dropped: 170, Failed pick: 93
+P402:
+C402 -> Picked: 276, Dropped: 276, Failed pick: 174
+C403 -> Picked: 164, Dropped: 164, Failed pick: 112
+P403:
+C403 -> Picked: 271, Dropped: 271, Failed pick: 166
+C404 -> Picked: 165, Dropped: 165, Failed pick: 106
+P404:
+C404 -> Picked: 276, Dropped: 276, Failed pick: 172
+C405 -> Picked: 160, Dropped: 160, Failed pick: 116
+P405:
+C405 -> Picked: 280, Dropped: 280, Failed pick: 174
+C406 -> Picked: 176, Dropped: 176, Failed pick: 104
+P406:
+C406 -> Picked: 279, Dropped: 279, Failed pick: 187
+C407 -> Picked: 168, Dropped: 168, Failed pick: 111
+P407:
+C407 -> Picked: 287, Dropped: 287, Failed pick: 166
+C408 -> Picked: 172, Dropped: 172, Failed pick: 115
+P408:
+C408 -> Picked: 271, Dropped: 271, Failed pick: 157
+C409 -> Picked: 157, Dropped: 157, Failed pick: 114
+P409:
+C409 -> Picked: 274, Dropped: 274, Failed pick: 186
+C410 -> Picked: 183, Dropped: 183, Failed pick: 91
+P41:
+C41 -> Picked: 302, Dropped: 302, Failed pick: 147
+C42 -> Picked: 179, Dropped: 179, Failed pick: 123
+P410:
+C410 -> Picked: 275, Dropped: 275, Failed pick: 180
+C411 -> Picked: 170, Dropped: 170, Failed pick: 105
+P411:
+C411 -> Picked: 277, Dropped: 277, Failed pick: 172
+C412 -> Picked: 160, Dropped: 160, Failed pick: 117
+P412:
+C412 -> Picked: 283, Dropped: 283, Failed pick: 178
+C413 -> Picked: 172, Dropped: 172, Failed pick: 111
+P413:
+C413 -> Picked: 279, Dropped: 279, Failed pick: 170
+C414 -> Picked: 168, Dropped: 168, Failed pick: 111
+P414:
+C414 -> Picked: 272, Dropped: 272, Failed pick: 186
+C415 -> Picked: 165, Dropped: 165, Failed pick: 107
+P415:
+C415 -> Picked: 274, Dropped: 274, Failed pick: 161
+C416 -> Picked: 167, Dropped: 167, Failed pick: 107
+P416:
+C416 -> Picked: 275, Dropped: 275, Failed pick: 173
+C417 -> Picked: 172, Dropped: 172, Failed pick: 103
+P417:
+C417 -> Picked: 273, Dropped: 273, Failed pick: 169
+C418 -> Picked: 157, Dropped: 157, Failed pick: 116
+P418:
+C418 -> Picked: 287, Dropped: 287, Failed pick: 182
+C419 -> Picked: 170, Dropped: 170, Failed pick: 117
+P419:
+C419 -> Picked: 275, Dropped: 275, Failed pick: 170
+C420 -> Picked: 168, Dropped: 168, Failed pick: 107
+P42:
+C42 -> Picked: 260, Dropped: 260, Failed pick: 176
+C43 -> Picked: 161, Dropped: 161, Failed pick: 99
+P420:
+C420 -> Picked: 273, Dropped: 273, Failed pick: 169
+C421 -> Picked: 171, Dropped: 171, Failed pick: 102
+P421:
+C421 -> Picked: 271, Dropped: 271, Failed pick: 175
+C422 -> Picked: 162, Dropped: 162, Failed pick: 109
+P422:
+C422 -> Picked: 251, Dropped: 251, Failed pick: 168
+C423 -> Picked: 156, Dropped: 156, Failed pick: 95
+P423:
+C423 -> Picked: 274, Dropped: 274, Failed pick: 168
+C424 -> Picked: 155, Dropped: 155, Failed pick: 119
+P424:
+C424 -> Picked: 270, Dropped: 270, Failed pick: 146
+C425 -> Picked: 173, Dropped: 173, Failed pick: 97
+P425:
+C425 -> Picked: 282, Dropped: 282, Failed pick: 174
+C426 -> Picked: 164, Dropped: 164, Failed pick: 118
+P426:
+C426 -> Picked: 301, Dropped: 301, Failed pick: 159
+C427 -> Picked: 180, Dropped: 180, Failed pick: 121
+P427:
+C427 -> Picked: 267, Dropped: 267, Failed pick: 170
+C428 -> Picked: 172, Dropped: 172, Failed pick: 95
+P428:
+C428 -> Picked: 292, Dropped: 292, Failed pick: 189
+C429 -> Picked: 158, Dropped: 158, Failed pick: 134
+P429:
+C429 -> Picked: 289, Dropped: 289, Failed pick: 162
+C430 -> Picked: 175, Dropped: 175, Failed pick: 114
+P43:
+C43 -> Picked: 260, Dropped: 260, Failed pick: 181
+C44 -> Picked: 167, Dropped: 167, Failed pick: 93
+P430:
+C430 -> Picked: 276, Dropped: 276, Failed pick: 175
+C431 -> Picked: 166, Dropped: 166, Failed pick: 110
+P431:
+C431 -> Picked: 275, Dropped: 275, Failed pick: 171
+C432 -> Picked: 174, Dropped: 174, Failed pick: 101
+P432:
+C432 -> Picked: 258, Dropped: 258, Failed pick: 173
+C433 -> Picked: 164, Dropped: 164, Failed pick: 94
+P433:
+C433 -> Picked: 286, Dropped: 286, Failed pick: 167
+C434 -> Picked: 177, Dropped: 177, Failed pick: 109
+P434:
+C434 -> Picked: 273, Dropped: 273, Failed pick: 171
+C435 -> Picked: 169, Dropped: 169, Failed pick: 104
+P435:
+C435 -> Picked: 264, Dropped: 264, Failed pick: 183
+C436 -> Picked: 156, Dropped: 156, Failed pick: 108
+P436:
+C436 -> Picked: 282, Dropped: 282, Failed pick: 178
+C437 -> Picked: 162, Dropped: 162, Failed pick: 120
+P437:
+C437 -> Picked: 294, Dropped: 294, Failed pick: 146
+C438 -> Picked: 179, Dropped: 179, Failed pick: 115
+P438:
+C438 -> Picked: 269, Dropped: 269, Failed pick: 180
+C439 -> Picked: 186, Dropped: 186, Failed pick: 83
+P439:
+C439 -> Picked: 288, Dropped: 288, Failed pick: 163
+C440 -> Picked: 164, Dropped: 164, Failed pick: 124
+P44:
+C44 -> Picked: 270, Dropped: 270, Failed pick: 167
+C45 -> Picked: 154, Dropped: 154, Failed pick: 116
+P440:
+C440 -> Picked: 283, Dropped: 283, Failed pick: 160
+C441 -> Picked: 172, Dropped: 172, Failed pick: 111
+P441:
+C441 -> Picked: 269, Dropped: 269, Failed pick: 186
+C442 -> Picked: 170, Dropped: 170, Failed pick: 99
+P442:
+C442 -> Picked: 290, Dropped: 290, Failed pick: 183
+C443 -> Picked: 174, Dropped: 174, Failed pick: 116
+P443:
+C443 -> Picked: 269, Dropped: 269, Failed pick: 170
+C444 -> Picked: 176, Dropped: 176, Failed pick: 93
+P444:
+C444 -> Picked: 270, Dropped: 270, Failed pick: 187
+C445 -> Picked: 172, Dropped: 172, Failed pick: 98
+P445:
+C445 -> Picked: 282, Dropped: 282, Failed pick: 164
+C446 -> Picked: 173, Dropped: 173, Failed pick: 109
+P446:
+C446 -> Picked: 279, Dropped: 279, Failed pick: 163
+C447 -> Picked: 169, Dropped: 169, Failed pick: 110
+P447:
+C447 -> Picked: 284, Dropped: 284, Failed pick: 178
+C448 -> Picked: 169, Dropped: 169, Failed pick: 115
+P448:
+C448 -> Picked: 265, Dropped: 265, Failed pick: 171
+C449 -> Picked: 174, Dropped: 174, Failed pick: 91
+P449:
+C449 -> Picked: 272, Dropped: 272, Failed pick: 161
+C450 -> Picked: 167, Dropped: 167, Failed pick: 105
+P45:
+C45 -> Picked: 284, Dropped: 284, Failed pick: 176
+C46 -> Picked: 183, Dropped: 183, Failed pick: 101
+P450:
+C450 -> Picked: 287, Dropped: 287, Failed pick: 163
+C451 -> Picked: 170, Dropped: 170, Failed pick: 117
+P451:
+C451 -> Picked: 279, Dropped: 279, Failed pick: 165
+C452 -> Picked: 168, Dropped: 168, Failed pick: 111
+P452:
+C452 -> Picked: 273, Dropped: 273, Failed pick: 167
+C453 -> Picked: 180, Dropped: 180, Failed pick: 93
+P453:
+C453 -> Picked: 275, Dropped: 275, Failed pick: 173
+C454 -> Picked: 168, Dropped: 168, Failed pick: 107
+P454:
+C454 -> Picked: 267, Dropped: 267, Failed pick: 151
+C455 -> Picked: 172, Dropped: 172, Failed pick: 95
+P455:
+C455 -> Picked: 265, Dropped: 265, Failed pick: 173
+C456 -> Picked: 156, Dropped: 156, Failed pick: 109
+P456:
+C456 -> Picked: 282, Dropped: 282, Failed pick: 160
+C457 -> Picked: 166, Dropped: 166, Failed pick: 116
+P457:
+C457 -> Picked: 271, Dropped: 271, Failed pick: 180
+C458 -> Picked: 163, Dropped: 163, Failed pick: 108
+P458:
+C458 -> Picked: 262, Dropped: 262, Failed pick: 147
+C459 -> Picked: 171, Dropped: 171, Failed pick: 91
+P459:
+C459 -> Picked: 254, Dropped: 254, Failed pick: 184
+C460 -> Picked: 162, Dropped: 162, Failed pick: 92
+P46:
+C46 -> Picked: 267, Dropped: 267, Failed pick: 186
+C47 -> Picked: 173, Dropped: 173, Failed pick: 94
+P460:
+C460 -> Picked: 287, Dropped: 287, Failed pick: 163
+C461 -> Picked: 168, Dropped: 168, Failed pick: 119
+P461:
+C461 -> Picked: 283, Dropped: 283, Failed pick: 180
+C462 -> Picked: 168, Dropped: 168, Failed pick: 115
+P462:
+C462 -> Picked: 265, Dropped: 265, Failed pick: 194
+C463 -> Picked: 165, Dropped: 165, Failed pick: 100
+P463:
+C463 -> Picked: 274, Dropped: 274, Failed pick: 163
+C464 -> Picked: 153, Dropped: 153, Failed pick: 121
+P464:
+C464 -> Picked: 280, Dropped: 280, Failed pick: 147
+C465 -> Picked: 168, Dropped: 168, Failed pick: 112
+P465:
+C465 -> Picked: 261, Dropped: 261, Failed pick: 171
+C466 -> Picked: 164, Dropped: 164, Failed pick: 97
+P466:
+C466 -> Picked: 295, Dropped: 295, Failed pick: 174
+C467 -> Picked: 169, Dropped: 169, Failed pick: 126
+P467:
+C467 -> Picked: 275, Dropped: 275, Failed pick: 164
+C468 -> Picked: 177, Dropped: 177, Failed pick: 98
+P468:
+C468 -> Picked: 291, Dropped: 291, Failed pick: 182
+C469 -> Picked: 170, Dropped: 170, Failed pick: 121
+P469:
+C469 -> Picked: 288, Dropped: 288, Failed pick: 174
+C470 -> Picked: 171, Dropped: 171, Failed pick: 117
+P47:
+C47 -> Picked: 274, Dropped: 274, Failed pick: 171
+C48 -> Picked: 170, Dropped: 170, Failed pick: 104
+P470:
+C470 -> Picked: 280, Dropped: 280, Failed pick: 179
+C471 -> Picked: 161, Dropped: 161, Failed pick: 119
+P471:
+C471 -> Picked: 278, Dropped: 278, Failed pick: 177
+C472 -> Picked: 172, Dropped: 172, Failed pick: 106
+P472:
+C472 -> Picked: 260, Dropped: 260, Failed pick: 181
+C473 -> Picked: 162, Dropped: 162, Failed pick: 98
+P473:
+C473 -> Picked: 295, Dropped: 295, Failed pick: 163
+C474 -> Picked: 171, Dropped: 171, Failed pick: 124
+P474:
+C474 -> Picked: 259, Dropped: 259, Failed pick: 183
+C475 -> Picked: 167, Dropped: 167, Failed pick: 92
+P475:
+C475 -> Picked: 297, Dropped: 297, Failed pick: 161
+C476 -> Picked: 161, Dropped: 161, Failed pick: 136
+P476:
+C476 -> Picked: 284, Dropped: 284, Failed pick: 164
+C477 -> Picked: 181, Dropped: 181, Failed pick: 103
+P477:
+C477 -> Picked: 272, Dropped: 272, Failed pick: 200
+C478 -> Picked: 148, Dropped: 148, Failed pick: 124
+P478:
+C478 -> Picked: 286, Dropped: 286, Failed pick: 158
+C479 -> Picked: 164, Dropped: 164, Failed pick: 122
+P479:
+C479 -> Picked: 280, Dropped: 280, Failed pick: 182
+C480 -> Picked: 159, Dropped: 159, Failed pick: 121
+P48:
+C48 -> Picked: 278, Dropped: 278, Failed pick: 168
+C49 -> Picked: 177, Dropped: 177, Failed pick: 101
+P480:
+C480 -> Picked: 277, Dropped: 277, Failed pick: 150
+C481 -> Picked: 168, Dropped: 168, Failed pick: 109
+P481:
+C481 -> Picked: 275, Dropped: 275, Failed pick: 177
+C482 -> Picked: 171, Dropped: 171, Failed pick: 104
+P482:
+C482 -> Picked: 280, Dropped: 280, Failed pick: 178
+C483 -> Picked: 181, Dropped: 181, Failed pick: 99
+P483:
+C483 -> Picked: 273, Dropped: 273, Failed pick: 165
+C484 -> Picked: 164, Dropped: 164, Failed pick: 109
+P484:
+C484 -> Picked: 293, Dropped: 293, Failed pick: 162
+C485 -> Picked: 171, Dropped: 171, Failed pick: 122
+P485:
+C485 -> Picked: 269, Dropped: 269, Failed pick: 194
+C486 -> Picked: 175, Dropped: 175, Failed pick: 94
+P486:
+C486 -> Picked: 269, Dropped: 269, Failed pick: 175
+C487 -> Picked: 160, Dropped: 160, Failed pick: 109
+P487:
+C487 -> Picked: 302, Dropped: 302, Failed pick: 148
+C488 -> Picked: 181, Dropped: 181, Failed pick: 121
+P488:
+C488 -> Picked: 275, Dropped: 275, Failed pick: 183
+C489 -> Picked: 164, Dropped: 164, Failed pick: 111
+P489:
+C489 -> Picked: 309, Dropped: 309, Failed pick: 141
+C490 -> Picked: 186, Dropped: 186, Failed pick: 123
+P49:
+C49 -> Picked: 293, Dropped: 293, Failed pick: 183
+C50 -> Picked: 172, Dropped: 172, Failed pick: 121
+P490:
+C490 -> Picked: 267, Dropped: 267, Failed pick: 182
+C491 -> Picked: 160, Dropped: 160, Failed pick: 107
+P491:
+C491 -> Picked: 268, Dropped: 268, Failed pick: 171
+C492 -> Picked: 171, Dropped: 171, Failed pick: 97
+P492:
+C492 -> Picked: 282, Dropped: 282, Failed pick: 164
+C493 -> Picked: 178, Dropped: 178, Failed pick: 104
+P493:
+C493 -> Picked: 266, Dropped: 266, Failed pick: 179
+C494 -> Picked: 162, Dropped: 162, Failed pick: 104
+P494:
+C494 -> Picked: 252, Dropped: 252, Failed pick: 168
+C495 -> Picked: 167, Dropped: 167, Failed pick: 85
+P495:
+C495 -> Picked: 264, Dropped: 264, Failed pick: 177
+C496 -> Picked: 156, Dropped: 156, Failed pick: 108
+P496:
+C496 -> Picked: 295, Dropped: 295, Failed pick: 148
+C497 -> Picked: 174, Dropped: 174, Failed pick: 121
+P497:
+C497 -> Picked: 278, Dropped: 278, Failed pick: 185
+C498 -> Picked: 174, Dropped: 174, Failed pick: 104
+P498:
+C498 -> Picked: 278, Dropped: 278, Failed pick: 181
+C499 -> Picked: 157, Dropped: 157, Failed pick: 121
+P499:
+C499 -> Picked: 268, Dropped: 268, Failed pick: 165
+C500 -> Picked: 169, Dropped: 169, Failed pick: 99
+P50:
+C50 -> Picked: 274, Dropped: 274, Failed pick: 166
+C51 -> Picked: 168, Dropped: 168, Failed pick: 106
+P500:
+C500 -> Picked: 281, Dropped: 281, Failed pick: 167
+C501 -> Picked: 161, Dropped: 161, Failed pick: 120
+P501:
+C501 -> Picked: 289, Dropped: 289, Failed pick: 163
+C502 -> Picked: 170, Dropped: 170, Failed pick: 119
+P502:
+C502 -> Picked: 259, Dropped: 259, Failed pick: 186
+C503 -> Picked: 159, Dropped: 159, Failed pick: 100
+P503:
+C503 -> Picked: 260, Dropped: 260, Failed pick: 172
+C504 -> Picked: 161, Dropped: 161, Failed pick: 99
+P504:
+C504 -> Picked: 260, Dropped: 260, Failed pick: 172
+C505 -> Picked: 155, Dropped: 155, Failed pick: 105
+P505:
+C505 -> Picked: 275, Dropped: 275, Failed pick: 157
+C506 -> Picked: 178, Dropped: 178, Failed pick: 97
+P506:
+C506 -> Picked: 268, Dropped: 268, Failed pick: 188
+C507 -> Picked: 142, Dropped: 142, Failed pick: 126
+P507:
+C507 -> Picked: 288, Dropped: 288, Failed pick: 158
+C508 -> Picked: 176, Dropped: 176, Failed pick: 112
+P508:
+C508 -> Picked: 269, Dropped: 269, Failed pick: 189
+C509 -> Picked: 168, Dropped: 168, Failed pick: 101
+P509:
+C509 -> Picked: 297, Dropped: 297, Failed pick: 169
+C510 -> Picked: 160, Dropped: 160, Failed pick: 137
+P51:
+C51 -> Picked: 286, Dropped: 286, Failed pick: 158
+C52 -> Picked: 166, Dropped: 166, Failed pick: 120
+P510:
+C510 -> Picked: 271, Dropped: 271, Failed pick: 159
+C511 -> Picked: 175, Dropped: 175, Failed pick: 96
+P511:
+C511 -> Picked: 269, Dropped: 269, Failed pick: 182
+C512 -> Picked: 155, Dropped: 155, Failed pick: 114
+P512:
+C512 -> Picked: 278, Dropped: 278, Failed pick: 145
+C513 -> Picked: 179, Dropped: 179, Failed pick: 99
+P513:
+C513 -> Picked: 260, Dropped: 260, Failed pick: 176
+C514 -> Picked: 158, Dropped: 158, Failed pick: 102
+P514:
+C514 -> Picked: 274, Dropped: 274, Failed pick: 170
+C515 -> Picked: 161, Dropped: 161, Failed pick: 113
+P515:
+C515 -> Picked: 291, Dropped: 291, Failed pick: 168
+C516 -> Picked: 176, Dropped: 176, Failed pick: 115
+P516:
+C516 -> Picked: 264, Dropped: 264, Failed pick: 177
+C517 -> Picked: 172, Dropped: 172, Failed pick: 92
+P517:
+C517 -> Picked: 272, Dropped: 272, Failed pick: 194
+C518 -> Picked: 170, Dropped: 170, Failed pick: 102
+P518:
+C518 -> Picked: 284, Dropped: 284, Failed pick: 152
+C519 -> Picked: 171, Dropped: 171, Failed pick: 113
+P519:
+C519 -> Picked: 285, Dropped: 285, Failed pick: 153
+C520 -> Picked: 171, Dropped: 171, Failed pick: 114
+P52:
+C52 -> Picked: 278, Dropped: 278, Failed pick: 172
+C53 -> Picked: 171, Dropped: 171, Failed pick: 107
+P520:
+C520 -> Picked: 260, Dropped: 260, Failed pick: 174
+C521 -> Picked: 152, Dropped: 152, Failed pick: 108
+P521:
+C521 -> Picked: 299, Dropped: 299, Failed pick: 177
+C522 -> Picked: 160, Dropped: 160, Failed pick: 139
+P522:
+C522 -> Picked: 297, Dropped: 297, Failed pick: 154
+C523 -> Picked: 193, Dropped: 193, Failed pick: 104
+P523:
+C523 -> Picked: 265, Dropped: 265, Failed pick: 201
+C524 -> Picked: 154, Dropped: 154, Failed pick: 111
+P524:
+C524 -> Picked: 292, Dropped: 292, Failed pick: 155
+C525 -> Picked: 165, Dropped: 165, Failed pick: 127
+P525:
+C525 -> Picked: 274, Dropped: 274, Failed pick: 177
+C526 -> Picked: 172, Dropped: 172, Failed pick: 102
+P526:
+C526 -> Picked: 273, Dropped: 273, Failed pick: 166
+C527 -> Picked: 158, Dropped: 158, Failed pick: 115
+P527:
+C527 -> Picked: 283, Dropped: 283, Failed pick: 165
+C528 -> Picked: 160, Dropped: 160, Failed pick: 123
+P528:
+C528 -> Picked: 294, Dropped: 294, Failed pick: 158
+C529 -> Picked: 185, Dropped: 185, Failed pick: 109
+P529:
+C529 -> Picked: 282, Dropped: 282, Failed pick: 203
+C530 -> Picked: 164, Dropped: 164, Failed pick: 118
+P53:
+C53 -> Picked: 267, Dropped: 267, Failed pick: 155
+C54 -> Picked: 175, Dropped: 175, Failed pick: 92
+P530:
+C530 -> Picked: 271, Dropped: 271, Failed pick: 160
+C531 -> Picked: 158, Dropped: 158, Failed pick: 113
+P531:
+C531 -> Picked: 264, Dropped: 264, Failed pick: 169
+C532 -> Picked: 181, Dropped: 181, Failed pick: 83
+P532:
+C532 -> Picked: 296, Dropped: 296, Failed pick: 183
+C533 -> Picked: 156, Dropped: 156, Failed pick: 140
+P533:
+C533 -> Picked: 279, Dropped: 279, Failed pick: 165
+C534 -> Picked: 185, Dropped: 185, Failed pick: 94
+P534:
+C534 -> Picked: 277, Dropped: 277, Failed pick: 198
+C535 -> Picked: 154, Dropped: 154, Failed pick: 123
+P535:
+C535 -> Picked: 304, Dropped: 304, Failed pick: 144
+C536 -> Picked: 172, Dropped: 172, Failed pick: 132
+P536:
+C536 -> Picked: 255, Dropped: 255, Failed pick: 169
+C537 -> Picked: 159, Dropped: 159, Failed pick: 96
+P537:
+C537 -> Picked: 270, Dropped: 270, Failed pick: 156
+C538 -> Picked: 166, Dropped: 166, Failed pick: 104
+P538:
+C538 -> Picked: 286, Dropped: 286, Failed pick: 186
+C539 -> Picked: 162, Dropped: 162, Failed pick: 124
+P539:
+C539 -> Picked: 297, Dropped: 297, Failed pick: 157
+C540 -> Picked: 174, Dropped: 174, Failed pick: 123
+P54:
+C54 -> Picked: 271, Dropped: 271, Failed pick: 185
+C55 -> Picked: 160, Dropped: 160, Failed pick: 111
+P540:
+C540 -> Picked: 277, Dropped: 277, Failed pick: 190
+C541 -> Picked: 162, Dropped: 162, Failed pick: 115
+P541:
+C541 -> Picked: 291, Dropped: 291, Failed pick: 161
+C542 -> Picked: 181, Dropped: 181, Failed pick: 110
+P542:
+C542 -> Picked: 267, Dropped: 267, Failed pick: 193
+C543 -> Picked: 156, Dropped: 156, Failed pick: 111
+P543:
+C543 -> Picked: 291, Dropped: 291, Failed pick: 177
+C544 -> Picked: 184, Dropped: 184, Failed pick: 107
+P544:
+C544 -> Picked: 277, Dropped: 277, Failed pick: 181
+C545 -> Picked: 152, Dropped: 152, Failed pick: 125
+P545:
+C545 -> Picked: 287, Dropped: 287, Failed pick: 158
+C546 -> Picked: 187, Dropped: 187, Failed pick: 100
+P546:
+C546 -> Picked: 269, Dropped: 269, Failed pick: 186
+C547 -> Picked: 170, Dropped: 170, Failed pick: 99
+P547:
+C547 -> Picked: 276, Dropped: 276, Failed pick: 161
+C548 -> Picked: 171, Dropped: 171, Failed pick: 105
+P548:
+C548 -> Picked: 275, Dropped: 275, Failed pick: 176
+C549 -> Picked: 168, Dropped: 168, Failed pick: 107
+P549:
+C549 -> Picked: 284, Dropped: 284, Failed pick: 159
+C550 -> Picked: 181, Dropped: 181, Failed pick: 103
+P55:
+C55 -> Picked: 265, Dropped: 265, Failed pick: 161
+C56 -> Picked: 164, Dropped: 164, Failed pick: 101
+P550:
+C550 -> Picked: 267, Dropped: 267, Failed pick: 179
+C551 -> Picked: 155, Dropped: 155, Failed pick: 112
+P551:
+C551 -> Picked: 288, Dropped: 288, Failed pick: 158
+C552 -> Picked: 174, Dropped: 174, Failed pick: 114
+P552:
+C552 -> Picked: 258, Dropped: 258, Failed pick: 180
+C553 -> Picked: 163, Dropped: 163, Failed pick: 95
+P553:
+C553 -> Picked: 269, Dropped: 269, Failed pick: 165
+C554 -> Picked: 163, Dropped: 163, Failed pick: 106
+P554:
+C554 -> Picked: 285, Dropped: 285, Failed pick: 172
+C555 -> Picked: 165, Dropped: 165, Failed pick: 120
+P555:
+C555 -> Picked: 274, Dropped: 274, Failed pick: 181
+C556 -> Picked: 167, Dropped: 167, Failed pick: 107
+P556:
+C556 -> Picked: 287, Dropped: 287, Failed pick: 162
+C557 -> Picked: 173, Dropped: 173, Failed pick: 114
+P557:
+C557 -> Picked: 284, Dropped: 284, Failed pick: 200
+C558 -> Picked: 173, Dropped: 173, Failed pick: 111
+P558:
+C558 -> Picked: 272, Dropped: 272, Failed pick: 178
+C559 -> Picked: 172, Dropped: 172, Failed pick: 100
+P559:
+C559 -> Picked: 275, Dropped: 275, Failed pick: 171
+C560 -> Picked: 154, Dropped: 154, Failed pick: 121
+P56:
+C56 -> Picked: 269, Dropped: 269, Failed pick: 161
+C57 -> Picked: 162, Dropped: 162, Failed pick: 107
+P560:
+C560 -> Picked: 272, Dropped: 272, Failed pick: 151
+C561 -> Picked: 174, Dropped: 174, Failed pick: 98
+P561:
+C561 -> Picked: 283, Dropped: 283, Failed pick: 191
+C562 -> Picked: 163, Dropped: 163, Failed pick: 120
+P562:
+C562 -> Picked: 303, Dropped: 303, Failed pick: 147
+C563 -> Picked: 181, Dropped: 181, Failed pick: 122
+P563:
+C563 -> Picked: 263, Dropped: 263, Failed pick: 186
+C564 -> Picked: 169, Dropped: 169, Failed pick: 94
+P564:
+C564 -> Picked: 269, Dropped: 269, Failed pick: 178
+C565 -> Picked: 161, Dropped: 161, Failed pick: 108
+P565:
+C565 -> Picked: 280, Dropped: 280, Failed pick: 147
+C566 -> Picked: 173, Dropped: 173, Failed pick: 107
+P566:
+C566 -> Picked: 289, Dropped: 289, Failed pick: 167
+C567 -> Picked: 164, Dropped: 164, Failed pick: 125
+P567:
+C567 -> Picked: 288, Dropped: 288, Failed pick: 161
+C568 -> Picked: 170, Dropped: 170, Failed pick: 118
+P568:
+C568 -> Picked: 259, Dropped: 259, Failed pick: 169
+C569 -> Picked: 170, Dropped: 170, Failed pick: 89
+P569:
+C569 -> Picked: 293, Dropped: 293, Failed pick: 178
+C570 -> Picked: 160, Dropped: 160, Failed pick: 133
+P57:
+C57 -> Picked: 286, Dropped: 286, Failed pick: 165
+C58 -> Picked: 177, Dropped: 177, Failed pick: 109
+P570:
+C570 -> Picked: 281, Dropped: 281, Failed pick: 172
+C571 -> Picked: 168, Dropped: 168, Failed pick: 113
+P571:
+C571 -> Picked: 258, Dropped: 258, Failed pick: 169
+C572 -> Picked: 155, Dropped: 155, Failed pick: 103
+P572:
+C572 -> Picked: 286, Dropped: 286, Failed pick: 174
+C573 -> Picked: 166, Dropped: 166, Failed pick: 120
+P573:
+C573 -> Picked: 268, Dropped: 268, Failed pick: 168
+C574 -> Picked: 171, Dropped: 171, Failed pick: 97
+P574:
+C574 -> Picked: 280, Dropped: 280, Failed pick: 164
+C575 -> Picked: 170, Dropped: 170, Failed pick: 110
+P575:
+C575 -> Picked: 285, Dropped: 285, Failed pick: 163
+C576 -> Picked: 169, Dropped: 169, Failed pick: 116
+P576:
+C576 -> Picked: 284, Dropped: 284, Failed pick: 157
+C577 -> Picked: 175, Dropped: 175, Failed pick: 109
+P577:
+C577 -> Picked: 272, Dropped: 272, Failed pick: 177
+C578 -> Picked: 178, Dropped: 178, Failed pick: 94
+P578:
+C578 -> Picked: 277, Dropped: 277, Failed pick: 199
+C579 -> Picked: 154, Dropped: 154, Failed pick: 123
+P579:
+C579 -> Picked: 278, Dropped: 278, Failed pick: 163
+C580 -> Picked: 191, Dropped: 191, Failed pick: 87
+P58:
+C58 -> Picked: 268, Dropped: 268, Failed pick: 179
+C59 -> Picked: 163, Dropped: 163, Failed pick: 105
+P580:
+C580 -> Picked: 274, Dropped: 274, Failed pick: 200
+C581 -> Picked: 151, Dropped: 151, Failed pick: 123
+P581:
+C581 -> Picked: 293, Dropped: 293, Failed pick: 151
+C582 -> Picked: 188, Dropped: 188, Failed pick: 105
+P582:
+C582 -> Picked: 260, Dropped: 260, Failed pick: 175
+C583 -> Picked: 167, Dropped: 167, Failed pick: 93
+P583:
+C583 -> Picked: 272, Dropped: 272, Failed pick: 181
+C584 -> Picked: 152, Dropped: 152, Failed pick: 120
+P584:
+C584 -> Picked: 269, Dropped: 269, Failed pick: 168
+C585 -> Picked: 160, Dropped: 160, Failed pick: 109
+P585:
+C585 -> Picked: 277, Dropped: 277, Failed pick: 169
+C586 -> Picked: 168, Dropped: 168, Failed pick: 109
+P586:
+C586 -> Picked: 277, Dropped: 277, Failed pick: 168
+C587 -> Picked: 165, Dropped: 165, Failed pick: 112
+P587:
+C587 -> Picked: 274, Dropped: 274, Failed pick: 174
+C588 -> Picked: 172, Dropped: 172, Failed pick: 102
+P588:
+C588 -> Picked: 269, Dropped: 269, Failed pick: 176
+C589 -> Picked: 161, Dropped: 161, Failed pick: 108
+P589:
+C589 -> Picked: 283, Dropped: 283, Failed pick: 159
+C590 -> Picked: 169, Dropped: 169, Failed pick: 114
+P59:
+C59 -> Picked: 271, Dropped: 271, Failed pick: 168
+C60 -> Picked: 169, Dropped: 169, Failed pick: 102
+P590:
+C590 -> Picked: 251, Dropped: 251, Failed pick: 178
+C591 -> Picked: 154, Dropped: 154, Failed pick: 97
+P591:
+C591 -> Picked: 279, Dropped: 279, Failed pick: 154
+C592 -> Picked: 163, Dropped: 163, Failed pick: 116
+P592:
+C592 -> Picked: 251, Dropped: 251, Failed pick: 170
+C593 -> Picked: 171, Dropped: 171, Failed pick: 80
+P593:
+C593 -> Picked: 284, Dropped: 284, Failed pick: 178
+C594 -> Picked: 140, Dropped: 140, Failed pick: 144
+P594:
+C594 -> Picked: 303, Dropped: 303, Failed pick: 136
+C595 -> Picked: 185, Dropped: 185, Failed pick: 118
+P595:
+C595 -> Picked: 259, Dropped: 259, Failed pick: 189
+C596 -> Picked: 167, Dropped: 167, Failed pick: 92
+P596:
+C596 -> Picked: 291, Dropped: 291, Failed pick: 156
+C597 -> Picked: 168, Dropped: 168, Failed pick: 123
+P597:
+C597 -> Picked: 266, Dropped: 266, Failed pick: 167
+C598 -> Picked: 173, Dropped: 173, Failed pick: 93
+P598:
+C598 -> Picked: 273, Dropped: 273, Failed pick: 191
+C599 -> Picked: 167, Dropped: 167, Failed pick: 106
+P599:
+C599 -> Picked: 261, Dropped: 261, Failed pick: 169
+C600 -> Picked: 166, Dropped: 166, Failed pick: 95
+P60:
+C60 -> Picked: 286, Dropped: 286, Failed pick: 188
+C61 -> Picked: 158, Dropped: 158, Failed pick: 128
+P600:
+C600 -> Picked: 258, Dropped: 258, Failed pick: 189
+C601 -> Picked: 162, Dropped: 162, Failed pick: 96
+P601:
+C601 -> Picked: 274, Dropped: 274, Failed pick: 169
+C602 -> Picked: 166, Dropped: 166, Failed pick: 108
+P602:
+C602 -> Picked: 292, Dropped: 292, Failed pick: 164
+C603 -> Picked: 181, Dropped: 181, Failed pick: 111
+P603:
+C603 -> Picked: 268, Dropped: 268, Failed pick: 174
+C604 -> Picked: 168, Dropped: 168, Failed pick: 100
+P604:
+C604 -> Picked: 297, Dropped: 297, Failed pick: 188
+C605 -> Picked: 164, Dropped: 164, Failed pick: 133
+P605:
+C605 -> Picked: 287, Dropped: 287, Failed pick: 190
+C606 -> Picked: 189, Dropped: 189, Failed pick: 98
+P606:
+C606 -> Picked: 257, Dropped: 257, Failed pick: 175
+C607 -> Picked: 165, Dropped: 165, Failed pick: 92
+P607:
+C607 -> Picked: 274, Dropped: 274, Failed pick: 162
+C608 -> Picked: 172, Dropped: 172, Failed pick: 102
+P608:
+C608 -> Picked: 250, Dropped: 250, Failed pick: 161
+C609 -> Picked: 148, Dropped: 148, Failed pick: 102
+P609:
+C609 -> Picked: 284, Dropped: 284, Failed pick: 147
+C610 -> Picked: 188, Dropped: 188, Failed pick: 96
+P61:
+C61 -> Picked: 274, Dropped: 274, Failed pick: 153
+C62 -> Picked: 178, Dropped: 178, Failed pick: 96
+P610:
+C610 -> Picked: 255, Dropped: 255, Failed pick: 202
+C611 -> Picked: 159, Dropped: 159, Failed pick: 96
+P611:
+C611 -> Picked: 274, Dropped: 274, Failed pick: 159
+C612 -> Picked: 166, Dropped: 166, Failed pick: 108
+P612:
+C612 -> Picked: 279, Dropped: 279, Failed pick: 191
+C613 -> Picked: 168, Dropped: 168, Failed pick: 111
+P613:
+C613 -> Picked: 290, Dropped: 290, Failed pick: 155
+C614 -> Picked: 183, Dropped: 183, Failed pick: 107
+P614:
+C614 -> Picked: 262, Dropped: 262, Failed pick: 183
+C615 -> Picked: 143, Dropped: 143, Failed pick: 119
+P615:
+C615 -> Picked: 295, Dropped: 295, Failed pick: 148
+C616 -> Picked: 182, Dropped: 182, Failed pick: 113
+P616:
+C616 -> Picked: 255, Dropped: 255, Failed pick: 196
+C617 -> Picked: 158, Dropped: 158, Failed pick: 97
+P617:
+C617 -> Picked: 270, Dropped: 270, Failed pick: 174
+C618 -> Picked: 161, Dropped: 161, Failed pick: 109
+P618:
+C618 -> Picked: 275, Dropped: 275, Failed pick: 178
+C619 -> Picked: 186, Dropped: 186, Failed pick: 89
+P619:
+C619 -> Picked: 277, Dropped: 277, Failed pick: 169
+C620 -> Picked: 161, Dropped: 161, Failed pick: 116
+P62:
+C62 -> Picked: 266, Dropped: 266, Failed pick: 193
+C63 -> Picked: 149, Dropped: 149, Failed pick: 117
+P620:
+C620 -> Picked: 289, Dropped: 289, Failed pick: 174
+C621 -> Picked: 176, Dropped: 176, Failed pick: 113
+P621:
+C621 -> Picked: 281, Dropped: 281, Failed pick: 193
+C622 -> Picked: 164, Dropped: 164, Failed pick: 117
+P622:
+C622 -> Picked: 286, Dropped: 286, Failed pick: 174
+C623 -> Picked: 179, Dropped: 179, Failed pick: 107
+P623:
+C623 -> Picked: 274, Dropped: 274, Failed pick: 186
+C624 -> Picked: 157, Dropped: 157, Failed pick: 117
+P624:
+C624 -> Picked: 278, Dropped: 278, Failed pick: 144
+C625 -> Picked: 175, Dropped: 175, Failed pick: 103
+P625:
+C625 -> Picked: 264, Dropped: 264, Failed pick: 168
+C626 -> Picked: 164, Dropped: 164, Failed pick: 100
+P626:
+C626 -> Picked: 288, Dropped: 288, Failed pick: 168
+C627 -> Picked: 183, Dropped: 183, Failed pick: 105
+P627:
+C627 -> Picked: 276, Dropped: 276, Failed pick: 177
+C628 -> Picked: 166, Dropped: 166, Failed pick: 110
+P628:
+C628 -> Picked: 272, Dropped: 272, Failed pick: 198
+C629 -> Picked: 174, Dropped: 174, Failed pick: 98
+P629:
+C629 -> Picked: 281, Dropped: 281, Failed pick: 172
+C630 -> Picked: 169, Dropped: 169, Failed pick: 112
+P63:
+C63 -> Picked: 269, Dropped: 269, Failed pick: 137
+C64 -> Picked: 175, Dropped: 175, Failed pick: 94
+P630:
+C630 -> Picked: 279, Dropped: 279, Failed pick: 155
+C631 -> Picked: 163, Dropped: 163, Failed pick: 116
+P631:
+C631 -> Picked: 283, Dropped: 283, Failed pick: 189
+C632 -> Picked: 162, Dropped: 162, Failed pick: 121
+P632:
+C632 -> Picked: 257, Dropped: 257, Failed pick: 173
+C633 -> Picked: 173, Dropped: 173, Failed pick: 84
+P633:
+C633 -> Picked: 285, Dropped: 285, Failed pick: 190
+C634 -> Picked: 169, Dropped: 169, Failed pick: 116
+P634:
+C634 -> Picked: 282, Dropped: 282, Failed pick: 162
+C635 -> Picked: 173, Dropped: 173, Failed pick: 109
+P635:
+C635 -> Picked: 265, Dropped: 265, Failed pick: 163
+C636 -> Picked: 158, Dropped: 158, Failed pick: 107
+P636:
+C636 -> Picked: 295, Dropped: 295, Failed pick: 161
+C637 -> Picked: 172, Dropped: 172, Failed pick: 123
+P637:
+C637 -> Picked: 280, Dropped: 280, Failed pick: 183
+C638 -> Picked: 171, Dropped: 171, Failed pick: 109
+P638:
+C638 -> Picked: 295, Dropped: 295, Failed pick: 171
+C639 -> Picked: 178, Dropped: 178, Failed pick: 117
+P639:
+C639 -> Picked: 279, Dropped: 279, Failed pick: 180
+C640 -> Picked: 166, Dropped: 166, Failed pick: 113
+P64:
+C64 -> Picked: 260, Dropped: 260, Failed pick: 198
+C65 -> Picked: 148, Dropped: 148, Failed pick: 112
+P640:
+C640 -> Picked: 276, Dropped: 276, Failed pick: 178
+C641 -> Picked: 160, Dropped: 160, Failed pick: 116
+P641:
+C641 -> Picked: 280, Dropped: 280, Failed pick: 171
+C642 -> Picked: 189, Dropped: 189, Failed pick: 91
+P642:
+C642 -> Picked: 260, Dropped: 260, Failed pick: 210
+C643 -> Picked: 158, Dropped: 158, Failed pick: 102
+P643:
+C643 -> Picked: 296, Dropped: 296, Failed pick: 166
+C644 -> Picked: 184, Dropped: 184, Failed pick: 112
+P644:
+C644 -> Picked: 285, Dropped: 285, Failed pick: 161
+C645 -> Picked: 172, Dropped: 172, Failed pick: 113
+P645:
+C645 -> Picked: 259, Dropped: 259, Failed pick: 183
+C646 -> Picked: 161, Dropped: 161, Failed pick: 98
+P646:
+C646 -> Picked: 283, Dropped: 283, Failed pick: 155
+C647 -> Picked: 173, Dropped: 173, Failed pick: 110
+P647:
+C647 -> Picked: 281, Dropped: 281, Failed pick: 168
+C648 -> Picked: 172, Dropped: 172, Failed pick: 109
+P648:
+C648 -> Picked: 274, Dropped: 274, Failed pick: 175
+C649 -> Picked: 152, Dropped: 152, Failed pick: 122
+P649:
+C649 -> Picked: 276, Dropped: 276, Failed pick: 155
+C650 -> Picked: 170, Dropped: 170, Failed pick: 106
+P65:
+C65 -> Picked: 295, Dropped: 295, Failed pick: 157
+C66 -> Picked: 181, Dropped: 181, Failed pick: 114
+P650:
+C650 -> Picked: 270, Dropped: 270, Failed pick: 161
+C651 -> Picked: 158, Dropped: 158, Failed pick: 112
+P651:
+C651 -> Picked: 278, Dropped: 278, Failed pick: 164
+C652 -> Picked: 173, Dropped: 173, Failed pick: 105
+P652:
+C652 -> Picked: 279, Dropped: 279, Failed pick: 178
+C653 -> Picked: 174, Dropped: 174, Failed pick: 105
+P653:
+C653 -> Picked: 283, Dropped: 283, Failed pick: 168
+C654 -> Picked: 171, Dropped: 171, Failed pick: 112
+P654:
+C654 -> Picked: 280, Dropped: 280, Failed pick: 163
+C655 -> Picked: 163, Dropped: 163, Failed pick: 117
+P655:
+C655 -> Picked: 266, Dropped: 266, Failed pick: 162
+C656 -> Picked: 159, Dropped: 159, Failed pick: 107
+P656:
+C656 -> Picked: 277, Dropped: 277, Failed pick: 170
+C657 -> Picked: 169, Dropped: 169, Failed pick: 108
+P657:
+C657 -> Picked: 281, Dropped: 281, Failed pick: 163
+C658 -> Picked: 158, Dropped: 158, Failed pick: 123
+P658:
+C658 -> Picked: 285, Dropped: 285, Failed pick: 149
+C659 -> Picked: 179, Dropped: 179, Failed pick: 106
+P659:
+C659 -> Picked: 274, Dropped: 274, Failed pick: 198
+C660 -> Picked: 166, Dropped: 166, Failed pick: 108
+P66:
+C66 -> Picked: 264, Dropped: 264, Failed pick: 175
+C67 -> Picked: 162, Dropped: 162, Failed pick: 102
+P660:
+C660 -> Picked: 280, Dropped: 280, Failed pick: 177
+C661 -> Picked: 191, Dropped: 191, Failed pick: 89
+P661:
+C661 -> Picked: 270, Dropped: 270, Failed pick: 170
+C662 -> Picked: 154, Dropped: 154, Failed pick: 116
+P662:
+C662 -> Picked: 280, Dropped: 280, Failed pick: 159
+C663 -> Picked: 166, Dropped: 166, Failed pick: 114
+P663:
+C663 -> Picked: 292, Dropped: 292, Failed pick: 164
+C664 -> Picked: 185, Dropped: 185, Failed pick: 107
+P664:
+C664 -> Picked: 265, Dropped: 265, Failed pick: 171
+C665 -> Picked: 149, Dropped: 149, Failed pick: 116
+P665:
+C665 -> Picked: 275, Dropped: 275, Failed pick: 172
+C666 -> Picked: 180, Dropped: 180, Failed pick: 95
+P666:
+C666 -> Picked: 259, Dropped: 259, Failed pick: 197
+C667 -> Picked: 164, Dropped: 164, Failed pick: 95
+P667:
+C667 -> Picked: 290, Dropped: 290, Failed pick: 173
+C668 -> Picked: 174, Dropped: 174, Failed pick: 116
+P668:
+C668 -> Picked: 281, Dropped: 281, Failed pick: 168
+C669 -> Picked: 170, Dropped: 170, Failed pick: 111
+P669:
+C669 -> Picked: 278, Dropped: 278, Failed pick: 188
+C670 -> Picked: 173, Dropped: 173, Failed pick: 105
+P67:
+C67 -> Picked: 278, Dropped: 278, Failed pick: 160
+C68 -> Picked: 180, Dropped: 180, Failed pick: 98
+P670:
+C670 -> Picked: 267, Dropped: 267, Failed pick: 176
+C671 -> Picked: 158, Dropped: 158, Failed pick: 109
+P671:
+C671 -> Picked: 292, Dropped: 292, Failed pick: 147
+C672 -> Picked: 158, Dropped: 158, Failed pick: 134
+P672:
+C672 -> Picked: 271, Dropped: 271, Failed pick: 165
+C673 -> Picked: 179, Dropped: 179, Failed pick: 92
+P673:
+C673 -> Picked: 280, Dropped: 280, Failed pick: 191
+C674 -> Picked: 164, Dropped: 164, Failed pick: 116
+P674:
+C674 -> Picked: 289, Dropped: 289, Failed pick: 157
+C675 -> Picked: 168, Dropped: 168, Failed pick: 121
+P675:
+C675 -> Picked: 266, Dropped: 266, Failed pick: 186
+C676 -> Picked: 159, Dropped: 159, Failed pick: 107
+P676:
+C676 -> Picked: 292, Dropped: 292, Failed pick: 161
+C677 -> Picked: 169, Dropped: 169, Failed pick: 123
+P677:
+C677 -> Picked: 310, Dropped: 310, Failed pick: 177
+C678 -> Picked: 176, Dropped: 176, Failed pick: 134
+P678:
+C678 -> Picked: 283, Dropped: 283, Failed pick: 168
+C679 -> Picked: 161, Dropped: 161, Failed pick: 122
+P679:
+C679 -> Picked: 258, Dropped: 258, Failed pick: 180
+C680 -> Picked: 172, Dropped: 172, Failed pick: 86
+P68:
+C68 -> Picked: 269, Dropped: 269, Failed pick: 175
+C69 -> Picked: 155, Dropped: 155, Failed pick: 114
+P680:
+C680 -> Picked: 267, Dropped: 267, Failed pick: 181
+C681 -> Picked: 158, Dropped: 158, Failed pick: 109
+P681:
+C681 -> Picked: 277, Dropped: 277, Failed pick: 151
+C682 -> Picked: 175, Dropped: 175, Failed pick: 102
+P682:
+C682 -> Picked: 275, Dropped: 275, Failed pick: 183
+C683 -> Picked: 173, Dropped: 173, Failed pick: 102
+P683:
+C683 -> Picked: 282, Dropped: 282, Failed pick: 153
+C684 -> Picked: 170, Dropped: 170, Failed pick: 112
+P684:
+C684 -> Picked: 282, Dropped: 282, Failed pick: 165
+C685 -> Picked: 168, Dropped: 168, Failed pick: 114
+P685:
+C685 -> Picked: 264, Dropped: 264, Failed pick: 178
+C686 -> Picked: 169, Dropped: 169, Failed pick: 95
+P686:
+C686 -> Picked: 260, Dropped: 260, Failed pick: 173
+C687 -> Picked: 143, Dropped: 143, Failed pick: 117
+P687:
+C687 -> Picked: 295, Dropped: 295, Failed pick: 132
+C688 -> Picked: 170, Dropped: 170, Failed pick: 125
+P688:
+C688 -> Picked: 268, Dropped: 268, Failed pick: 168
+C689 -> Picked: 171, Dropped: 171, Failed pick: 97
+P689:
+C689 -> Picked: 269, Dropped: 269, Failed pick: 188
+C690 -> Picked: 157, Dropped: 157, Failed pick: 112
+P69:
+C69 -> Picked: 291, Dropped: 291, Failed pick: 167
+C70 -> Picked: 173, Dropped: 173, Failed pick: 118
+P690:
+C690 -> Picked: 300, Dropped: 300, Failed pick: 147
+C691 -> Picked: 170, Dropped: 170, Failed pick: 130
+P691:
+C691 -> Picked: 274, Dropped: 274, Failed pick: 196
+C692 -> Picked: 175, Dropped: 175, Failed pick: 99
+P692:
+C692 -> Picked: 293, Dropped: 293, Failed pick: 141
+C693 -> Picked: 178, Dropped: 178, Failed pick: 115
+P693:
+C693 -> Picked: 270, Dropped: 270, Failed pick: 192
+C694 -> Picked: 166, Dropped: 166, Failed pick: 104
+P694:
+C694 -> Picked: 269, Dropped: 269, Failed pick: 150
+C695 -> Picked: 167, Dropped: 167, Failed pick: 102
+P695:
+C695 -> Picked: 278, Dropped: 278, Failed pick: 182
+C696 -> Picked: 153, Dropped: 153, Failed pick: 125
+P696:
+C696 -> Picked: 276, Dropped: 276, Failed pick: 146
+C697 -> Picked: 183, Dropped: 183, Failed pick: 93
+P697:
+C697 -> Picked: 256, Dropped: 256, Failed pick: 175
+C698 -> Picked: 150, Dropped: 150, Failed pick: 106
+P698:
+C698 -> Picked: 292, Dropped: 292, Failed pick: 153
+C699 -> Picked: 184, Dropped: 184, Failed pick: 108
+P699:
+C699 -> Picked: 266, Dropped: 266, Failed pick: 197
+C700 -> Picked: 162, Dropped: 162, Failed pick: 104
+P70:
+C70 -> Picked: 262, Dropped: 262, Failed pick: 187
+C71 -> Picked: 171, Dropped: 171, Failed pick: 91
+P700:
+C700 -> Picked: 279, Dropped: 279, Failed pick: 154
+C701 -> Picked: 186, Dropped: 186, Failed pick: 93
+P701:
+C701 -> Picked: 275, Dropped: 275, Failed pick: 198
+C702 -> Picked: 160, Dropped: 160, Failed pick: 115
+P702:
+C702 -> Picked: 286, Dropped: 286, Failed pick: 150
+C703 -> Picked: 172, Dropped: 172, Failed pick: 114
+P703:
+C703 -> Picked: 276, Dropped: 276, Failed pick: 174
+C704 -> Picked: 159, Dropped: 159, Failed pick: 117
+P704:
+C704 -> Picked: 270, Dropped: 270, Failed pick: 146
+C705 -> Picked: 172, Dropped: 172, Failed pick: 98
+P705:
+C705 -> Picked: 265, Dropped: 265, Failed pick: 195
+C706 -> Picked: 158, Dropped: 158, Failed pick: 107
+P706:
+C706 -> Picked: 295, Dropped: 295, Failed pick: 162
+C707 -> Picked: 180, Dropped: 180, Failed pick: 115
+P707:
+C707 -> Picked: 268, Dropped: 268, Failed pick: 187
+C708 -> Picked: 152, Dropped: 152, Failed pick: 116
+P708:
+C708 -> Picked: 273, Dropped: 273, Failed pick: 176
+C709 -> Picked: 173, Dropped: 173, Failed pick: 100
+P709:
+C709 -> Picked: 264, Dropped: 264, Failed pick: 168
+C710 -> Picked: 153, Dropped: 153, Failed pick: 111
+P71:
+C71 -> Picked: 267, Dropped: 267, Failed pick: 186
+C72 -> Picked: 172, Dropped: 172, Failed pick: 95
+P710:
+C710 -> Picked: 269, Dropped: 269, Failed pick: 152
+C711 -> Picked: 171, Dropped: 171, Failed pick: 98
+P711:
+C711 -> Picked: 255, Dropped: 255, Failed pick: 187
+C712 -> Picked: 145, Dropped: 145, Failed pick: 110
+P712:
+C712 -> Picked: 282, Dropped: 282, Failed pick: 165
+C713 -> Picked: 168, Dropped: 168, Failed pick: 114
+P713:
+C713 -> Picked: 270, Dropped: 270, Failed pick: 179
+C714 -> Picked: 158, Dropped: 158, Failed pick: 112
+P714:
+C714 -> Picked: 279, Dropped: 279, Failed pick: 170
+C715 -> Picked: 168, Dropped: 168, Failed pick: 111
+P715:
+C715 -> Picked: 284, Dropped: 284, Failed pick: 187
+C716 -> Picked: 169, Dropped: 169, Failed pick: 115
+P716:
+C716 -> Picked: 293, Dropped: 293, Failed pick: 176
+C717 -> Picked: 179, Dropped: 179, Failed pick: 114
+P717:
+C717 -> Picked: 283, Dropped: 283, Failed pick: 171
+C718 -> Picked: 154, Dropped: 154, Failed pick: 129
+P718:
+C718 -> Picked: 273, Dropped: 273, Failed pick: 157
+C719 -> Picked: 172, Dropped: 172, Failed pick: 101
+P719:
+C719 -> Picked: 270, Dropped: 270, Failed pick: 167
+C720 -> Picked: 170, Dropped: 170, Failed pick: 100
+P72:
+C72 -> Picked: 267, Dropped: 267, Failed pick: 182
+C73 -> Picked: 159, Dropped: 159, Failed pick: 108
+P720:
+C720 -> Picked: 283, Dropped: 283, Failed pick: 167
+C721 -> Picked: 155, Dropped: 155, Failed pick: 128
+P721:
+C721 -> Picked: 303, Dropped: 303, Failed pick: 158
+C722 -> Picked: 184, Dropped: 184, Failed pick: 119
+P722:
+C722 -> Picked: 277, Dropped: 277, Failed pick: 162
+C723 -> Picked: 162, Dropped: 162, Failed pick: 115
+P723:
+C723 -> Picked: 285, Dropped: 285, Failed pick: 168
+C724 -> Picked: 165, Dropped: 165, Failed pick: 120
+P724:
+C724 -> Picked: 297, Dropped: 297, Failed pick: 169
+C725 -> Picked: 187, Dropped: 187, Failed pick: 110
+P725:
+C725 -> Picked: 280, Dropped: 280, Failed pick: 188
+C726 -> Picked: 153, Dropped: 153, Failed pick: 127
+P726:
+C726 -> Picked: 288, Dropped: 288, Failed pick: 160
+C727 -> Picked: 178, Dropped: 178, Failed pick: 110
+P727:
+C727 -> Picked: 286, Dropped: 286, Failed pick: 180
+C728 -> Picked: 163, Dropped: 163, Failed pick: 123
+P728:
+C728 -> Picked: 287, Dropped: 287, Failed pick: 166
+C729 -> Picked: 164, Dropped: 164, Failed pick: 123
+P729:
+C729 -> Picked: 297, Dropped: 297, Failed pick: 157
+C730 -> Picked: 165, Dropped: 165, Failed pick: 132
+P73:
+C73 -> Picked: 296, Dropped: 296, Failed pick: 159
+C74 -> Picked: 169, Dropped: 169, Failed pick: 127
+P730:
+C730 -> Picked: 286, Dropped: 286, Failed pick: 181
+C731 -> Picked: 187, Dropped: 187, Failed pick: 99
+P731:
+C731 -> Picked: 282, Dropped: 282, Failed pick: 183
+C732 -> Picked: 163, Dropped: 163, Failed pick: 119
+P732:
+C732 -> Picked: 297, Dropped: 297, Failed pick: 151
+C733 -> Picked: 186, Dropped: 186, Failed pick: 111
+P733:
+C733 -> Picked: 278, Dropped: 278, Failed pick: 197
+C734 -> Picked: 162, Dropped: 162, Failed pick: 116
+P734:
+C734 -> Picked: 281, Dropped: 281, Failed pick: 143
+C735 -> Picked: 171, Dropped: 171, Failed pick: 110
+P735:
+C735 -> Picked: 257, Dropped: 257, Failed pick: 160
+C736 -> Picked: 166, Dropped: 166, Failed pick: 91
+P736:
+C736 -> Picked: 266, Dropped: 266, Failed pick: 182
+C737 -> Picked: 162, Dropped: 162, Failed pick: 104
+P737:
+C737 -> Picked: 270, Dropped: 270, Failed pick: 176
+C738 -> Picked: 166, Dropped: 166, Failed pick: 104
+P738:
+C738 -> Picked: 278, Dropped: 278, Failed pick: 195
+C739 -> Picked: 168, Dropped: 168, Failed pick: 110
+P739:
+C739 -> Picked: 278, Dropped: 278, Failed pick: 178
+C740 -> Picked: 165, Dropped: 165, Failed pick: 113
+P74:
+C74 -> Picked: 272, Dropped: 272, Failed pick: 178
+C75 -> Picked: 179, Dropped: 179, Failed pick: 93
+P740:
+C740 -> Picked: 276, Dropped: 276, Failed pick: 166
+C741 -> Picked: 160, Dropped: 160, Failed pick: 116
+P741:
+C741 -> Picked: 281, Dropped: 281, Failed pick: 169
+C742 -> Picked: 159, Dropped: 159, Failed pick: 122
+P742:
+C742 -> Picked: 268, Dropped: 268, Failed pick: 165
+C743 -> Picked: 175, Dropped: 175, Failed pick: 93
+P743:
+C743 -> Picked: 270, Dropped: 270, Failed pick: 176
+C744 -> Picked: 152, Dropped: 152, Failed pick: 118
+P744:
+C744 -> Picked: 274, Dropped: 274, Failed pick: 150
+C745 -> Picked: 168, Dropped: 168, Failed pick: 106
+P745:
+C745 -> Picked: 267, Dropped: 267, Failed pick: 209
+C746 -> Picked: 159, Dropped: 159, Failed pick: 108
+P746:
+C746 -> Picked: 279, Dropped: 279, Failed pick: 170
+C747 -> Picked: 181, Dropped: 181, Failed pick: 98
+P747:
+C747 -> Picked: 275, Dropped: 275, Failed pick: 176
+C748 -> Picked: 171, Dropped: 171, Failed pick: 104
+P748:
+C748 -> Picked: 285, Dropped: 285, Failed pick: 179
+C749 -> Picked: 167, Dropped: 167, Failed pick: 118
+P749:
+C749 -> Picked: 276, Dropped: 276, Failed pick: 163
+C750 -> Picked: 172, Dropped: 172, Failed pick: 104
+P75:
+C75 -> Picked: 255, Dropped: 255, Failed pick: 188
+C76 -> Picked: 156, Dropped: 156, Failed pick: 99
+P750:
+C750 -> Picked: 277, Dropped: 277, Failed pick: 175
+C751 -> Picked: 160, Dropped: 160, Failed pick: 117
+P751:
+C751 -> Picked: 277, Dropped: 277, Failed pick: 163
+C752 -> Picked: 166, Dropped: 166, Failed pick: 111
+P752:
+C752 -> Picked: 269, Dropped: 269, Failed pick: 169
+C753 -> Picked: 159, Dropped: 159, Failed pick: 110
+P753:
+C753 -> Picked: 271, Dropped: 271, Failed pick: 179
+C754 -> Picked: 176, Dropped: 176, Failed pick: 95
+P754:
+C754 -> Picked: 280, Dropped: 280, Failed pick: 175
+C755 -> Picked: 158, Dropped: 158, Failed pick: 122
+P755:
+C755 -> Picked: 296, Dropped: 296, Failed pick: 151
+C756 -> Picked: 176, Dropped: 176, Failed pick: 120
+P756:
+C756 -> Picked: 302, Dropped: 302, Failed pick: 172
+C757 -> Picked: 169, Dropped: 169, Failed pick: 133
+P757:
+C757 -> Picked: 274, Dropped: 274, Failed pick: 172
+C758 -> Picked: 185, Dropped: 185, Failed pick: 89
+P758:
+C758 -> Picked: 274, Dropped: 274, Failed pick: 160
+C759 -> Picked: 156, Dropped: 156, Failed pick: 118
+P759:
+C759 -> Picked: 277, Dropped: 277, Failed pick: 173
+C760 -> Picked: 163, Dropped: 163, Failed pick: 114
+P76:
+C76 -> Picked: 284, Dropped: 284, Failed pick: 158
+C77 -> Picked: 165, Dropped: 165, Failed pick: 119
+P760:
+C760 -> Picked: 271, Dropped: 271, Failed pick: 174
+C761 -> Picked: 158, Dropped: 158, Failed pick: 113
+P761:
+C761 -> Picked: 279, Dropped: 279, Failed pick: 175
+C762 -> Picked: 167, Dropped: 167, Failed pick: 112
+P762:
+C762 -> Picked: 276, Dropped: 276, Failed pick: 159
+C763 -> Picked: 167, Dropped: 167, Failed pick: 109
+P763:
+C763 -> Picked: 269, Dropped: 269, Failed pick: 195
+C764 -> Picked: 162, Dropped: 162, Failed pick: 107
+P764:
+C764 -> Picked: 287, Dropped: 287, Failed pick: 183
+C765 -> Picked: 169, Dropped: 169, Failed pick: 118
+P765:
+C765 -> Picked: 266, Dropped: 266, Failed pick: 166
+C766 -> Picked: 186, Dropped: 186, Failed pick: 80
+P766:
+C766 -> Picked: 273, Dropped: 273, Failed pick: 190
+C767 -> Picked: 152, Dropped: 152, Failed pick: 121
+P767:
+C767 -> Picked: 289, Dropped: 289, Failed pick: 146
+C768 -> Picked: 185, Dropped: 185, Failed pick: 104
+P768:
+C768 -> Picked: 266, Dropped: 266, Failed pick: 193
+C769 -> Picked: 159, Dropped: 159, Failed pick: 107
+P769:
+C769 -> Picked: 308, Dropped: 308, Failed pick: 146
+C770 -> Picked: 186, Dropped: 186, Failed pick: 122
+P77:
+C77 -> Picked: 275, Dropped: 275, Failed pick: 182
+C78 -> Picked: 167, Dropped: 167, Failed pick: 108
+P770:
+C770 -> Picked: 249, Dropped: 249, Failed pick: 187
+C771 -> Picked: 155, Dropped: 155, Failed pick: 94
+P771:
+C771 -> Picked: 271, Dropped: 271, Failed pick: 172
+C772 -> Picked: 155, Dropped: 155, Failed pick: 116
+P772:
+C772 -> Picked: 280, Dropped: 280, Failed pick: 165
+C773 -> Picked: 179, Dropped: 179, Failed pick: 101
+P773:
+C773 -> Picked: 289, Dropped: 289, Failed pick: 205
+C774 -> Picked: 169, Dropped: 169, Failed pick: 120
+P774:
+C774 -> Picked: 285, Dropped: 285, Failed pick: 150
+C775 -> Picked: 168, Dropped: 168, Failed pick: 117
+P775:
+C775 -> Picked: 256, Dropped: 256, Failed pick: 191
+C776 -> Picked: 157, Dropped: 157, Failed pick: 99
+P776:
+C776 -> Picked: 267, Dropped: 267, Failed pick: 173
+C777 -> Picked: 171, Dropped: 171, Failed pick: 96
+P777:
+C777 -> Picked: 271, Dropped: 271, Failed pick: 175
+C778 -> Picked: 163, Dropped: 163, Failed pick: 108
+P778:
+C778 -> Picked: 270, Dropped: 270, Failed pick: 182
+C779 -> Picked: 163, Dropped: 163, Failed pick: 107
+P779:
+C779 -> Picked: 276, Dropped: 276, Failed pick: 168
+C780 -> Picked: 178, Dropped: 178, Failed pick: 98
+P78:
+C78 -> Picked: 289, Dropped: 289, Failed pick: 174
+C79 -> Picked: 169, Dropped: 169, Failed pick: 120
+P780:
+C780 -> Picked: 263, Dropped: 263, Failed pick: 179
+C781 -> Picked: 162, Dropped: 162, Failed pick: 101
+P781:
+C781 -> Picked: 278, Dropped: 278, Failed pick: 169
+C782 -> Picked: 175, Dropped: 175, Failed pick: 103
+P782:
+C782 -> Picked: 268, Dropped: 268, Failed pick: 185
+C783 -> Picked: 160, Dropped: 160, Failed pick: 108
+P783:
+C783 -> Picked: 277, Dropped: 277, Failed pick: 167
+C784 -> Picked: 169, Dropped: 169, Failed pick: 108
+P784:
+C784 -> Picked: 260, Dropped: 260, Failed pick: 180
+C785 -> Picked: 162, Dropped: 162, Failed pick: 98
+P785:
+C785 -> Picked: 281, Dropped: 281, Failed pick: 173
+C786 -> Picked: 161, Dropped: 161, Failed pick: 120
+P786:
+C786 -> Picked: 280, Dropped: 280, Failed pick: 183
+C787 -> Picked: 176, Dropped: 176, Failed pick: 104
+P787:
+C787 -> Picked: 288, Dropped: 288, Failed pick: 176
+C788 -> Picked: 158, Dropped: 158, Failed pick: 130
+P788:
+C788 -> Picked: 278, Dropped: 278, Failed pick: 135
+C789 -> Picked: 188, Dropped: 188, Failed pick: 90
+P789:
+C789 -> Picked: 257, Dropped: 257, Failed pick: 208
+C790 -> Picked: 150, Dropped: 150, Failed pick: 107
+P79:
+C79 -> Picked: 279, Dropped: 279, Failed pick: 171
+C80 -> Picked: 154, Dropped: 154, Failed pick: 125
+P790:
+C790 -> Picked: 293, Dropped: 293, Failed pick: 159
+C791 -> Picked: 179, Dropped: 179, Failed pick: 114
+P791:
+C791 -> Picked: 269, Dropped: 269, Failed pick: 165
+C792 -> Picked: 161, Dropped: 161, Failed pick: 108
+P792:
+C792 -> Picked: 266, Dropped: 266, Failed pick: 182
+C793 -> Picked: 156, Dropped: 156, Failed pick: 110
+P793:
+C793 -> Picked: 289, Dropped: 289, Failed pick: 161
+C794 -> Picked: 168, Dropped: 168, Failed pick: 121
+P794:
+C794 -> Picked: 293, Dropped: 293, Failed pick: 180
+C795 -> Picked: 180, Dropped: 180, Failed pick: 113
+P795:
+C795 -> Picked: 275, Dropped: 275, Failed pick: 158
+C796 -> Picked: 164, Dropped: 164, Failed pick: 111
+P796:
+C796 -> Picked: 271, Dropped: 271, Failed pick: 181
+C797 -> Picked: 169, Dropped: 169, Failed pick: 102
+P797:
+C797 -> Picked: 288, Dropped: 288, Failed pick: 172
+C798 -> Picked: 171, Dropped: 171, Failed pick: 117
+P798:
+C798 -> Picked: 271, Dropped: 271, Failed pick: 160
+C799 -> Picked: 164, Dropped: 164, Failed pick: 107
+P799:
+C799 -> Picked: 259, Dropped: 259, Failed pick: 183
+C800 -> Picked: 159, Dropped: 159, Failed pick: 100
+P80:
+C80 -> Picked: 293, Dropped: 293, Failed pick: 159
+C81 -> Picked: 180, Dropped: 180, Failed pick: 113
+P800:
+C800 -> Picked: 275, Dropped: 275, Failed pick: 172
+C801 -> Picked: 176, Dropped: 176, Failed pick: 99
+P801:
+C801 -> Picked: 279, Dropped: 279, Failed pick: 167
+C802 -> Picked: 168, Dropped: 168, Failed pick: 111
+P802:
+C802 -> Picked: 303, Dropped: 303, Failed pick: 168
+C803 -> Picked: 175, Dropped: 175, Failed pick: 128
+P803:
+C803 -> Picked: 280, Dropped: 280, Failed pick: 195
+C804 -> Picked: 165, Dropped: 165, Failed pick: 115
+P804:
+C804 -> Picked: 276, Dropped: 276, Failed pick: 161
+C805 -> Picked: 179, Dropped: 179, Failed pick: 97
+P805:
+C805 -> Picked: 253, Dropped: 253, Failed pick: 191
+C806 -> Picked: 148, Dropped: 148, Failed pick: 105
+P806:
+C806 -> Picked: 280, Dropped: 280, Failed pick: 152
+C807 -> Picked: 186, Dropped: 186, Failed pick: 94
+P807:
+C807 -> Picked: 275, Dropped: 275, Failed pick: 195
+C808 -> Picked: 144, Dropped: 144, Failed pick: 131
+P808:
+C808 -> Picked: 300, Dropped: 300, Failed pick: 126
+C809 -> Picked: 177, Dropped: 177, Failed pick: 123
+P809:
+C809 -> Picked: 274, Dropped: 274, Failed pick: 185
+C810 -> Picked: 171, Dropped: 171, Failed pick: 103
+P81:
+C81 -> Picked: 283, Dropped: 283, Failed pick: 185
+C82 -> Picked: 165, Dropped: 165, Failed pick: 118
+P810:
+C810 -> Picked: 275, Dropped: 275, Failed pick: 172
+C811 -> Picked: 155, Dropped: 155, Failed pick: 120
+P811:
+C811 -> Picked: 254, Dropped: 254, Failed pick: 173
+C812 -> Picked: 159, Dropped: 159, Failed pick: 95
+P812:
+C812 -> Picked: 277, Dropped: 277, Failed pick: 167
+C813 -> Picked: 168, Dropped: 168, Failed pick: 109
+P813:
+C813 -> Picked: 276, Dropped: 276, Failed pick: 172
+C814 -> Picked: 181, Dropped: 181, Failed pick: 95
+P814:
+C814 -> Picked: 246, Dropped: 246, Failed pick: 205
+C815 -> Picked: 155, Dropped: 155, Failed pick: 91
+P815:
+C815 -> Picked: 285, Dropped: 285, Failed pick: 152
+C816 -> Picked: 168, Dropped: 168, Failed pick: 117
+P816:
+C816 -> Picked: 263, Dropped: 263, Failed pick: 160
+C817 -> Picked: 168, Dropped: 168, Failed pick: 95
+P817:
+C817 -> Picked: 282, Dropped: 282, Failed pick: 187
+C818 -> Picked: 158, Dropped: 158, Failed pick: 124
+P818:
+C818 -> Picked: 270, Dropped: 270, Failed pick: 162
+C819 -> Picked: 168, Dropped: 168, Failed pick: 102
+P819:
+C819 -> Picked: 265, Dropped: 265, Failed pick: 179
+C820 -> Picked: 171, Dropped: 171, Failed pick: 94
+P82:
+C82 -> Picked: 277, Dropped: 277, Failed pick: 180
+C83 -> Picked: 163, Dropped: 163, Failed pick: 114
+P820:
+C820 -> Picked: 294, Dropped: 294, Failed pick: 174
+C821 -> Picked: 168, Dropped: 168, Failed pick: 126
+P821:
+C821 -> Picked: 261, Dropped: 261, Failed pick: 172
+C822 -> Picked: 159, Dropped: 159, Failed pick: 102
+P822:
+C822 -> Picked: 270, Dropped: 270, Failed pick: 161
+C823 -> Picked: 171, Dropped: 171, Failed pick: 99
+P823:
+C823 -> Picked: 280, Dropped: 280, Failed pick: 171
+C824 -> Picked: 174, Dropped: 174, Failed pick: 106
+P824:
+C824 -> Picked: 274, Dropped: 274, Failed pick: 176
+C825 -> Picked: 173, Dropped: 173, Failed pick: 101
+P825:
+C825 -> Picked: 289, Dropped: 289, Failed pick: 170
+C826 -> Picked: 164, Dropped: 164, Failed pick: 125
+P826:
+C826 -> Picked: 309, Dropped: 309, Failed pick: 175
+C827 -> Picked: 180, Dropped: 180, Failed pick: 129
+P827:
+C827 -> Picked: 269, Dropped: 269, Failed pick: 171
+C828 -> Picked: 170, Dropped: 170, Failed pick: 99
+P828:
+C828 -> Picked: 265, Dropped: 265, Failed pick: 172
+C829 -> Picked: 172, Dropped: 172, Failed pick: 93
+P829:
+C829 -> Picked: 257, Dropped: 257, Failed pick: 187
+C830 -> Picked: 156, Dropped: 156, Failed pick: 101
+P83:
+C83 -> Picked: 284, Dropped: 284, Failed pick: 155
+C84 -> Picked: 171, Dropped: 171, Failed pick: 113
+P830:
+C830 -> Picked: 288, Dropped: 288, Failed pick: 153
+C831 -> Picked: 172, Dropped: 172, Failed pick: 116
+P831:
+C831 -> Picked: 283, Dropped: 283, Failed pick: 172
+C832 -> Picked: 176, Dropped: 176, Failed pick: 107
+P832:
+C832 -> Picked: 259, Dropped: 259, Failed pick: 180
+C833 -> Picked: 166, Dropped: 166, Failed pick: 93
+P833:
+C833 -> Picked: 273, Dropped: 273, Failed pick: 157
+C834 -> Picked: 169, Dropped: 169, Failed pick: 104
+P834:
+C834 -> Picked: 294, Dropped: 294, Failed pick: 165
+C835 -> Picked: 172, Dropped: 172, Failed pick: 122
+P835:
+C835 -> Picked: 285, Dropped: 285, Failed pick: 169
+C836 -> Picked: 175, Dropped: 175, Failed pick: 110
+P836:
+C836 -> Picked: 280, Dropped: 280, Failed pick: 180
+C837 -> Picked: 167, Dropped: 167, Failed pick: 113
+P837:
+C837 -> Picked: 283, Dropped: 283, Failed pick: 172
+C838 -> Picked: 172, Dropped: 172, Failed pick: 111
+P838:
+C838 -> Picked: 260, Dropped: 260, Failed pick: 169
+C839 -> Picked: 163, Dropped: 163, Failed pick: 97
+P839:
+C839 -> Picked: 279, Dropped: 279, Failed pick: 180
+C840 -> Picked: 161, Dropped: 161, Failed pick: 118
+P84:
+C84 -> Picked: 274, Dropped: 274, Failed pick: 196
+C85 -> Picked: 160, Dropped: 160, Failed pick: 114
+P840:
+C840 -> Picked: 269, Dropped: 269, Failed pick: 159
+C841 -> Picked: 163, Dropped: 163, Failed pick: 106
+P841:
+C841 -> Picked: 271, Dropped: 271, Failed pick: 185
+C842 -> Picked: 163, Dropped: 163, Failed pick: 108
+P842:
+C842 -> Picked: 305, Dropped: 305, Failed pick: 175
+C843 -> Picked: 179, Dropped: 179, Failed pick: 126
+P843:
+C843 -> Picked: 281, Dropped: 281, Failed pick: 168
+C844 -> Picked: 177, Dropped: 177, Failed pick: 104
+P844:
+C844 -> Picked: 288, Dropped: 288, Failed pick: 176
+C845 -> Picked: 164, Dropped: 164, Failed pick: 124
+P845:
+C845 -> Picked: 290, Dropped: 290, Failed pick: 173
+C846 -> Picked: 174, Dropped: 174, Failed pick: 116
+P846:
+C846 -> Picked: 281, Dropped: 281, Failed pick: 175
+C847 -> Picked: 170, Dropped: 170, Failed pick: 111
+P847:
+C847 -> Picked: 278, Dropped: 278, Failed pick: 188
+C848 -> Picked: 170, Dropped: 170, Failed pick: 108
+P848:
+C848 -> Picked: 274, Dropped: 274, Failed pick: 162
+C849 -> Picked: 168, Dropped: 168, Failed pick: 106
+P849:
+C849 -> Picked: 275, Dropped: 275, Failed pick: 180
+C850 -> Picked: 163, Dropped: 163, Failed pick: 112
+P85:
+C85 -> Picked: 290, Dropped: 290, Failed pick: 148
+C86 -> Picked: 169, Dropped: 169, Failed pick: 121
+P850:
+C850 -> Picked: 279, Dropped: 279, Failed pick: 174
+C851 -> Picked: 180, Dropped: 180, Failed pick: 99
+P851:
+C851 -> Picked: 272, Dropped: 272, Failed pick: 177
+C852 -> Picked: 176, Dropped: 176, Failed pick: 96
+P852:
+C852 -> Picked: 277, Dropped: 277, Failed pick: 165
+C853 -> Picked: 176, Dropped: 176, Failed pick: 101
+P853:
+C853 -> Picked: 281, Dropped: 281, Failed pick: 186
+C854 -> Picked: 162, Dropped: 162, Failed pick: 119
+P854:
+C854 -> Picked: 292, Dropped: 292, Failed pick: 163
+C855 -> Picked: 171, Dropped: 171, Failed pick: 121
+P855:
+C855 -> Picked: 274, Dropped: 274, Failed pick: 186
+C856 -> Picked: 161, Dropped: 161, Failed pick: 113
+P856:
+C856 -> Picked: 275, Dropped: 275, Failed pick: 174
+C857 -> Picked: 165, Dropped: 165, Failed pick: 110
+P857:
+C857 -> Picked: 289, Dropped: 289, Failed pick: 174
+C858 -> Picked: 160, Dropped: 160, Failed pick: 129
+P858:
+C858 -> Picked: 292, Dropped: 292, Failed pick: 160
+C859 -> Picked: 183, Dropped: 183, Failed pick: 109
+P859:
+C859 -> Picked: 271, Dropped: 271, Failed pick: 186
+C860 -> Picked: 169, Dropped: 169, Failed pick: 102
+P86:
+C86 -> Picked: 276, Dropped: 276, Failed pick: 160
+C87 -> Picked: 161, Dropped: 161, Failed pick: 115
+P860:
+C860 -> Picked: 297, Dropped: 297, Failed pick: 172
+C861 -> Picked: 166, Dropped: 166, Failed pick: 131
+P861:
+C861 -> Picked: 262, Dropped: 262, Failed pick: 159
+C862 -> Picked: 156, Dropped: 156, Failed pick: 106
+P862:
+C862 -> Picked: 263, Dropped: 263, Failed pick: 200
+C863 -> Picked: 158, Dropped: 158, Failed pick: 105
+P863:
+C863 -> Picked: 274, Dropped: 274, Failed pick: 166
+C864 -> Picked: 172, Dropped: 172, Failed pick: 102
+P864:
+C864 -> Picked: 264, Dropped: 264, Failed pick: 178
+C865 -> Picked: 164, Dropped: 164, Failed pick: 100
+P865:
+C865 -> Picked: 282, Dropped: 282, Failed pick: 176
+C866 -> Picked: 166, Dropped: 166, Failed pick: 116
+P866:
+C866 -> Picked: 274, Dropped: 274, Failed pick: 155
+C867 -> Picked: 174, Dropped: 174, Failed pick: 100
+P867:
+C867 -> Picked: 277, Dropped: 277, Failed pick: 192
+C868 -> Picked: 161, Dropped: 161, Failed pick: 116
+P868:
+C868 -> Picked: 273, Dropped: 273, Failed pick: 159
+C869 -> Picked: 168, Dropped: 168, Failed pick: 105
+P869:
+C869 -> Picked: 280, Dropped: 280, Failed pick: 183
+C870 -> Picked: 160, Dropped: 160, Failed pick: 120
+P87:
+C87 -> Picked: 287, Dropped: 287, Failed pick: 168
+C88 -> Picked: 171, Dropped: 171, Failed pick: 116
+P870:
+C870 -> Picked: 286, Dropped: 286, Failed pick: 160
+C871 -> Picked: 172, Dropped: 172, Failed pick: 114
+P871:
+C871 -> Picked: 277, Dropped: 277, Failed pick: 184
+C872 -> Picked: 166, Dropped: 166, Failed pick: 111
+P872:
+C872 -> Picked: 260, Dropped: 260, Failed pick: 165
+C873 -> Picked: 162, Dropped: 162, Failed pick: 98
+P873:
+C873 -> Picked: 282, Dropped: 282, Failed pick: 161
+C874 -> Picked: 185, Dropped: 185, Failed pick: 97
+P874:
+C874 -> Picked: 269, Dropped: 269, Failed pick: 187
+C875 -> Picked: 160, Dropped: 160, Failed pick: 109
+P875:
+C875 -> Picked: 283, Dropped: 283, Failed pick: 175
+C876 -> Picked: 181, Dropped: 181, Failed pick: 102
+P876:
+C876 -> Picked: 275, Dropped: 275, Failed pick: 177
+C877 -> Picked: 163, Dropped: 163, Failed pick: 112
+P877:
+C877 -> Picked: 277, Dropped: 277, Failed pick: 144
+C878 -> Picked: 166, Dropped: 166, Failed pick: 111
+P878:
+C878 -> Picked: 260, Dropped: 260, Failed pick: 173
+C879 -> Picked: 162, Dropped: 162, Failed pick: 98
+P879:
+C879 -> Picked: 287, Dropped: 287, Failed pick: 166
+C880 -> Picked: 165, Dropped: 165, Failed pick: 122
+P88:
+C88 -> Picked: 273, Dropped: 273, Failed pick: 172
+C89 -> Picked: 170, Dropped: 170, Failed pick: 103
+P880:
+C880 -> Picked: 284, Dropped: 284, Failed pick: 161
+C881 -> Picked: 174, Dropped: 174, Failed pick: 110
+P881:
+C881 -> Picked: 265, Dropped: 265, Failed pick: 149
+C882 -> Picked: 173, Dropped: 173, Failed pick: 92
+P882:
+C882 -> Picked: 268, Dropped: 268, Failed pick: 183
+C883 -> Picked: 152, Dropped: 152, Failed pick: 116
+P883:
+C883 -> Picked: 281, Dropped: 281, Failed pick: 173
+C884 -> Picked: 184, Dropped: 184, Failed pick: 97
+P884:
+C884 -> Picked: 281, Dropped: 281, Failed pick: 221
+C885 -> Picked: 146, Dropped: 146, Failed pick: 135
+P885:
+C885 -> Picked: 271, Dropped: 271, Failed pick: 163
+C886 -> Picked: 177, Dropped: 177, Failed pick: 94
+P886:
+C886 -> Picked: 287, Dropped: 287, Failed pick: 189
+C887 -> Picked: 160, Dropped: 160, Failed pick: 127
+P887:
+C887 -> Picked: 278, Dropped: 278, Failed pick: 158
+C888 -> Picked: 173, Dropped: 173, Failed pick: 105
+P888:
+C888 -> Picked: 263, Dropped: 263, Failed pick: 185
+C889 -> Picked: 163, Dropped: 163, Failed pick: 100
+P889:
+C889 -> Picked: 286, Dropped: 286, Failed pick: 187
+C890 -> Picked: 171, Dropped: 171, Failed pick: 115
+P89:
+C89 -> Picked: 269, Dropped: 269, Failed pick: 187
+C90 -> Picked: 158, Dropped: 158, Failed pick: 111
+P890:
+C890 -> Picked: 281, Dropped: 281, Failed pick: 174
+C891 -> Picked: 158, Dropped: 158, Failed pick: 123
+P891:
+C891 -> Picked: 278, Dropped: 278, Failed pick: 168
+C892 -> Picked: 174, Dropped: 174, Failed pick: 104
+P892:
+C892 -> Picked: 281, Dropped: 281, Failed pick: 202
+C893 -> Picked: 174, Dropped: 174, Failed pick: 107
+P893:
+C893 -> Picked: 291, Dropped: 291, Failed pick: 169
+C894 -> Picked: 176, Dropped: 176, Failed pick: 115
+P894:
+C894 -> Picked: 260, Dropped: 260, Failed pick: 184
+C895 -> Picked: 165, Dropped: 165, Failed pick: 95
+P895:
+C895 -> Picked: 262, Dropped: 262, Failed pick: 168
+C896 -> Picked: 157, Dropped: 157, Failed pick: 105
+P896:
+C896 -> Picked: 277, Dropped: 277, Failed pick: 158
+C897 -> Picked: 165, Dropped: 165, Failed pick: 112
+P897:
+C897 -> Picked: 248, Dropped: 248, Failed pick: 191
+C898 -> Picked: 157, Dropped: 157, Failed pick: 91
+P898:
+C898 -> Picked: 297, Dropped: 297, Failed pick: 170
+C899 -> Picked: 175, Dropped: 175, Failed pick: 122
+P899:
+C899 -> Picked: 276, Dropped: 276, Failed pick: 143
+C900 -> Picked: 170, Dropped: 170, Failed pick: 106
+P90:
+C90 -> Picked: 293, Dropped: 293, Failed pick: 161
+C91 -> Picked: 175, Dropped: 175, Failed pick: 118
+P900:
+C900 -> Picked: 276, Dropped: 276, Failed pick: 185
+C901 -> Picked: 168, Dropped: 168, Failed pick: 108
+P901:
+C901 -> Picked: 287, Dropped: 287, Failed pick: 171
+C902 -> Picked: 176, Dropped: 176, Failed pick: 111
+P902:
+C902 -> Picked: 278, Dropped: 278, Failed pick: 177
+C903 -> Picked: 166, Dropped: 166, Failed pick: 112
+P903:
+C903 -> Picked: 262, Dropped: 262, Failed pick: 184
+C904 -> Picked: 157, Dropped: 157, Failed pick: 105
+P904:
+C904 -> Picked: 275, Dropped: 275, Failed pick: 172
+C905 -> Picked: 164, Dropped: 164, Failed pick: 111
+P905:
+C905 -> Picked: 281, Dropped: 281, Failed pick: 188
+C906 -> Picked: 178, Dropped: 178, Failed pick: 103
+P906:
+C906 -> Picked: 277, Dropped: 277, Failed pick: 190
+C907 -> Picked: 152, Dropped: 152, Failed pick: 125
+P907:
+C907 -> Picked: 283, Dropped: 283, Failed pick: 177
+C908 -> Picked: 177, Dropped: 177, Failed pick: 106
+P908:
+C908 -> Picked: 279, Dropped: 279, Failed pick: 169
+C909 -> Picked: 161, Dropped: 161, Failed pick: 118
+P909:
+C909 -> Picked: 279, Dropped: 279, Failed pick: 161
+C910 -> Picked: 167, Dropped: 167, Failed pick: 112
+P91:
+C91 -> Picked: 282, Dropped: 282, Failed pick: 173
+C92 -> Picked: 173, Dropped: 173, Failed pick: 109
+P910:
+C910 -> Picked: 259, Dropped: 259, Failed pick: 169
+C911 -> Picked: 167, Dropped: 167, Failed pick: 92
+P911:
+C911 -> Picked: 271, Dropped: 271, Failed pick: 186
+C912 -> Picked: 159, Dropped: 159, Failed pick: 112
+P912:
+C912 -> Picked: 267, Dropped: 267, Failed pick: 162
+C913 -> Picked: 167, Dropped: 167, Failed pick: 100
+P913:
+C913 -> Picked: 281, Dropped: 281, Failed pick: 167
+C914 -> Picked: 181, Dropped: 181, Failed pick: 100
+P914:
+C914 -> Picked: 297, Dropped: 297, Failed pick: 170
+C915 -> Picked: 173, Dropped: 173, Failed pick: 124
+P915:
+C915 -> Picked: 272, Dropped: 272, Failed pick: 167
+C916 -> Picked: 170, Dropped: 170, Failed pick: 102
+P916:
+C916 -> Picked: 267, Dropped: 267, Failed pick: 187
+C917 -> Picked: 163, Dropped: 163, Failed pick: 104
+P917:
+C917 -> Picked: 277, Dropped: 277, Failed pick: 176
+C918 -> Picked: 173, Dropped: 173, Failed pick: 104
+P918:
+C918 -> Picked: 280, Dropped: 280, Failed pick: 170
+C919 -> Picked: 180, Dropped: 180, Failed pick: 100
+P919:
+C919 -> Picked: 308, Dropped: 308, Failed pick: 158
+C920 -> Picked: 177, Dropped: 177, Failed pick: 131
+P92:
+C92 -> Picked: 285, Dropped: 285, Failed pick: 172
+C93 -> Picked: 184, Dropped: 184, Failed pick: 101
+P920:
+C920 -> Picked: 276, Dropped: 276, Failed pick: 170
+C921 -> Picked: 147, Dropped: 147, Failed pick: 129
+P921:
+C921 -> Picked: 294, Dropped: 294, Failed pick: 170
+C922 -> Picked: 178, Dropped: 178, Failed pick: 116
+P922:
+C922 -> Picked: 277, Dropped: 277, Failed pick: 183
+C923 -> Picked: 171, Dropped: 171, Failed pick: 106
+P923:
+C923 -> Picked: 272, Dropped: 272, Failed pick: 188
+C924 -> Picked: 173, Dropped: 173, Failed pick: 99
+P924:
+C924 -> Picked: 278, Dropped: 278, Failed pick: 172
+C925 -> Picked: 169, Dropped: 169, Failed pick: 109
+P925:
+C925 -> Picked: 292, Dropped: 292, Failed pick: 168
+C926 -> Picked: 168, Dropped: 168, Failed pick: 124
+P926:
+C926 -> Picked: 286, Dropped: 286, Failed pick: 159
+C927 -> Picked: 177, Dropped: 177, Failed pick: 109
+P927:
+C927 -> Picked: 274, Dropped: 274, Failed pick: 180
+C928 -> Picked: 166, Dropped: 166, Failed pick: 108
+P928:
+C928 -> Picked: 278, Dropped: 278, Failed pick: 177
+C929 -> Picked: 170, Dropped: 170, Failed pick: 108
+P929:
+C929 -> Picked: 300, Dropped: 300, Failed pick: 178
+C930 -> Picked: 172, Dropped: 172, Failed pick: 128
+P93:
+C93 -> Picked: 286, Dropped: 286, Failed pick: 190
+C94 -> Picked: 166, Dropped: 166, Failed pick: 120
+P930:
+C930 -> Picked: 273, Dropped: 273, Failed pick: 162
+C931 -> Picked: 174, Dropped: 174, Failed pick: 99
+P931:
+C931 -> Picked: 270, Dropped: 270, Failed pick: 180
+C932 -> Picked: 165, Dropped: 165, Failed pick: 105
+P932:
+C932 -> Picked: 290, Dropped: 290, Failed pick: 160
+C933 -> Picked: 174, Dropped: 174, Failed pick: 116
+P933:
+C933 -> Picked: 262, Dropped: 262, Failed pick: 184
+C934 -> Picked: 167, Dropped: 167, Failed pick: 95
+P934:
+C934 -> Picked: 266, Dropped: 266, Failed pick: 168
+C935 -> Picked: 163, Dropped: 163, Failed pick: 103
+P935:
+C935 -> Picked: 271, Dropped: 271, Failed pick: 194
+C936 -> Picked: 157, Dropped: 157, Failed pick: 114
+P936:
+C936 -> Picked: 281, Dropped: 281, Failed pick: 167
+C937 -> Picked: 164, Dropped: 164, Failed pick: 117
+P937:
+C937 -> Picked: 268, Dropped: 268, Failed pick: 163
+C938 -> Picked: 174, Dropped: 174, Failed pick: 94
+P938:
+C938 -> Picked: 281, Dropped: 281, Failed pick: 176
+C939 -> Picked: 166, Dropped: 166, Failed pick: 115
+P939:
+C939 -> Picked: 288, Dropped: 288, Failed pick: 157
+C940 -> Picked: 174, Dropped: 174, Failed pick: 114
+P94:
+C94 -> Picked: 293, Dropped: 293, Failed pick: 153
+C95 -> Picked: 178, Dropped: 178, Failed pick: 115
+P940:
+C940 -> Picked: 257, Dropped: 257, Failed pick: 179
+C941 -> Picked: 151, Dropped: 151, Failed pick: 106
+P941:
+C941 -> Picked: 268, Dropped: 268, Failed pick: 171
+C942 -> Picked: 164, Dropped: 164, Failed pick: 104
+P942:
+C942 -> Picked: 272, Dropped: 272, Failed pick: 169
+C943 -> Picked: 152, Dropped: 152, Failed pick: 120
+P943:
+C943 -> Picked: 267, Dropped: 267, Failed pick: 176
+C944 -> Picked: 159, Dropped: 159, Failed pick: 108
+P944:
+C944 -> Picked: 286, Dropped: 286, Failed pick: 184
+C945 -> Picked: 177, Dropped: 177, Failed pick: 109
+P945:
+C945 -> Picked: 272, Dropped: 272, Failed pick: 184
+C946 -> Picked: 164, Dropped: 164, Failed pick: 108
+P946:
+C946 -> Picked: 288, Dropped: 288, Failed pick: 145
+C947 -> Picked: 185, Dropped: 185, Failed pick: 103
+P947:
+C947 -> Picked: 273, Dropped: 273, Failed pick: 179
+C948 -> Picked: 173, Dropped: 173, Failed pick: 100
+P948:
+C948 -> Picked: 285, Dropped: 285, Failed pick: 168
+C949 -> Picked: 185, Dropped: 185, Failed pick: 100
+P949:
+C949 -> Picked: 271, Dropped: 271, Failed pick: 164
+C950 -> Picked: 166, Dropped: 166, Failed pick: 105
+P95:
+C95 -> Picked: 252, Dropped: 252, Failed pick: 186
+C96 -> Picked: 152, Dropped: 152, Failed pick: 100
+P950:
+C950 -> Picked: 274, Dropped: 274, Failed pick: 174
+C951 -> Picked: 171, Dropped: 171, Failed pick: 103
+P951:
+C951 -> Picked: 278, Dropped: 278, Failed pick: 170
+C952 -> Picked: 170, Dropped: 170, Failed pick: 108
+P952:
+C952 -> Picked: 285, Dropped: 285, Failed pick: 157
+C953 -> Picked: 169, Dropped: 169, Failed pick: 116
+P953:
+C953 -> Picked: 281, Dropped: 281, Failed pick: 188
+C954 -> Picked: 175, Dropped: 175, Failed pick: 106
+P954:
+C954 -> Picked: 271, Dropped: 271, Failed pick: 176
+C955 -> Picked: 164, Dropped: 164, Failed pick: 107
+P955:
+C955 -> Picked: 276, Dropped: 276, Failed pick: 190
+C956 -> Picked: 150, Dropped: 150, Failed pick: 126
+P956:
+C956 -> Picked: 304, Dropped: 304, Failed pick: 150
+C957 -> Picked: 185, Dropped: 185, Failed pick: 119
+P957:
+C957 -> Picked: 267, Dropped: 267, Failed pick: 172
+C958 -> Picked: 172, Dropped: 172, Failed pick: 95
+P958:
+C958 -> Picked: 265, Dropped: 265, Failed pick: 179
+C959 -> Picked: 163, Dropped: 163, Failed pick: 102
+P959:
+C959 -> Picked: 272, Dropped: 272, Failed pick: 155
+C960 -> Picked: 160, Dropped: 160, Failed pick: 112
+P96:
+C96 -> Picked: 270, Dropped: 270, Failed pick: 165
+C97 -> Picked: 159, Dropped: 159, Failed pick: 111
+P960:
+C960 -> Picked: 280, Dropped: 280, Failed pick: 158
+C961 -> Picked: 170, Dropped: 170, Failed pick: 110
+P961:
+C961 -> Picked: 276, Dropped: 276, Failed pick: 176
+C962 -> Picked: 176, Dropped: 176, Failed pick: 100
+P962:
+C962 -> Picked: 281, Dropped: 281, Failed pick: 170
+C963 -> Picked: 167, Dropped: 167, Failed pick: 114
+P963:
+C963 -> Picked: 273, Dropped: 273, Failed pick: 169
+C964 -> Picked: 164, Dropped: 164, Failed pick: 109
+P964:
+C964 -> Picked: 263, Dropped: 263, Failed pick: 177
+C965 -> Picked: 161, Dropped: 161, Failed pick: 102
+P965:
+C965 -> Picked: 291, Dropped: 291, Failed pick: 165
+C966 -> Picked: 186, Dropped: 186, Failed pick: 105
+P966:
+C966 -> Picked: 288, Dropped: 288, Failed pick: 182
+C967 -> Picked: 172, Dropped: 172, Failed pick: 116
+P967:
+C967 -> Picked: 283, Dropped: 283, Failed pick: 159
+C968 -> Picked: 183, Dropped: 183, Failed pick: 100
+P968:
+C968 -> Picked: 266, Dropped: 266, Failed pick: 173
+C969 -> Picked: 160, Dropped: 160, Failed pick: 106
+P969:
+C969 -> Picked: 273, Dropped: 273, Failed pick: 172
+C970 -> Picked: 157, Dropped: 157, Failed pick: 116
+P97:
+C97 -> Picked: 283, Dropped: 283, Failed pick: 178
+C98 -> Picked: 171, Dropped: 171, Failed pick: 112
+P970:
+C970 -> Picked: 274, Dropped: 274, Failed pick: 175
+C971 -> Picked: 157, Dropped: 157, Failed pick: 117
+P971:
+C971 -> Picked: 287, Dropped: 287, Failed pick: 177
+C972 -> Picked: 180, Dropped: 180, Failed pick: 107
+P972:
+C972 -> Picked: 281, Dropped: 281, Failed pick: 181
+C973 -> Picked: 177, Dropped: 177, Failed pick: 104
+P973:
+C973 -> Picked: 306, Dropped: 306, Failed pick: 176
+C974 -> Picked: 182, Dropped: 182, Failed pick: 124
+P974:
+C974 -> Picked: 272, Dropped: 272, Failed pick: 182
+C975 -> Picked: 167, Dropped: 167, Failed pick: 105
+P975:
+C975 -> Picked: 273, Dropped: 273, Failed pick: 172
+C976 -> Picked: 152, Dropped: 152, Failed pick: 121
+P976:
+C976 -> Picked: 280, Dropped: 280, Failed pick: 156
+C977 -> Picked: 178, Dropped: 178, Failed pick: 102
+P977:
+C977 -> Picked: 264, Dropped: 264, Failed pick: 185
+C978 -> Picked: 167, Dropped: 167, Failed pick: 97
+P978:
+C978 -> Picked: 297, Dropped: 297, Failed pick: 182
+C979 -> Picked: 174, Dropped: 174, Failed pick: 123
+P979:
+C979 -> Picked: 290, Dropped: 290, Failed pick: 174
+C980 -> Picked: 180, Dropped: 180, Failed pick: 110
+P98:
+C98 -> Picked: 271, Dropped: 271, Failed pick: 172
+C99 -> Picked: 173, Dropped: 173, Failed pick: 98
+P980:
+C980 -> Picked: 270, Dropped: 270, Failed pick: 199
+C981 -> Picked: 181, Dropped: 181, Failed pick: 89
+P981:
+C981 -> Picked: 303, Dropped: 303, Failed pick: 185
+C982 -> Picked: 173, Dropped: 173, Failed pick: 130
+P982:
+C982 -> Picked: 266, Dropped: 266, Failed pick: 156
+C983 -> Picked: 177, Dropped: 177, Failed pick: 89
+P983:
+C983 -> Picked: 273, Dropped: 273, Failed pick: 179
+C984 -> Picked: 159, Dropped: 159, Failed pick: 114
+P984:
+C984 -> Picked: 280, Dropped: 280, Failed pick: 151
+C985 -> Picked: 173, Dropped: 173, Failed pick: 107
+P985:
+C985 -> Picked: 262, Dropped: 262, Failed pick: 182
+C986 -> Picked: 170, Dropped: 170, Failed pick: 92
+P986:
+C986 -> Picked: 290, Dropped: 290, Failed pick: 187
+C987 -> Picked: 163, Dropped: 163, Failed pick: 127
+P987:
+C987 -> Picked: 295, Dropped: 295, Failed pick: 159
+C988 -> Picked: 170, Dropped: 170, Failed pick: 125
+P988:
+C988 -> Picked: 280, Dropped: 280, Failed pick: 173
+C989 -> Picked: 170, Dropped: 170, Failed pick: 110
+P989:
+C989 -> Picked: 278, Dropped: 278, Failed pick: 177
+C990 -> Picked: 164, Dropped: 164, Failed pick: 114
+P99:
+C100 -> Picked: 153, Dropped: 153, Failed pick: 117
+C99 -> Picked: 270, Dropped: 270, Failed pick: 173
+P990:
+C990 -> Picked: 281, Dropped: 281, Failed pick: 163
+C991 -> Picked: 176, Dropped: 176, Failed pick: 105
+P991:
+C991 -> Picked: 262, Dropped: 262, Failed pick: 180
+C992 -> Picked: 159, Dropped: 159, Failed pick: 103
+P992:
+C992 -> Picked: 281, Dropped: 281, Failed pick: 164
+C993 -> Picked: 173, Dropped: 173, Failed pick: 108
+P993:
+C993 -> Picked: 285, Dropped: 285, Failed pick: 163
+C994 -> Picked: 176, Dropped: 176, Failed pick: 109
+P994:
+C994 -> Picked: 285, Dropped: 285, Failed pick: 170
+C995 -> Picked: 169, Dropped: 169, Failed pick: 116
+P995:
+C995 -> Picked: 295, Dropped: 295, Failed pick: 140
+C996 -> Picked: 170, Dropped: 170, Failed pick: 125
+P996:
+C996 -> Picked: 287, Dropped: 287, Failed pick: 167
+C997 -> Picked: 161, Dropped: 161, Failed pick: 126
+P997:
+C997 -> Picked: 297, Dropped: 297, Failed pick: 169
+C998 -> Picked: 166, Dropped: 166, Failed pick: 131
+P998:
+C998 -> Picked: 289, Dropped: 289, Failed pick: 170
+C999 -> Picked: 175, Dropped: 175, Failed pick: 114
+P999:
+C00 -> Picked: 169, Dropped: 169, Failed pick: 114
+C999 -> Picked: 283, Dropped: 283, Failed pick: 179

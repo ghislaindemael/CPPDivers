@@ -21,26 +21,23 @@ bool isLogLineValid(const std::string& line, std::regex& pattern) {
 }
 
 
-int getNumberOfPhilosopher(std::ifstream& logFile, std::regex& pattern){
-    int highestID = -1;
-    std::string line;
+int getMaxPhilID(std::ifstream& logFile){
 
-    while (std::getline(logFile, line)) {
-        if(isLogLineValid(line, pattern)) {
-            std::istringstream iss(line);
-            std::string word;
+    std::string firstLine;
+    std::regex pattern(R"(NUM_PHIL\s*\d+)");
+    std::getline(logFile, firstLine);
 
-            for (int i = 0; i < 4; ++i) {
-                iss >> word;
-            }
+    if (isLogLineValid(firstLine, pattern)) {
+        std::istringstream iss(firstLine);
+        std::string word;
+        std::vector<std::string> words;
 
-            if (!word.empty() && word[0] == 'P') {
-                int id = std::stoi(word.substr(1));
-                highestID = std::max(highestID, id);
-            }
+        while (iss >> word) {
+            words.push_back(word);
         }
+        return std::stoi(words[1]) - 1;
     }
-    return highestID;
+    return 0;
 }
 
 int getID(const std::string& id){
@@ -62,24 +59,27 @@ void recordChopInteractions(const std::vector<std::string>& words, int maxPhilID
     const std::string& action = words[4];
     const std::string& chopstick = words[5];
 
-    auto& philosopherMap = chopInteractions[philosopher];
-    auto& interactions = philosopherMap[chopstick];
+    if(chopstick != "XX") {
 
-    if (interactions.empty()) {
-        interactions = std::vector<int>(3, 0);
-    }
+        auto &philosopherMap = chopInteractions[philosopher];
+        auto &interactions = philosopherMap[chopstick];
 
-    if (action == "PICKS") {
-        interactions[0]++;
-        isInteractionLegal(philosopher, chopstick, maxPhilID);
-    } else if (action == "FAILS_PICK") {
-        interactions[1]++;
-        isInteractionLegal(philosopher, chopstick, maxPhilID);
-    } else if (action == "DROPS") {
-        interactions[2]++;
-        isInteractionLegal(philosopher, chopstick, maxPhilID);
-    } else {
-        // Ignore
+        if (interactions.empty()) {
+            interactions = std::vector<int>(3, 0);
+        }
+
+        if (action == "PICKS") {
+            interactions[0]++;
+            isInteractionLegal(philosopher, chopstick, maxPhilID);
+        } else if (action == "FAILS_PICK") {
+            interactions[1]++;
+            isInteractionLegal(philosopher, chopstick, maxPhilID);
+        } else if (action == "DROPS") {
+            interactions[2]++;
+            isInteractionLegal(philosopher, chopstick, maxPhilID);
+        } else {
+            // Ignore
+        }
     }
 
 }
@@ -169,7 +169,7 @@ bool updatePhiloState(std::vector<std::string>& words, std::map<std::string, Pos
 }
 
 int checkDinner(const std::string& dinner_id) {
-    std::cout << "Starting review of dinner: " << dinner_id << ".\n";
+    std::cout << "Starting review of dinner: " << dinner_id << "\n";
     std::ifstream logFile(projectDir + "dinners/" + dinner_id + "_log");
     std::ifstream logFileCopy(projectDir + "dinners/" + dinner_id + "_log");
     std::ofstream reviewFile(projectDir + "dinners/" + dinner_id + "_review", std::ios::trunc);
@@ -186,62 +186,67 @@ int checkDinner(const std::string& dinner_id) {
 
     std::regex pattern(R"(\s*(\d+)\s*ms\s*\|\s*P(\d+)\s+(SEATS|LEAVES|PICKS|FAILS_PICK|DROPS|STARTS_THINKING|STOPS_THINKING|STARTS_EATING|STOPS_EATING)\s*(C\d+|XX)?\s*)");
 
-    int numberOfPhils { getNumberOfPhilosopher(logFileCopy, pattern) };
-    std::cout << "There were " << numberOfPhils << " philosophers at the dinner.\n";
-    logFileCopy.close();
+    int maxPhilId {getMaxPhilID(logFile) };
 
-    std::map<std::string, std::map<std::string, std::vector<int>>> chopInteractions {};
-    std::map<std::string, int> numChopSticks;
-    std::map<std::string, std::vector<int>> eatCount;
-    std::map<std::string, bool> chopstickTaken;
-    std::map<std::string, PossibleStates> philoState;
+    if(maxPhilId < 1){
+        std::cout << "Could not extract the number of philosophers. Stopping review.\n";
+        return 0;
+    } else {
+        std::cout << "There were " << (maxPhilId + 1) << " philosophers at the dinner.\n";
 
-    std::string line;
-    int lineCount { 1 };
+        std::map<std::string, std::map<std::string, std::vector<int>>> chopInteractions{};
+        std::map<std::string, int> numChopSticks;
+        std::map<std::string, std::vector<int>> eatCount;
+        std::map<std::string, bool> chopstickTaken;
+        std::map<std::string, PossibleStates> philoState;
 
-    while (std::getline(logFile, line)) {
-        if (!line.empty()) {
-            if(isLogLineValid(line, pattern)) {
-                std::istringstream iss(line);
-                std::string word;
-                std::vector<std::string> words;
+        std::string line;
+        int lineCount{2};
 
-                while (iss >> word) {
-                    words.push_back(word);
+        while (std::getline(logFile, line)) {
+            if (!line.empty()) {
+                if (isLogLineValid(line, pattern)) {
+                    std::istringstream iss(line);
+                    std::string word;
+                    std::vector<std::string> words;
+
+                    while (iss >> word) {
+                        words.push_back(word);
+                    }
+                    if (!updateChopState(words, chopstickTaken)
+                        || !updatePhiloState(words, philoState)
+                        || !twoChopsticksInHand(words, numChopSticks, eatCount)) {
+                        std::cout << "Log line in question : " << lineCount << "\n";
+                    }
+                    recordChopInteractions(words, maxPhilId, chopInteractions);
+                } else {
+                    std::cout << "Line " << lineCount << " is not a valid log line.\n";
                 }
-                if(!updateChopState(words, chopstickTaken)
-                || !updatePhiloState(words, philoState)
-                || !twoChopsticksInHand(words, numChopSticks, eatCount)){
-                    std::cout << "Log line in question : " << lineCount << "\n";
-                }
-                recordChopInteractions(words, numberOfPhils, chopInteractions);
-            } else {
-                std::cout << "Line " << lineCount << " is not a valid log line.\n";
+            }
+            ++lineCount;
+        }
+
+        for (const auto &philosopherEntry: chopInteractions) {
+            const std::string &philosopher = philosopherEntry.first;
+            const std::map<std::string, std::vector<int>> &chopstickMap = philosopherEntry.second;
+
+            reviewFile << philosopher << ":\n";
+
+            for (const auto &chopstickEntry: chopstickMap) {
+                const std::string &chopstick = chopstickEntry.first;
+                const std::vector<int> &interactions = chopstickEntry.second;
+
+                reviewFile << chopstick << " -> ";
+                reviewFile << "Picked: " << interactions[0] << ", ";
+                reviewFile << "Dropped: " << interactions[2] << ", ";
+                reviewFile << "Failed pick: " << interactions[1] << "\n";
+
             }
         }
-        ++lineCount;
+
+        logFile.close();
+        reviewFile.close();
     }
-
-    for (const auto& philosopherEntry : chopInteractions) {
-        const std::string& philosopher = philosopherEntry.first;
-        const std::map<std::string, std::vector<int>>& chopstickMap = philosopherEntry.second;
-
-        reviewFile << philosopher << ":\n";
-
-        for (const auto& chopstickEntry : chopstickMap) {
-            const std::string& chopstick = chopstickEntry.first;
-            const std::vector<int>& interactions = chopstickEntry.second;
-
-            reviewFile << chopstick << " -> ";
-            reviewFile << "Picked: " << interactions[0] << ", ";
-            reviewFile << "Dropped: " << interactions[2] <<", ";
-            reviewFile << "Failed pick: " << interactions[1] << "\n";
-
-        }
-    }
-
-    logFile.close();
-    reviewFile.close();
 
     return 0;
 }

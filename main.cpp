@@ -8,7 +8,7 @@
 int main(int argc, char** argv) {
     if (!(std::filesystem::exists(projectDir) && std::filesystem::is_directory(projectDir))) {
         std::cout << "projectDir is not configured properly.";
-        exit(-1);
+        return 1;
     }
     if (!std::filesystem::exists(projectDir + "dinners")) {
         std::filesystem::create_directory(projectDir + "dinners");
@@ -16,7 +16,7 @@ int main(int argc, char** argv) {
     if(argc != 7){
         std::cout << "Wrong number of arguments passed.\n";
         std::cout << "Right format is : main dinId, genDinner, numPhilo, dinnerTime, timeToEat, , chkDinner.\n";
-        exit(-1);
+        return 1;
     } else {
         bool genDinner;
         int numPhilo;
@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
             numPhilo = std::stoi(argv[3]);
             dinnerTime = std::stoi(argv[4]);
             timeToEat = std::stoi(argv[5]);
-            timeToThink = std::round(1.1*timeToEat);
+            timeToThink = static_cast<int>(std::round(1.1*timeToEat));
             if(numPhilo < 2 || dinnerTime <= 0 || timeToEat <= 0 || timeToThink <= 0){
                 throw std::exception();
             }
@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
             }
         } catch (...) {
             std::cout << "Invalid parameters entered";
-            exit(-1);
+            return 1;
         }
         if(genDinner){
             dinner(argv[1], numPhilo, dinnerTime, timeToEat, timeToThink);

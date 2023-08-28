@@ -47,6 +47,12 @@ public:
         return "C" + (chop->id < 10 ? '0' + std::to_string(chop->id) : std::to_string(chop->id));
     }
 
+    void logNumberOfPhilosophers(int n_phil){
+        std::lock_guard<std::mutex> lock(logMutex);
+        logQueue.push("NUM_PHIL " + std::to_string(n_phil) + "\n");
+        logCondition.notify_one();
+    }
+
     void logSeatAtTable(int p_id){
         std::lock_guard<std::mutex> lock(logMutex);
         logQueue.push(getTimeDiff() + formatPID(p_id) + " SEATS XX\n");
@@ -204,6 +210,8 @@ int dinner(const std::string& dinner_id, int numPhilo, int dinnerTime, int timeT
         std::shared_ptr<ThreadSafeLogger> loggerPtr{
                 std::make_shared<ThreadSafeLogger>(projectDir + "dinners/" + dinner_id)};
 
+        loggerPtr->logNumberOfPhilosophers(numPhilo);
+
         std::vector<std::shared_ptr<Chopstick>> chopsticks;
         for (int i = 0; i < numPhilo; ++i) {
             chopsticks.push_back(std::make_shared<Chopstick>(i));
@@ -211,15 +219,17 @@ int dinner(const std::string& dinner_id, int numPhilo, int dinnerTime, int timeT
 
         std::vector<std::unique_ptr<Philosopher>> philosophers;
         for (int i = 0; i < numPhilo; ++i) {
+            /*
             if(i % 100 == 0){
                 std::cout << i << " ";
             }
+             */
 
-            philosophers.push_back(
-                    std::make_unique<Philosopher>(i, timeToEat, timeToThink, chopsticks[i], chopsticks[(i + 1) % numPhilo],
+            philosophers.push_back(std::make_unique<Philosopher>(
+                    i, timeToEat, timeToThink, chopsticks[i], chopsticks[(i + 1) % numPhilo],
                                                   loggerPtr));
         }
-        std::cout << "\n";
+        //std::cout << "\n";
 
         std::this_thread::sleep_for(std::chrono::seconds(dinnerTime));
         for (int i = 0; i < numPhilo; ++i) {
